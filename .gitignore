@@ -1,0 +1,36 @@
+# Datasets (too large for git)
+datasets/
+datasets.zip
+train_cropped.zip
+val_cropped.zip
+cropped2.zip
+datasets_structure.zip
+*.zip
+
+# YOLO training outputs
+runs/
+
+# PQ evaluation outputs
+PQ/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+*.log

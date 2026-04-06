@@ -1,0 +1,56 @@
+0. 가상환경 생성
+
+1. yolo 다운 후 패키지 설치
+파이썬 3.10.12 버전
+
+pip install -r requirements.txt
+pip install ultralytics
+pip install tqdm
+pip install pycocotools
+pip install pandas
+pip install numpy==1.26.4
+pip install "git+https://github.com/cocodataset/panopticapi.git"
+
+
+2. yolo 가상환경 안에 datasets 폴더 만들고, 그 안에 train_data , val_data 폴더 만들기
+
+datasets/
+	train_data/
+	val_data/
+bin/
+include/
+lib/
+lib64/
+runs/
+share/
+requirements
+yolo11s-seg.pt
+0_remove_cargo.py
+1_remove_small_filter.py
+2_remap_labelme_exact.py
+3_annotations_to_instances.py
+4_labels_yolo.py
+5_GT_mask.py
+6_instance_to_panoptic.py
+7_pred_mask.py
+8_yolopred_to_panoptic.py
+9_pq_calculator.py
+run_data_preprocessing.py
+run_pq_eval.py
+
+
+3. train_data, val_data 폴더 안에 데이터 (이미지, 폴리곤 json 파일 세트) 넣어주기
+
+4. 파이썬 파일 복사
+0_remove_cargo.py  ~ 9_pq_calculator.py 까지 파이썬 파일 복사
+
+5. 데이터 전처리 코드 실행
+python run_data_preprocessing.py 실행
+
+
+[학습]
+yolo task=segment mode=train data=datasets/data.yaml model=yolo11s-seg.pt epochs=500 imgsz=640
+
+
+6. pq 후속평가 코드 실행
+python run_pq_eval.py

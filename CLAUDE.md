@@ -58,6 +58,28 @@ handler, rebar, structure steel, mixed steel, heavy iron, panel, square pipe, me
 
 Code is written on MacBook and synced to GPU cluster via `sync-to-cluster.sh`. Training runs on cluster nodes (node002 has Python 3.10 + RTX A6000 × 8). The cluster uses a shared home directory (`/home/user/chihunlee/scrap/`).
 
+## 실행 환경
+
+- **회사 와이파이** (클러스터 접속 가능): 클러스터에서 학습
+- **집 와이파이** (클러스터 접속 불가): 맥북 로컬 실행 (`device = "mps"`, M4 Pro 48GB)
+- **Anaconda 사용 금지** — miniforge(conda-forge)만 사용
+
+## 알림 시스템 (cluster-notify)
+
+학습 완료/오류/결정 필요 시 Telegram 알림 전송:
+```python
+import sys, os
+sys.path.insert(0, os.path.expanduser("~/Code/cluster-notify"))
+from notify import training_complete, error, decision_needed, wait_for_decision
+
+# 학습 스크립트 끝에 추가
+try:
+    # ... 학습 코드 ...
+    training_complete("scrap", "YOLO11 학습 완료", f"mAP: {map50:.4f}, epochs: {epoch}")
+except Exception as e:
+    error("scrap", f"학습 오류: {e}")
+```
+
 ## Target Metrics (Paper Baseline)
 - Count Accuracy: 80.2%
 - Area Ratio Accuracy: 86.9%

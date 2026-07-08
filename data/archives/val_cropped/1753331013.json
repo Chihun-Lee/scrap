@@ -1,0 +1,5247 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          931.57,
+          585.53
+        ],
+        [
+          959.35,
+          606.47
+        ],
+        [
+          955.6,
+          610.81
+        ],
+        [
+          959.17,
+          612.46
+        ],
+        [
+          979.6,
+          596.15
+        ],
+        [
+          966.88,
+          585.4
+        ],
+        [
+          953.26,
+          579.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1018.44,
+          707.91
+        ],
+        [
+          1012.67,
+          710.38
+        ],
+        [
+          1012.13,
+          724.2
+        ],
+        [
+          1109.48,
+          673.25
+        ],
+        [
+          1108.44,
+          669.08
+        ],
+        [
+          1120.01,
+          659.59
+        ],
+        [
+          1115.15,
+          652.88
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1012.13,
+          724.2
+        ],
+        [
+          1012.0,
+          730.68
+        ],
+        [
+          1113.3,
+          679.03
+        ],
+        [
+          1117.35,
+          675.79
+        ],
+        [
+          1109.48,
+          673.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1012.0,
+          730.68
+        ],
+        [
+          1011.59,
+          740.43
+        ],
+        [
+          1011.99,
+          746.31
+        ],
+        [
+          1014.86,
+          754.57
+        ],
+        [
+          1023.46,
+          757.25
+        ],
+        [
+          1100.65,
+          716.45
+        ],
+        [
+          1096.01,
+          702.2
+        ],
+        [
+          1087.9,
+          692.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1114.41,
+          699.94
+        ],
+        [
+          1184.58,
+          661.76
+        ],
+        [
+          1184.32,
+          660.43
+        ],
+        [
+          1179.08,
+          658.54
+        ],
+        [
+          1175.66,
+          662.95
+        ],
+        [
+          1152.87,
+          674.98
+        ],
+        [
+          1124.99,
+          688.52
+        ],
+        [
+          1113.3,
+          679.03
+        ],
+        [
+          1097.29,
+          687.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1096.01,
+          702.2
+        ],
+        [
+          1105.9,
+          712.7
+        ],
+        [
+          1185.7,
+          668.1
+        ],
+        [
+          1184.58,
+          661.76
+        ],
+        [
+          1114.41,
+          699.94
+        ],
+        [
+          1097.29,
+          687.09
+        ],
+        [
+          1087.9,
+          692.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          570.49,
+          372.87
+        ],
+        [
+          583.34,
+          369.66
+        ],
+        [
+          561.08,
+          352.83
+        ],
+        [
+          553.79,
+          346.53
+        ],
+        [
+          537.41,
+          348.14
+        ],
+        [
+          535.16,
+          363.55
+        ],
+        [
+          547.42,
+          372.58
+        ],
+        [
+          570.46,
+          389.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          579.9,
+          578.52
+        ],
+        [
+          579.58,
+          591.37
+        ],
+        [
+          587.93,
+          601.97
+        ],
+        [
+          633.54,
+          580.13
+        ],
+        [
+          611.38,
+          559.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          873.01,
+          825.83
+        ],
+        [
+          873.01,
+          841.06
+        ],
+        [
+          883.04,
+          847.38
+        ],
+        [
+          1237.27,
+          657.7
+        ],
+        [
+          1237.01,
+          641.61
+        ],
+        [
+          1228.17,
+          636.11
+        ],
+        [
+          1226.24,
+          650.27
+        ],
+        [
+          1226.39,
+          659.12
+        ],
+        [
+          912.14,
+          821.11
+        ],
+        [
+          899.39,
+          811.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1473.79,
+          781.74
+        ],
+        [
+          1222.06,
+          915.71
+        ],
+        [
+          1084.64,
+          991.59
+        ],
+        [
+          1079.85,
+          1000.71
+        ],
+        [
+          1089.44,
+          1011.74
+        ],
+        [
+          1093.99,
+          1001.67
+        ],
+        [
+          1485.16,
+          791.59
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1093.99,
+          1001.67
+        ],
+        [
+          1089.44,
+          1011.74
+        ],
+        [
+          1093.5,
+          1020.61
+        ],
+        [
+          1100.97,
+          1028.07
+        ],
+        [
+          1213.98,
+          963.58
+        ],
+        [
+          1494.74,
+          817.19
+        ],
+        [
+          1499.51,
+          803.29
+        ],
+        [
+          1485.16,
+          791.59
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1110.1,
+          1030.38
+        ],
+        [
+          1120.95,
+          1038.68
+        ],
+        [
+          1225.16,
+          977.05
+        ],
+        [
+          1224.86,
+          972.94
+        ],
+        [
+          1213.98,
+          963.58
+        ],
+        [
+          1109.48,
+          1025.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1110.75,
+          1034.59
+        ],
+        [
+          1122.21,
+          1042.8
+        ],
+        [
+          1226.92,
+          984.02
+        ],
+        [
+          1226.92,
+          981.02
+        ],
+        [
+          1225.16,
+          977.05
+        ],
+        [
+          1120.95,
+          1038.68
+        ],
+        [
+          1110.1,
+          1030.38
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          106.34,
+          198.53
+        ],
+        [
+          105.41,
+          209.84
+        ],
+        [
+          113.62,
+          217.58
+        ],
+        [
+          166.6,
+          196.36
+        ],
+        [
+          147.7,
+          181.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          281.07,
+          346.81
+        ],
+        [
+          280.38,
+          359.52
+        ],
+        [
+          288.37,
+          367.62
+        ],
+        [
+          367.46,
+          337.76
+        ],
+        [
+          345.08,
+          320.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          625.05,
+          217.98
+        ],
+        [
+          617.28,
+          216.04
+        ],
+        [
+          480.69,
+          285.52
+        ],
+        [
+          484.56,
+          291.54
+        ],
+        [
+          639.53,
+          224.85
+        ],
+        [
+          640.83,
+          212.95
+        ],
+        [
+          631.73,
+          206.35
+        ],
+        [
+          624.83,
+          208.05
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          378.61,
+          311.73
+        ],
+        [
+          386.5,
+          322.13
+        ],
+        [
+          453.22,
+          278.26
+        ],
+        [
+          450.86,
+          272.66
+        ],
+        [
+          446.7,
+          269.35
+        ],
+        [
+          388.24,
+          307.92
+        ],
+        [
+          378.97,
+          299.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          461.74,
+          254.29
+        ],
+        [
+          481.02,
+          264.65
+        ],
+        [
+          536.6,
+          234.38
+        ],
+        [
+          533.9,
+          225.26
+        ],
+        [
+          513.58,
+          232.51
+        ],
+        [
+          511.71,
+          226.91
+        ],
+        [
+          470.24,
+          248.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          552.09,
+          206.87
+        ],
+        [
+          550.89,
+          215.74
+        ],
+        [
+          537.45,
+          223.18
+        ],
+        [
+          538.41,
+          224.86
+        ],
+        [
+          612.55,
+          201.35
+        ],
+        [
+          600.6,
+          181.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          375.33,
+          254.09
+        ],
+        [
+          383.23,
+          259.36
+        ],
+        [
+          385.09,
+          265.39
+        ],
+        [
+          394.23,
+          274.07
+        ],
+        [
+          401.59,
+          273.98
+        ],
+        [
+          404.13,
+          264.61
+        ],
+        [
+          413.27,
+          262.53
+        ],
+        [
+          407.7,
+          255.39
+        ],
+        [
+          374.7,
+          229.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          407.7,
+          255.39
+        ],
+        [
+          409.67,
+          248.05
+        ],
+        [
+          422.03,
+          250.37
+        ],
+        [
+          425.08,
+          244.1
+        ],
+        [
+          424.84,
+          235.49
+        ],
+        [
+          374.7,
+          229.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          425.08,
+          244.1
+        ],
+        [
+          429.02,
+          242.49
+        ],
+        [
+          452.97,
+          246.12
+        ],
+        [
+          519.32,
+          211.69
+        ],
+        [
+          513.72,
+          210.24
+        ],
+        [
+          492.99,
+          212.94
+        ],
+        [
+          478.89,
+          214.6
+        ],
+        [
+          474.12,
+          215.01
+        ],
+        [
+          470.39,
+          209.62
+        ],
+        [
+          454.21,
+          208.58
+        ],
+        [
+          424.84,
+          235.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          434.93,
+          248.41
+        ],
+        [
+          459.16,
+          253.16
+        ],
+        [
+          470.24,
+          248.27
+        ],
+        [
+          511.71,
+          226.91
+        ],
+        [
+          509.81,
+          216.76
+        ],
+        [
+          452.97,
+          246.12
+        ],
+        [
+          429.02,
+          242.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          376.49,
+          268.98
+        ],
+        [
+          385.09,
+          265.39
+        ],
+        [
+          383.23,
+          259.36
+        ],
+        [
+          375.33,
+          254.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          573.44,
+          154.91
+        ],
+        [
+          574.05,
+          161.12
+        ],
+        [
+          572.19,
+          167.55
+        ],
+        [
+          586.07,
+          165.9
+        ],
+        [
+          588.78,
+          171.7
+        ],
+        [
+          563.48,
+          188.91
+        ],
+        [
+          534.45,
+          205.08
+        ],
+        [
+          534.45,
+          209.85
+        ],
+        [
+          541.01,
+          212.59
+        ],
+        [
+          552.09,
+          206.87
+        ],
+        [
+          608.88,
+          174.24
+        ],
+        [
+          610.62,
+          169.96
+        ],
+        [
+          605.67,
+          160.72
+        ],
+        [
+          585.72,
+          146.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          524.72,
+          207.42
+        ],
+        [
+          513.72,
+          210.24
+        ],
+        [
+          519.32,
+          211.69
+        ],
+        [
+          509.81,
+          216.76
+        ],
+        [
+          511.71,
+          226.91
+        ],
+        [
+          513.58,
+          232.51
+        ],
+        [
+          533.9,
+          225.26
+        ],
+        [
+          537.45,
+          223.18
+        ],
+        [
+          550.89,
+          215.74
+        ],
+        [
+          552.09,
+          206.87
+        ],
+        [
+          541.01,
+          212.59
+        ],
+        [
+          534.45,
+          209.85
+        ],
+        [
+          534.45,
+          205.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          378.97,
+          299.9
+        ],
+        [
+          388.24,
+          307.92
+        ],
+        [
+          446.7,
+          269.35
+        ],
+        [
+          448.38,
+          262.74
+        ],
+        [
+          441.94,
+          254.85
+        ],
+        [
+          434.93,
+          248.41
+        ],
+        [
+          429.02,
+          242.49
+        ],
+        [
+          425.08,
+          244.1
+        ],
+        [
+          422.03,
+          250.37
+        ],
+        [
+          409.67,
+          248.05
+        ],
+        [
+          407.7,
+          255.39
+        ],
+        [
+          413.27,
+          262.53
+        ],
+        [
+          404.3,
+          264.82
+        ],
+        [
+          401.59,
+          273.98
+        ],
+        [
+          394.23,
+          274.07
+        ],
+        [
+          416.4,
+          287.92
+        ],
+        [
+          414.0,
+          290.0
+        ],
+        [
+          376.49,
+          268.98
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          481.02,
+          264.65
+        ],
+        [
+          460.46,
+          276.3
+        ],
+        [
+          467.3,
+          281.9
+        ],
+        [
+          469.59,
+          289.77
+        ],
+        [
+          538.56,
+          255.8
+        ],
+        [
+          534.04,
+          247.37
+        ],
+        [
+          525.37,
+          240.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          538.41,
+          224.86
+        ],
+        [
+          537.45,
+          223.18
+        ],
+        [
+          533.9,
+          225.26
+        ],
+        [
+          536.6,
+          234.38
+        ],
+        [
+          525.37,
+          240.31
+        ],
+        [
+          534.04,
+          247.37
+        ],
+        [
+          538.56,
+          255.8
+        ],
+        [
+          602.64,
+          223.56
+        ],
+        [
+          601.21,
+          213.53
+        ],
+        [
+          592.96,
+          207.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          441.94,
+          254.85
+        ],
+        [
+          448.38,
+          262.74
+        ],
+        [
+          446.7,
+          269.35
+        ],
+        [
+          450.86,
+          272.66
+        ],
+        [
+          453.22,
+          278.26
+        ],
+        [
+          460.46,
+          276.3
+        ],
+        [
+          481.02,
+          264.65
+        ],
+        [
+          461.74,
+          254.29
+        ],
+        [
+          459.16,
+          253.16
+        ],
+        [
+          434.93,
+          248.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          418.69,
+          51.65
+        ],
+        [
+          463.23,
+          67.51
+        ],
+        [
+          467.28,
+          62.18
+        ],
+        [
+          425.17,
+          47.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          461.13,
+          77.18
+        ],
+        [
+          463.17,
+          80.1
+        ],
+        [
+          495.79,
+          92.97
+        ],
+        [
+          523.06,
+          107.05
+        ],
+        [
+          521.23,
+          99.21
+        ],
+        [
+          524.27,
+          96.16
+        ],
+        [
+          495.42,
+          85.0
+        ],
+        [
+          446.63,
+          66.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          500.57,
+          119.11
+        ],
+        [
+          500.77,
+          123.01
+        ],
+        [
+          555.77,
+          147.11
+        ],
+        [
+          559.87,
+          141.81
+        ],
+        [
+          501.87,
+          114.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          527.26,
+          140.36
+        ],
+        [
+          531.46,
+          140.16
+        ],
+        [
+          531.36,
+          138.46
+        ],
+        [
+          500.77,
+          123.01
+        ],
+        [
+          500.89,
+          124.38
+        ],
+        [
+          500.76,
+          126.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          576.37,
+          492.53
+        ],
+        [
+          565.54,
+          500.3
+        ],
+        [
+          566.93,
+          521.12
+        ],
+        [
+          580.81,
+          529.17
+        ],
+        [
+          579.14,
+          496.14
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          492.23,
+          143.88
+        ],
+        [
+          477.76,
+          164.66
+        ],
+        [
+          503.67,
+          171.14
+        ],
+        [
+          496.28,
+          157.51
+        ],
+        [
+          516.19,
+          142.39
+        ],
+        [
+          512.58,
+          137.99
+        ],
+        [
+          504.15,
+          146.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          558.27,
+          159.01
+        ],
+        [
+          559.47,
+          166.71
+        ],
+        [
+          560.17,
+          181.51
+        ],
+        [
+          563.47,
+          175.41
+        ],
+        [
+          563.37,
+          167.01
+        ],
+        [
+          560.87,
+          158.01
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          554.39,
+          158.55
+        ],
+        [
+          556.26,
+          160.39
+        ],
+        [
+          557.69,
+          157.65
+        ],
+        [
+          558.79,
+          155.35
+        ],
+        [
+          558.89,
+          147.95
+        ],
+        [
+          558.29,
+          146.65
+        ],
+        [
+          555.79,
+          148.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          547.86,
+          176.87
+        ],
+        [
+          548.26,
+          185.87
+        ],
+        [
+          558.06,
+          181.87
+        ],
+        [
+          558.16,
+          174.87
+        ],
+        [
+          551.76,
+          171.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          565.43,
+          183.57
+        ],
+        [
+          563.48,
+          188.91
+        ],
+        [
+          588.78,
+          171.7
+        ],
+        [
+          586.07,
+          165.9
+        ],
+        [
+          572.19,
+          167.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          515.47,
+          190.14
+        ],
+        [
+          524.83,
+          189.66
+        ],
+        [
+          554.82,
+          170.23
+        ],
+        [
+          556.26,
+          160.39
+        ],
+        [
+          535.15,
+          141.43
+        ],
+        [
+          516.19,
+          142.39
+        ],
+        [
+          496.28,
+          157.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          843.57,
+          315.5
+        ],
+        [
+          839.97,
+          323.98
+        ],
+        [
+          817.16,
+          308.82
+        ],
+        [
+          814.47,
+          310.27
+        ],
+        [
+          815.08,
+          316.5
+        ],
+        [
+          822.14,
+          324.79
+        ],
+        [
+          817.16,
+          333.71
+        ],
+        [
+          871.83,
+          379.74
+        ],
+        [
+          904.59,
+          406.66
+        ],
+        [
+          913.2,
+          414.43
+        ],
+        [
+          934.17,
+          440.48
+        ],
+        [
+          938.57,
+          438.36
+        ],
+        [
+          935.55,
+          432.06
+        ],
+        [
+          939.86,
+          431.26
+        ],
+        [
+          943.87,
+          428.66
+        ],
+        [
+          954.25,
+          435.08
+        ],
+        [
+          959.39,
+          432.35
+        ],
+        [
+          960.99,
+          432.48
+        ],
+        [
+          983.41,
+          450.08
+        ],
+        [
+          986.59,
+          447.48
+        ],
+        [
+          965.1,
+          429.56
+        ],
+        [
+          963.31,
+          427.37
+        ],
+        [
+          966.9,
+          421.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          825.01,
+          344.56
+        ],
+        [
+          825.28,
+          349.12
+        ],
+        [
+          827.68,
+          354.74
+        ],
+        [
+          829.29,
+          358.22
+        ],
+        [
+          836.65,
+          361.97
+        ],
+        [
+          843.21,
+          362.5
+        ],
+        [
+          848.57,
+          360.36
+        ],
+        [
+          827.68,
+          342.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          497.83,
+          202.66
+        ],
+        [
+          510.83,
+          205.86
+        ],
+        [
+          522.43,
+          201.96
+        ],
+        [
+          512.13,
+          202.16
+        ],
+        [
+          503.23,
+          200.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          453.22,
+          278.26
+        ],
+        [
+          386.5,
+          322.13
+        ],
+        [
+          396.14,
+          328.7
+        ],
+        [
+          469.59,
+          289.77
+        ],
+        [
+          467.3,
+          281.9
+        ],
+        [
+          460.46,
+          276.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          547.42,
+          372.58
+        ],
+        [
+          526.6,
+          377.33
+        ],
+        [
+          533.27,
+          414.5
+        ],
+        [
+          575.18,
+          444.48
+        ],
+        [
+          570.46,
+          389.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "6.Panels",
+      "score": null,
+      "points": [
+        [
+          461.92,
+          184.33
+        ],
+        [
+          457.12,
+          195.85
+        ],
+        [
+          470.39,
+          209.62
+        ],
+        [
+          474.12,
+          215.01
+        ],
+        [
+          478.89,
+          214.6
+        ],
+        [
+          512.07,
+          184.81
+        ],
+        [
+          503.67,
+          171.14
+        ],
+        [
+          477.76,
+          164.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          376.49,
+          268.98
+        ],
+        [
+          414.0,
+          290.0
+        ],
+        [
+          416.4,
+          288.0
+        ],
+        [
+          394.23,
+          274.07
+        ],
+        [
+          385.09,
+          265.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "86. Unknown-Cabinet",
+      "score": null,
+      "points": [
+        [
+          583.34,
+          369.66
+        ],
+        [
+          570.49,
+          372.87
+        ],
+        [
+          570.46,
+          389.55
+        ],
+        [
+          575.18,
+          444.48
+        ],
+        [
+          581.87,
+          538.96
+        ],
+        [
+          601.38,
+          555.91
+        ],
+        [
+          605.02,
+          554.79
+        ],
+        [
+          611.38,
+          559.57
+        ],
+        [
+          633.54,
+          580.13
+        ],
+        [
+          899.39,
+          811.33
+        ],
+        [
+          912.14,
+          821.11
+        ],
+        [
+          1226.39,
+          659.12
+        ],
+        [
+          1226.24,
+          650.27
+        ],
+        [
+          1228.17,
+          636.11
+        ],
+        [
+          1254.58,
+          500.76
+        ],
+        [
+          912.09,
+          248.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "86. Unknown-Cabinet",
+      "score": null,
+      "points": [
+        [
+          173.94,
+          13.87
+        ],
+        [
+          160.15,
+          23.37
+        ],
+        [
+          162.31,
+          31.43
+        ],
+        [
+          116.37,
+          0.0
+        ],
+        [
+          88.79,
+          0.0
+        ],
+        [
+          96.45,
+          130.9
+        ],
+        [
+          103.32,
+          150.33
+        ],
+        [
+          345.08,
+          320.56
+        ],
+        [
+          367.46,
+          337.76
+        ],
+        [
+          377.1,
+          344.38
+        ],
+        [
+          400.7,
+          333.56
+        ],
+        [
+          480.69,
+          285.52
+        ],
+        [
+          538.56,
+          255.8
+        ],
+        [
+          602.64,
+          223.56
+        ],
+        [
+          617.28,
+          216.04
+        ],
+        [
+          625.05,
+          217.98
+        ],
+        [
+          624.83,
+          208.05
+        ],
+        [
+          618.81,
+          203.21
+        ],
+        [
+          620.07,
+          54.99
+        ],
+        [
+          530.39,
+          0.0
+        ],
+        [
+          184.71,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          411.7,
+          51.6
+        ],
+        [
+          425.8,
+          41.8
+        ],
+        [
+          419.6,
+          39.1
+        ],
+        [
+          407.43,
+          49.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          407.43,
+          49.02
+        ],
+        [
+          419.03,
+          38.23
+        ],
+        [
+          415.23,
+          31.82
+        ],
+        [
+          404.23,
+          43.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          496.86,
+          105.02
+        ],
+        [
+          518.68,
+          118.67
+        ],
+        [
+          524.71,
+          114.12
+        ],
+        [
+          520.69,
+          107.29
+        ],
+        [
+          495.79,
+          92.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          492.23,
+          143.88
+        ],
+        [
+          504.15,
+          146.16
+        ],
+        [
+          512.58,
+          137.99
+        ],
+        [
+          499.93,
+          130.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          524.83,
+          189.66
+        ],
+        [
+          512.4,
+          192.8
+        ],
+        [
+          499.5,
+          196.5
+        ],
+        [
+          496.0,
+          201.9
+        ],
+        [
+          513.2,
+          198.6
+        ],
+        [
+          529.0,
+          195.1
+        ],
+        [
+          547.86,
+          176.87
+        ],
+        [
+          551.76,
+          171.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          550.1,
+          153.6
+        ],
+        [
+          554.3,
+          155.7
+        ],
+        [
+          555.79,
+          148.95
+        ],
+        [
+          536.7,
+          139.9
+        ],
+        [
+          535.15,
+          141.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          555.68,
+          130.17
+        ],
+        [
+          560.63,
+          136.73
+        ],
+        [
+          565.41,
+          143.09
+        ],
+        [
+          567.6,
+          148.65
+        ],
+        [
+          568.35,
+          157.2
+        ],
+        [
+          567.27,
+          168.17
+        ],
+        [
+          563.47,
+          175.41
+        ],
+        [
+          560.17,
+          181.51
+        ],
+        [
+          547.85,
+          193.27
+        ],
+        [
+          513.31,
+          205.46
+        ],
+        [
+          485.2,
+          211.08
+        ],
+        [
+          482.79,
+          213.09
+        ],
+        [
+          507.02,
+          210.28
+        ],
+        [
+          528.84,
+          206.13
+        ],
+        [
+          547.84,
+          196.32
+        ],
+        [
+          557.56,
+          190.42
+        ],
+        [
+          563.8,
+          182.09
+        ],
+        [
+          572.19,
+          167.55
+        ],
+        [
+          574.05,
+          161.12
+        ],
+        [
+          573.44,
+          154.91
+        ],
+        [
+          572.12,
+          149.58
+        ],
+        [
+          569.25,
+          140.62
+        ],
+        [
+          562.94,
+          132.92
+        ],
+        [
+          554.61,
+          127.14
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          554.85,
+          138.27
+        ],
+        [
+          559.05,
+          140.27
+        ],
+        [
+          558.85,
+          136.07
+        ],
+        [
+          552.75,
+          126.17
+        ],
+        [
+          547.85,
+          127.07
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          560.09,
+          153.16
+        ],
+        [
+          563.79,
+          162.65
+        ],
+        [
+          567.26,
+          159.76
+        ],
+        [
+          565.41,
+          143.09
+        ],
+        [
+          560.32,
+          144.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "4.Ton Bag",
+      "score": null,
+      "points": [
+        [
+          339.44,
+          29.7
+        ],
+        [
+          320.75,
+          25.89
+        ],
+        [
+          311.59,
+          36.71
+        ],
+        [
+          312.98,
+          82.8
+        ],
+        [
+          296.21,
+          78.65
+        ],
+        [
+          265.95,
+          100.29
+        ],
+        [
+          364.5,
+          171.94
+        ],
+        [
+          365.25,
+          179.38
+        ],
+        [
+          372.31,
+          223.97
+        ],
+        [
+          390.15,
+          226.57
+        ],
+        [
+          406.13,
+          228.06
+        ],
+        [
+          424.84,
+          235.49
+        ],
+        [
+          454.21,
+          208.58
+        ],
+        [
+          457.12,
+          195.85
+        ],
+        [
+          461.92,
+          184.33
+        ],
+        [
+          477.76,
+          164.66
+        ],
+        [
+          492.23,
+          143.88
+        ],
+        [
+          499.93,
+          130.28
+        ],
+        [
+          500.89,
+          124.38
+        ],
+        [
+          500.52,
+          116.2
+        ],
+        [
+          496.86,
+          105.02
+        ],
+        [
+          493.09,
+          93.9
+        ],
+        [
+          464.1,
+          82.38
+        ],
+        [
+          461.13,
+          77.18
+        ],
+        [
+          446.63,
+          66.4
+        ],
+        [
+          435.48,
+          64.17
+        ],
+        [
+          401.67,
+          46.33
+        ],
+        [
+          366.07,
+          32.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          977.28,
+          642.26
+        ],
+        [
+          971.69,
+          647.46
+        ],
+        [
+          980.33,
+          655.14
+        ],
+        [
+          999.85,
+          641.74
+        ],
+        [
+          995.34,
+          631.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          995.34,
+          631.33
+        ],
+        [
+          999.85,
+          641.74
+        ],
+        [
+          996.77,
+          644.23
+        ],
+        [
+          1015.77,
+          655.13
+        ],
+        [
+          1030.57,
+          657.13
+        ],
+        [
+          1030.57,
+          653.53
+        ],
+        [
+          997.77,
+          630.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          980.33,
+          655.14
+        ],
+        [
+          975.21,
+          659.0
+        ],
+        [
+          980.59,
+          662.02
+        ],
+        [
+          1000.95,
+          647.21
+        ],
+        [
+          996.77,
+          644.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1195.99,
+          611.59
+        ],
+        [
+          1206.52,
+          618.25
+        ],
+        [
+          1205.59,
+          628.36
+        ],
+        [
+          1209.96,
+          629.19
+        ],
+        [
+          1219.01,
+          617.14
+        ],
+        [
+          1209.1,
+          608.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          684.14,
+          292.71
+        ],
+        [
+          691.34,
+          305.91
+        ],
+        [
+          1033.06,
+          550.56
+        ],
+        [
+          1041.96,
+          557.8
+        ],
+        [
+          1061.66,
+          543.5
+        ],
+        [
+          713.65,
+          281.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          663.28,
+          319.66
+        ],
+        [
+          842.09,
+          449.52
+        ],
+        [
+          866.44,
+          468.67
+        ],
+        [
+          914.18,
+          493.87
+        ],
+        [
+          930.01,
+          487.63
+        ],
+        [
+          779.51,
+          374.51
+        ],
+        [
+          678.0,
+          301.07
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          629.78,
+          314.45
+        ],
+        [
+          618.78,
+          324.21
+        ],
+        [
+          774.03,
+          441.33
+        ],
+        [
+          788.02,
+          437.41
+        ],
+        [
+          815.14,
+          452.71
+        ],
+        [
+          823.56,
+          448.07
+        ],
+        [
+          866.44,
+          468.67
+        ],
+        [
+          842.09,
+          449.52
+        ],
+        [
+          663.28,
+          319.66
+        ],
+        [
+          658.17,
+          322.94
+        ],
+        [
+          631.48,
+          304.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          595.45,
+          329.64
+        ],
+        [
+          742.76,
+          439.71
+        ],
+        [
+          752.8,
+          439.17
+        ],
+        [
+          768.21,
+          443.83
+        ],
+        [
+          774.03,
+          441.33
+        ],
+        [
+          618.78,
+          324.21
+        ],
+        [
+          607.63,
+          317.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          558.74,
+          338.05
+        ],
+        [
+          561.08,
+          352.83
+        ],
+        [
+          926.91,
+          627.96
+        ],
+        [
+          936.55,
+          631.58
+        ],
+        [
+          959.35,
+          606.47
+        ],
+        [
+          931.57,
+          585.53
+        ],
+        [
+          911.56,
+          590.83
+        ],
+        [
+          748.53,
+          465.85
+        ],
+        [
+          755.21,
+          464.5
+        ],
+        [
+          730.32,
+          444.08
+        ],
+        [
+          742.76,
+          439.71
+        ],
+        [
+          595.45,
+          329.64
+        ],
+        [
+          589.25,
+          323.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          748.53,
+          465.85
+        ],
+        [
+          911.56,
+          590.83
+        ],
+        [
+          931.57,
+          585.53
+        ],
+        [
+          953.26,
+          579.13
+        ],
+        [
+          777.26,
+          477.33
+        ],
+        [
+          755.21,
+          464.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          815.14,
+          452.71
+        ],
+        [
+          788.02,
+          437.41
+        ],
+        [
+          774.03,
+          441.33
+        ],
+        [
+          768.21,
+          443.83
+        ],
+        [
+          752.8,
+          439.17
+        ],
+        [
+          742.76,
+          439.71
+        ],
+        [
+          730.32,
+          444.08
+        ],
+        [
+          755.21,
+          464.5
+        ],
+        [
+          777.26,
+          477.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          777.26,
+          477.33
+        ],
+        [
+          953.26,
+          579.13
+        ],
+        [
+          971.16,
+          585.77
+        ],
+        [
+          1014.7,
+          552.8
+        ],
+        [
+          1014.91,
+          549.07
+        ],
+        [
+          914.18,
+          493.87
+        ],
+        [
+          866.44,
+          468.67
+        ],
+        [
+          823.56,
+          448.07
+        ],
+        [
+          815.14,
+          452.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          921.37,
+          480.74
+        ],
+        [
+          930.01,
+          487.63
+        ],
+        [
+          914.18,
+          493.87
+        ],
+        [
+          1014.91,
+          549.07
+        ],
+        [
+          1014.7,
+          552.8
+        ],
+        [
+          994.22,
+          568.27
+        ],
+        [
+          1013.17,
+          580.73
+        ],
+        [
+          1029.24,
+          566.59
+        ],
+        [
+          1025.4,
+          555.79
+        ],
+        [
+          973.17,
+          513.98
+        ],
+        [
+          926.51,
+          479.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          935.15,
+          646.13
+        ],
+        [
+          951.88,
+          660.38
+        ],
+        [
+          977.28,
+          642.26
+        ],
+        [
+          977.28,
+          630.33
+        ],
+        [
+          955.6,
+          610.81
+        ],
+        [
+          936.55,
+          631.58
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          951.88,
+          660.38
+        ],
+        [
+          935.15,
+          646.13
+        ],
+        [
+          928.0,
+          689.0
+        ],
+        [
+          980.33,
+          655.14
+        ],
+        [
+          971.69,
+          647.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          975.21,
+          659.0
+        ],
+        [
+          942.81,
+          679.49
+        ],
+        [
+          953.93,
+          689.26
+        ],
+        [
+          992.48,
+          672.26
+        ],
+        [
+          982.17,
+          663.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          927.25,
+          695.08
+        ],
+        [
+          942.43,
+          707.62
+        ],
+        [
+          997.73,
+          682.22
+        ],
+        [
+          987.35,
+          675.09
+        ],
+        [
+          953.93,
+          689.26
+        ],
+        [
+          942.81,
+          679.49
+        ],
+        [
+          928.0,
+          689.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          974.23,
+          692.93
+        ],
+        [
+          979.59,
+          697.48
+        ],
+        [
+          990.57,
+          691.05
+        ],
+        [
+          986.68,
+          687.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          979.59,
+          697.48
+        ],
+        [
+          974.23,
+          692.93
+        ],
+        [
+          942.43,
+          707.62
+        ],
+        [
+          927.25,
+          695.08
+        ],
+        [
+          923.44,
+          727.68
+        ],
+        [
+          923.98,
+          733.57
+        ],
+        [
+          943.87,
+          750.48
+        ],
+        [
+          976.3,
+          735.8
+        ],
+        [
+          985.99,
+          695.04
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          922.95,
+          738.2
+        ],
+        [
+          919.98,
+          743.4
+        ],
+        [
+          920.35,
+          757.52
+        ],
+        [
+          937.08,
+          774.25
+        ],
+        [
+          980.93,
+          751.2
+        ],
+        [
+          976.3,
+          735.8
+        ],
+        [
+          943.87,
+          750.48
+        ],
+        [
+          923.98,
+          733.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          917.87,
+          794.17
+        ],
+        [
+          926.51,
+          800.89
+        ],
+        [
+          995.61,
+          762.02
+        ],
+        [
+          990.81,
+          755.06
+        ],
+        [
+          980.93,
+          751.2
+        ],
+        [
+          937.08,
+          774.25
+        ],
+        [
+          920.35,
+          757.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          974.19,
+          600.97
+        ],
+        [
+          959.17,
+          612.46
+        ],
+        [
+          955.6,
+          610.81
+        ],
+        [
+          977.28,
+          630.33
+        ],
+        [
+          977.28,
+          642.26
+        ],
+        [
+          1001.03,
+          628.39
+        ],
+        [
+          979.05,
+          607.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          980.59,
+          662.02
+        ],
+        [
+          992.48,
+          672.26
+        ],
+        [
+          987.35,
+          675.09
+        ],
+        [
+          997.73,
+          682.22
+        ],
+        [
+          986.68,
+          687.84
+        ],
+        [
+          990.57,
+          691.05
+        ],
+        [
+          985.99,
+          695.04
+        ],
+        [
+          982.77,
+          711.22
+        ],
+        [
+          1003.92,
+          701.27
+        ],
+        [
+          1003.92,
+          713.71
+        ],
+        [
+          1018.44,
+          707.91
+        ],
+        [
+          1030.57,
+          657.13
+        ],
+        [
+          1015.77,
+          655.13
+        ],
+        [
+          1000.95,
+          647.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          982.77,
+          711.22
+        ],
+        [
+          977.61,
+          730.24
+        ],
+        [
+          980.55,
+          731.48
+        ],
+        [
+          1000.7,
+          720.3
+        ],
+        [
+          992.32,
+          706.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          976.3,
+          735.8
+        ],
+        [
+          979.64,
+          745.35
+        ],
+        [
+          996.38,
+          737.18
+        ],
+        [
+          1000.7,
+          720.3
+        ],
+        [
+          980.55,
+          731.48
+        ],
+        [
+          977.61,
+          730.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1003.92,
+          713.71
+        ],
+        [
+          1003.92,
+          701.27
+        ],
+        [
+          992.32,
+          706.54
+        ],
+        [
+          1000.7,
+          720.3
+        ],
+        [
+          996.38,
+          737.18
+        ],
+        [
+          984.64,
+          743.22
+        ],
+        [
+          992.69,
+          751.89
+        ],
+        [
+          1011.59,
+          740.43
+        ],
+        [
+          1012.67,
+          710.38
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          992.69,
+          751.89
+        ],
+        [
+          984.64,
+          743.22
+        ],
+        [
+          983.01,
+          744.18
+        ],
+        [
+          982.86,
+          751.77
+        ],
+        [
+          990.81,
+          755.06
+        ],
+        [
+          995.61,
+          762.02
+        ],
+        [
+          1011.67,
+          754.25
+        ],
+        [
+          1011.59,
+          740.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          971.16,
+          585.77
+        ],
+        [
+          966.88,
+          585.4
+        ],
+        [
+          979.6,
+          596.15
+        ],
+        [
+          974.19,
+          600.97
+        ],
+        [
+          1007.18,
+          627.23
+        ],
+        [
+          1029.95,
+          620.88
+        ],
+        [
+          1037.07,
+          600.28
+        ],
+        [
+          1013.17,
+          580.73
+        ],
+        [
+          994.22,
+          568.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          973.17,
+          513.98
+        ],
+        [
+          1025.4,
+          555.79
+        ],
+        [
+          1029.24,
+          566.59
+        ],
+        [
+          1013.17,
+          580.73
+        ],
+        [
+          1037.07,
+          600.28
+        ],
+        [
+          1036.41,
+          606.57
+        ],
+        [
+          1042.77,
+          605.49
+        ],
+        [
+          1050.82,
+          601.46
+        ],
+        [
+          1064.25,
+          583.0
+        ],
+        [
+          1065.03,
+          578.17
+        ],
+        [
+          928.67,
+          477.6
+        ],
+        [
+          926.51,
+          479.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1036.46,
+          629.66
+        ],
+        [
+          1051.97,
+          610.68
+        ],
+        [
+          1042.77,
+          605.49
+        ],
+        [
+          1036.41,
+          606.57
+        ],
+        [
+          1029.95,
+          620.88
+        ],
+        [
+          1025.35,
+          622.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1051.97,
+          610.68
+        ],
+        [
+          1048.66,
+          615.04
+        ],
+        [
+          1051.26,
+          618.94
+        ],
+        [
+          1073.06,
+          602.64
+        ],
+        [
+          1070.26,
+          599.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1041.96,
+          557.8
+        ],
+        [
+          1040.04,
+          560.02
+        ],
+        [
+          1065.03,
+          578.17
+        ],
+        [
+          1064.25,
+          583.0
+        ],
+        [
+          1050.82,
+          601.46
+        ],
+        [
+          1042.77,
+          605.49
+        ],
+        [
+          1051.97,
+          610.68
+        ],
+        [
+          1070.26,
+          599.74
+        ],
+        [
+          1080.53,
+          593.57
+        ],
+        [
+          1080.87,
+          576.1
+        ],
+        [
+          1051.13,
+          551.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1071.17,
+          550.75
+        ],
+        [
+          1061.66,
+          543.5
+        ],
+        [
+          1051.13,
+          551.69
+        ],
+        [
+          1080.87,
+          576.1
+        ],
+        [
+          1080.96,
+          585.67
+        ],
+        [
+          1086.85,
+          589.56
+        ],
+        [
+          1112.43,
+          572.87
+        ],
+        [
+          1112.88,
+          558.77
+        ],
+        [
+          1089.05,
+          539.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1089.05,
+          539.33
+        ],
+        [
+          1112.88,
+          558.77
+        ],
+        [
+          1136.61,
+          577.64
+        ],
+        [
+          1153.21,
+          566.65
+        ],
+        [
+          1149.07,
+          543.23
+        ],
+        [
+          1119.69,
+          519.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1153.21,
+          566.65
+        ],
+        [
+          1145.35,
+          571.89
+        ],
+        [
+          1160.28,
+          584.5
+        ],
+        [
+          1171.96,
+          593.99
+        ],
+        [
+          1175.55,
+          581.72
+        ],
+        [
+          1178.41,
+          581.61
+        ],
+        [
+          1185.22,
+          577.49
+        ],
+        [
+          1188.81,
+          564.23
+        ],
+        [
+          1182.35,
+          564.06
+        ],
+        [
+          1183.79,
+          560.64
+        ],
+        [
+          1176.21,
+          563.5
+        ],
+        [
+          1149.07,
+          543.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1195.99,
+          611.59
+        ],
+        [
+          1212.72,
+          607.25
+        ],
+        [
+          1214.25,
+          590.39
+        ],
+        [
+          1199.2,
+          596.49
+        ],
+        [
+          1178.41,
+          581.61
+        ],
+        [
+          1175.55,
+          581.72
+        ],
+        [
+          1171.96,
+          593.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1095.06,
+          592.28
+        ],
+        [
+          1131.74,
+          621.5
+        ],
+        [
+          1155.59,
+          602.3
+        ],
+        [
+          1154.03,
+          593.01
+        ],
+        [
+          1136.61,
+          577.64
+        ],
+        [
+          1112.88,
+          558.77
+        ],
+        [
+          1112.43,
+          572.87
+        ],
+        [
+          1096.63,
+          583.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1145.35,
+          571.89
+        ],
+        [
+          1136.61,
+          577.64
+        ],
+        [
+          1154.03,
+          593.01
+        ],
+        [
+          1155.59,
+          602.3
+        ],
+        [
+          1135.21,
+          619.36
+        ],
+        [
+          1144.06,
+          625.92
+        ],
+        [
+          1167.88,
+          614.81
+        ],
+        [
+          1172.09,
+          597.01
+        ],
+        [
+          1146.84,
+          575.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1172.09,
+          597.01
+        ],
+        [
+          1167.88,
+          614.81
+        ],
+        [
+          1170.9,
+          621.97
+        ],
+        [
+          1192.27,
+          636.53
+        ],
+        [
+          1204.67,
+          631.88
+        ],
+        [
+          1206.52,
+          618.25
+        ],
+        [
+          1195.99,
+          611.59
+        ],
+        [
+          1171.96,
+          593.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1007.18,
+          627.23
+        ],
+        [
+          1001.03,
+          628.39
+        ],
+        [
+          997.77,
+          630.13
+        ],
+        [
+          1030.57,
+          653.53
+        ],
+        [
+          1030.57,
+          657.13
+        ],
+        [
+          1027.27,
+          671.51
+        ],
+        [
+          1034.37,
+          676.86
+        ],
+        [
+          1056.86,
+          664.28
+        ],
+        [
+          1056.19,
+          648.96
+        ],
+        [
+          1023.93,
+          623.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1051.26,
+          618.94
+        ],
+        [
+          1048.66,
+          615.04
+        ],
+        [
+          1036.46,
+          629.66
+        ],
+        [
+          1025.35,
+          622.25
+        ],
+        [
+          1023.93,
+          623.26
+        ],
+        [
+          1056.19,
+          648.96
+        ],
+        [
+          1056.55,
+          660.78
+        ],
+        [
+          1061.91,
+          664.8
+        ],
+        [
+          1070.61,
+          662.12
+        ],
+        [
+          1092.56,
+          649.94
+        ],
+        [
+          1087.74,
+          634.81
+        ],
+        [
+          1062.31,
+          611.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1086.85,
+          589.56
+        ],
+        [
+          1080.96,
+          585.67
+        ],
+        [
+          1080.53,
+          593.57
+        ],
+        [
+          1070.26,
+          599.74
+        ],
+        [
+          1073.06,
+          602.64
+        ],
+        [
+          1079.27,
+          606.82
+        ],
+        [
+          1094.17,
+          597.93
+        ],
+        [
+          1094.37,
+          584.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1079.27,
+          606.82
+        ],
+        [
+          1073.06,
+          602.64
+        ],
+        [
+          1062.31,
+          611.52
+        ],
+        [
+          1081.17,
+          629.3
+        ],
+        [
+          1101.37,
+          618.5
+        ],
+        [
+          1104.07,
+          609.9
+        ],
+        [
+          1092.07,
+          599.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1101.37,
+          618.5
+        ],
+        [
+          1081.17,
+          629.3
+        ],
+        [
+          1087.74,
+          634.81
+        ],
+        [
+          1091.31,
+          645.68
+        ],
+        [
+          1139.95,
+          623.07
+        ],
+        [
+          1135.21,
+          619.36
+        ],
+        [
+          1131.74,
+          621.5
+        ],
+        [
+          1117.65,
+          610.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1158.07,
+          619.59
+        ],
+        [
+          1144.06,
+          625.92
+        ],
+        [
+          1139.95,
+          623.07
+        ],
+        [
+          1108.06,
+          638.61
+        ],
+        [
+          1110.59,
+          645.42
+        ],
+        [
+          1120.63,
+          651.51
+        ],
+        [
+          1152.89,
+          644.7
+        ],
+        [
+          1169.37,
+          634.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1178.5,
+          650.67
+        ],
+        [
+          1179.08,
+          658.54
+        ],
+        [
+          1188.22,
+          660.85
+        ],
+        [
+          1196.9,
+          655.88
+        ],
+        [
+          1202.39,
+          646.67
+        ],
+        [
+          1207.95,
+          634.52
+        ],
+        [
+          1204.67,
+          631.88
+        ],
+        [
+          1192.27,
+          636.53
+        ],
+        [
+          1170.9,
+          621.97
+        ],
+        [
+          1167.88,
+          614.81
+        ],
+        [
+          1158.07,
+          619.59
+        ],
+        [
+          1169.37,
+          634.31
+        ],
+        [
+          1163.1,
+          638.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1152.89,
+          644.7
+        ],
+        [
+          1138.64,
+          647.67
+        ],
+        [
+          1152.99,
+          658.9
+        ],
+        [
+          1152.87,
+          674.98
+        ],
+        [
+          1175.66,
+          662.95
+        ],
+        [
+          1179.08,
+          658.54
+        ],
+        [
+          1178.5,
+          650.67
+        ],
+        [
+          1163.1,
+          638.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1120.63,
+          651.51
+        ],
+        [
+          1110.59,
+          645.42
+        ],
+        [
+          1108.06,
+          638.61
+        ],
+        [
+          1091.31,
+          645.68
+        ],
+        [
+          1092.56,
+          649.94
+        ],
+        [
+          1100.92,
+          646.87
+        ],
+        [
+          1107.63,
+          649.64
+        ],
+        [
+          1115.15,
+          652.88
+        ],
+        [
+          1120.01,
+          659.59
+        ],
+        [
+          1108.44,
+          669.08
+        ],
+        [
+          1109.48,
+          673.25
+        ],
+        [
+          1117.35,
+          675.79
+        ],
+        [
+          1113.3,
+          679.03
+        ],
+        [
+          1124.99,
+          688.52
+        ],
+        [
+          1152.87,
+          674.98
+        ],
+        [
+          1152.99,
+          658.9
+        ],
+        [
+          1138.64,
+          647.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "7.Incorner (form)",
+      "score": null,
+      "points": [
+        [
+          1107.63,
+          649.64
+        ],
+        [
+          1100.92,
+          646.87
+        ],
+        [
+          1092.56,
+          649.94
+        ],
+        [
+          1070.61,
+          662.12
+        ],
+        [
+          1061.91,
+          664.8
+        ],
+        [
+          1056.86,
+          664.28
+        ],
+        [
+          1034.37,
+          676.86
+        ],
+        [
+          1024.52,
+          681.45
+        ],
+        [
+          1018.44,
+          707.91
+        ],
+        [
+          1115.15,
+          652.88
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753331013.jpg",
+  "imageData": null,
+  "imageWidth": 1544,
+  "imageHeight": 1181,
+  "text": "",
+  "description": ""
+}

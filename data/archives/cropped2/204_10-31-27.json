@@ -1,0 +1,2849 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          739.65,
+          1009.4
+        ],
+        [
+          761.78,
+          1021.55
+        ],
+        [
+          765.25,
+          1014.39
+        ],
+        [
+          741.6,
+          1007.44
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          765.25,
+          1023.28
+        ],
+        [
+          793.46,
+          1038.47
+        ],
+        [
+          794.98,
+          1028.93
+        ],
+        [
+          768.29,
+          1016.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          918.29,
+          894.96
+        ],
+        [
+          922.32,
+          910.08
+        ],
+        [
+          927.03,
+          927.9
+        ],
+        [
+          934.42,
+          953.44
+        ],
+        [
+          938.45,
+          952.43
+        ],
+        [
+          939.46,
+          943.69
+        ],
+        [
+          942.49,
+          937.64
+        ],
+        [
+          937.44,
+          923.19
+        ],
+        [
+          921.98,
+          878.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          816.07,
+          946.03
+        ],
+        [
+          822.17,
+          982.34
+        ],
+        [
+          834.37,
+          1041.3
+        ],
+        [
+          842.79,
+          1029.39
+        ],
+        [
+          842.79,
+          1016.9
+        ],
+        [
+          832.04,
+          968.39
+        ],
+        [
+          825.65,
+          944.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          966.39,
+          1187.3
+        ],
+        [
+          973.05,
+          1201.1
+        ],
+        [
+          978.26,
+          1213.32
+        ],
+        [
+          980.08,
+          1217.81
+        ],
+        [
+          989.65,
+          1220.72
+        ],
+        [
+          987.94,
+          1210.41
+        ],
+        [
+          977.96,
+          1192.23
+        ],
+        [
+          970.8,
+          1177.04
+        ],
+        [
+          967.74,
+          1174.45
+        ],
+        [
+          966.39,
+          1173.98
+        ],
+        [
+          961.55,
+          1174.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          961.48,
+          1252.92
+        ],
+        [
+          975.13,
+          1249.43
+        ],
+        [
+          934.46,
+          1223.29
+        ],
+        [
+          927.42,
+          1218.65
+        ],
+        [
+          918.09,
+          1218.65
+        ],
+        [
+          915.9,
+          1220.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          970.8,
+          1177.04
+        ],
+        [
+          977.96,
+          1192.23
+        ],
+        [
+          994.45,
+          1221.73
+        ],
+        [
+          1003.02,
+          1224.45
+        ],
+        [
+          1004.21,
+          1221.95
+        ],
+        [
+          991.41,
+          1201.12
+        ],
+        [
+          976.0,
+          1173.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          921.97,
+          1211.96
+        ],
+        [
+          997.5,
+          1232.58
+        ],
+        [
+          1003.02,
+          1224.45
+        ],
+        [
+          974.55,
+          1216.61
+        ],
+        [
+          927.78,
+          1204.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          480.65,
+          1263.75
+        ],
+        [
+          469.03,
+          1275.08
+        ],
+        [
+          486.17,
+          1271.01
+        ],
+        [
+          496.63,
+          1262.01
+        ],
+        [
+          491.98,
+          1253.88
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          465.84,
+          1282.63
+        ],
+        [
+          444.63,
+          1297.74
+        ],
+        [
+          451.89,
+          1305.0
+        ],
+        [
+          460.03,
+          1298.03
+        ],
+        [
+          481.23,
+          1277.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          460.11,
+          409.54
+        ],
+        [
+          450.82,
+          421.09
+        ],
+        [
+          457.1,
+          426.61
+        ],
+        [
+          484.96,
+          393.72
+        ],
+        [
+          491.24,
+          385.19
+        ],
+        [
+          514.34,
+          379.67
+        ],
+        [
+          560.53,
+          367.11
+        ],
+        [
+          549.99,
+          363.1
+        ],
+        [
+          525.13,
+          371.38
+        ],
+        [
+          486.97,
+          379.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          360.45,
+          1127.78
+        ],
+        [
+          372.94,
+          1121.68
+        ],
+        [
+          390.08,
+          1112.38
+        ],
+        [
+          385.72,
+          1104.54
+        ],
+        [
+          374.1,
+          1109.19
+        ],
+        [
+          363.94,
+          1115.58
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          662.73,
+          999.26
+        ],
+        [
+          662.29,
+          1015.1
+        ],
+        [
+          665.11,
+          1016.19
+        ],
+        [
+          673.79,
+          1026.82
+        ],
+        [
+          671.4,
+          999.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          662.08,
+          996.01
+        ],
+        [
+          671.19,
+          995.58
+        ],
+        [
+          670.54,
+          981.91
+        ],
+        [
+          668.59,
+          976.7
+        ],
+        [
+          666.63,
+          971.06
+        ],
+        [
+          665.33,
+          968.02
+        ],
+        [
+          661.64,
+          970.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          666.05,
+          1044.42
+        ],
+        [
+          666.39,
+          1049.12
+        ],
+        [
+          670.76,
+          1052.82
+        ],
+        [
+          675.46,
+          1054.5
+        ],
+        [
+          674.12,
+          1037.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          668.4,
+          1092.82
+        ],
+        [
+          667.39,
+          1103.91
+        ],
+        [
+          677.81,
+          1105.25
+        ],
+        [
+          678.15,
+          1095.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          412.97,
+          1318.36
+        ],
+        [
+          418.78,
+          1327.08
+        ],
+        [
+          445.79,
+          1306.45
+        ],
+        [
+          441.15,
+          1300.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          521.18,
+          479.99
+        ],
+        [
+          533.2,
+          476.88
+        ],
+        [
+          530.87,
+          466.76
+        ],
+        [
+          513.02,
+          470.26
+        ],
+        [
+          500.47,
+          472.3
+        ],
+        [
+          509.52,
+          481.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "48.Thick scrap wire",
+      "score": null,
+      "points": [
+        [
+          547.63,
+          491.26
+        ],
+        [
+          569.79,
+          495.54
+        ],
+        [
+          584.57,
+          493.21
+        ],
+        [
+          597.4,
+          486.99
+        ],
+        [
+          609.85,
+          481.54
+        ],
+        [
+          616.85,
+          474.54
+        ],
+        [
+          621.51,
+          461.32
+        ],
+        [
+          619.57,
+          448.49
+        ],
+        [
+          614.9,
+          437.99
+        ],
+        [
+          607.51,
+          427.88
+        ],
+        [
+          595.46,
+          418.16
+        ],
+        [
+          581.85,
+          409.99
+        ],
+        [
+          564.74,
+          403.77
+        ],
+        [
+          547.24,
+          401.82
+        ],
+        [
+          534.02,
+          404.55
+        ],
+        [
+          525.85,
+          406.1
+        ],
+        [
+          517.3,
+          411.16
+        ],
+        [
+          506.8,
+          420.49
+        ],
+        [
+          502.91,
+          427.49
+        ],
+        [
+          501.35,
+          437.21
+        ],
+        [
+          502.91,
+          449.65
+        ],
+        [
+          513.02,
+          470.26
+        ],
+        [
+          530.87,
+          466.76
+        ],
+        [
+          533.2,
+          476.88
+        ],
+        [
+          521.18,
+          479.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "48.Thick scrap wire",
+      "score": null,
+      "points": [
+        [
+          389.32,
+          1287.92
+        ],
+        [
+          390.49,
+          1292.28
+        ],
+        [
+          429.7,
+          1307.96
+        ],
+        [
+          432.9,
+          1305.93
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "48.Thick scrap wire",
+      "score": null,
+      "points": [
+        [
+          401.52,
+          1309.12
+        ],
+        [
+          392.81,
+          1303.61
+        ],
+        [
+          393.1,
+          1307.38
+        ],
+        [
+          412.85,
+          1320.45
+        ],
+        [
+          413.73,
+          1320.45
+        ],
+        [
+          412.97,
+          1318.36
+        ],
+        [
+          414.89,
+          1317.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          917.92,
+          1203.96
+        ],
+        [
+          897.31,
+          1226.31
+        ],
+        [
+          896.87,
+          1230.87
+        ],
+        [
+          900.99,
+          1232.61
+        ],
+        [
+          908.59,
+          1231.74
+        ],
+        [
+          910.76,
+          1227.83
+        ],
+        [
+          918.79,
+          1217.42
+        ],
+        [
+          921.97,
+          1211.96
+        ],
+        [
+          927.78,
+          1204.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          963.5,
+          1223.09
+        ],
+        [
+          961.62,
+          1231.53
+        ],
+        [
+          961.62,
+          1235.46
+        ],
+        [
+          965.18,
+          1234.9
+        ],
+        [
+          968.75,
+          1224.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          970.06,
+          1203.21
+        ],
+        [
+          966.31,
+          1214.84
+        ],
+        [
+          971.0,
+          1215.77
+        ],
+        [
+          973.62,
+          1204.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          951.49,
+          1177.14
+        ],
+        [
+          955.62,
+          1197.39
+        ],
+        [
+          948.87,
+          1207.9
+        ],
+        [
+          955.62,
+          1210.9
+        ],
+        [
+          963.87,
+          1200.21
+        ],
+        [
+          956.56,
+          1175.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          626.73,
+          312.53
+        ],
+        [
+          625.48,
+          318.56
+        ],
+        [
+          631.75,
+          329.1
+        ],
+        [
+          634.77,
+          331.36
+        ],
+        [
+          649.08,
+          328.85
+        ],
+        [
+          659.12,
+          326.34
+        ],
+        [
+          661.63,
+          323.58
+        ],
+        [
+          659.62,
+          301.74
+        ],
+        [
+          657.11,
+          299.73
+        ],
+        [
+          650.83,
+          299.73
+        ],
+        [
+          626.23,
+          306.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          789.04,
+          1071.6
+        ],
+        [
+          763.48,
+          1059.4
+        ],
+        [
+          757.96,
+          1059.09
+        ],
+        [
+          753.62,
+          1060.85
+        ],
+        [
+          752.74,
+          1064.92
+        ],
+        [
+          755.07,
+          1070.72
+        ],
+        [
+          779.75,
+          1082.34
+        ],
+        [
+          798.99,
+          1086.39
+        ],
+        [
+          808.22,
+          1076.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          885.5,
+          964.4
+        ],
+        [
+          877.94,
+          973.11
+        ],
+        [
+          878.99,
+          987.36
+        ],
+        [
+          877.38,
+          1011.13
+        ],
+        [
+          889.27,
+          998.28
+        ],
+        [
+          889.59,
+          976.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          881.41,
+          894.14
+        ],
+        [
+          882.88,
+          897.01
+        ],
+        [
+          885.5,
+          903.99
+        ],
+        [
+          885.01,
+          909.26
+        ],
+        [
+          883.09,
+          917.65
+        ],
+        [
+          882.85,
+          930.13
+        ],
+        [
+          892.17,
+          923.15
+        ],
+        [
+          892.93,
+          916.69
+        ],
+        [
+          894.37,
+          905.66
+        ],
+        [
+          893.41,
+          893.42
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          606.65,
+          236.21
+        ],
+        [
+          603.13,
+          236.21
+        ],
+        [
+          600.12,
+          237.22
+        ],
+        [
+          597.61,
+          238.72
+        ],
+        [
+          597.11,
+          243.49
+        ],
+        [
+          600.37,
+          296.97
+        ],
+        [
+          604.14,
+          301.24
+        ],
+        [
+          608.66,
+          301.74
+        ],
+        [
+          610.16,
+          239.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          75.47,
+          289.96
+        ],
+        [
+          81.49,
+          311.05
+        ],
+        [
+          108.36,
+          331.64
+        ],
+        [
+          151.29,
+          365.28
+        ],
+        [
+          154.8,
+          364.28
+        ],
+        [
+          156.31,
+          360.26
+        ],
+        [
+          156.31,
+          352.98
+        ],
+        [
+          121.66,
+          325.61
+        ],
+        [
+          79.74,
+          288.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          354.62,
+          298.42
+        ],
+        [
+          362.9,
+          295.91
+        ],
+        [
+          341.56,
+          257.0
+        ],
+        [
+          330.77,
+          238.17
+        ],
+        [
+          322.98,
+          240.93
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          472.26,
+          459.07
+        ],
+        [
+          474.86,
+          463.19
+        ],
+        [
+          484.63,
+          470.57
+        ],
+        [
+          501.99,
+          487.93
+        ],
+        [
+          518.69,
+          490.09
+        ],
+        [
+          517.61,
+          488.14
+        ],
+        [
+          500.47,
+          472.3
+        ],
+        [
+          493.96,
+          466.23
+        ],
+        [
+          490.05,
+          461.02
+        ],
+        [
+          487.88,
+          457.33
+        ],
+        [
+          480.94,
+          453.64
+        ],
+        [
+          454.9,
+          432.59
+        ],
+        [
+          449.91,
+          439.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          357.75,
+          449.81
+        ],
+        [
+          359.1,
+          471.65
+        ],
+        [
+          368.84,
+          476.02
+        ],
+        [
+          364.47,
+          399.73
+        ],
+        [
+          362.79,
+          356.04
+        ],
+        [
+          353.72,
+          353.68
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          918.29,
+          894.96
+        ],
+        [
+          916.04,
+          891.6
+        ],
+        [
+          914.18,
+          895.56
+        ],
+        [
+          909.18,
+          905.83
+        ],
+        [
+          905.57,
+          916.1
+        ],
+        [
+          903.63,
+          916.65
+        ],
+        [
+          898.91,
+          918.32
+        ],
+        [
+          895.58,
+          922.48
+        ],
+        [
+          895.85,
+          924.98
+        ],
+        [
+          899.19,
+          923.59
+        ],
+        [
+          895.36,
+          929.25
+        ],
+        [
+          904.07,
+          931.58
+        ],
+        [
+          910.85,
+          925.26
+        ],
+        [
+          915.01,
+          918.6
+        ],
+        [
+          922.32,
+          910.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "48.Thick scrap wire",
+      "score": null,
+      "points": [
+        [
+          921.49,
+          874.49
+        ],
+        [
+          916.04,
+          891.6
+        ],
+        [
+          918.29,
+          894.96
+        ],
+        [
+          921.98,
+          878.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          655.81,
+          525.91
+        ],
+        [
+          657.84,
+          531.43
+        ],
+        [
+          665.39,
+          535.5
+        ],
+        [
+          671.49,
+          527.94
+        ],
+        [
+          663.36,
+          520.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          636.64,
+          514.87
+        ],
+        [
+          652.32,
+          527.36
+        ],
+        [
+          658.42,
+          517.2
+        ],
+        [
+          639.25,
+          505.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          792.15,
+          573.35
+        ],
+        [
+          789.46,
+          606.63
+        ],
+        [
+          791.96,
+          609.92
+        ],
+        [
+          794.86,
+          609.33
+        ],
+        [
+          795.44,
+          604.69
+        ],
+        [
+          796.6,
+          597.43
+        ],
+        [
+          798.64,
+          590.74
+        ],
+        [
+          799.22,
+          579.42
+        ],
+        [
+          799.22,
+          568.38
+        ],
+        [
+          795.73,
+          560.24
+        ],
+        [
+          793.16,
+          556.88
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          430.78,
+          456.08
+        ],
+        [
+          424.53,
+          461.28
+        ],
+        [
+          418.28,
+          469.09
+        ],
+        [
+          420.89,
+          477.42
+        ],
+        [
+          424.53,
+          483.67
+        ],
+        [
+          430.26,
+          485.75
+        ],
+        [
+          433.38,
+          485.75
+        ],
+        [
+          435.46,
+          483.15
+        ],
+        [
+          430.26,
+          478.98
+        ],
+        [
+          426.61,
+          474.3
+        ],
+        [
+          429.74,
+          468.57
+        ],
+        [
+          431.82,
+          465.97
+        ],
+        [
+          439.11,
+          467.53
+        ],
+        [
+          446.4,
+          471.18
+        ],
+        [
+          445.88,
+          461.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          688.16,
+          516.2
+        ],
+        [
+          682.3,
+          519.45
+        ],
+        [
+          690.33,
+          527.05
+        ],
+        [
+          700.96,
+          525.31
+        ],
+        [
+          702.48,
+          515.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          488.43,
+          434.04
+        ],
+        [
+          490.78,
+          452.19
+        ],
+        [
+          497.07,
+          465.6
+        ],
+        [
+          500.47,
+          472.3
+        ],
+        [
+          513.02,
+          470.26
+        ],
+        [
+          502.91,
+          449.65
+        ],
+        [
+          501.35,
+          437.21
+        ],
+        [
+          502.91,
+          427.49
+        ],
+        [
+          506.8,
+          420.49
+        ],
+        [
+          517.3,
+          411.16
+        ],
+        [
+          525.85,
+          406.1
+        ],
+        [
+          534.02,
+          404.55
+        ],
+        [
+          547.24,
+          401.82
+        ],
+        [
+          564.74,
+          403.77
+        ],
+        [
+          581.85,
+          409.99
+        ],
+        [
+          595.46,
+          418.16
+        ],
+        [
+          607.51,
+          427.88
+        ],
+        [
+          614.9,
+          437.99
+        ],
+        [
+          619.57,
+          448.49
+        ],
+        [
+          621.51,
+          461.32
+        ],
+        [
+          616.85,
+          474.54
+        ],
+        [
+          609.85,
+          481.54
+        ],
+        [
+          597.4,
+          486.99
+        ],
+        [
+          584.57,
+          493.21
+        ],
+        [
+          569.79,
+          495.54
+        ],
+        [
+          547.63,
+          491.26
+        ],
+        [
+          521.18,
+          479.99
+        ],
+        [
+          509.52,
+          481.15
+        ],
+        [
+          517.29,
+          487.76
+        ],
+        [
+          536.15,
+          496.56
+        ],
+        [
+          543.21,
+          492.86
+        ],
+        [
+          547.24,
+          501.6
+        ],
+        [
+          577.15,
+          503.95
+        ],
+        [
+          599.67,
+          498.91
+        ],
+        [
+          621.85,
+          486.47
+        ],
+        [
+          632.61,
+          474.04
+        ],
+        [
+          636.31,
+          450.17
+        ],
+        [
+          633.28,
+          439.42
+        ],
+        [
+          628.24,
+          425.3
+        ],
+        [
+          612.78,
+          405.81
+        ],
+        [
+          588.24,
+          390.35
+        ],
+        [
+          558.33,
+          384.64
+        ],
+        [
+          532.12,
+          384.97
+        ],
+        [
+          509.6,
+          394.72
+        ],
+        [
+          493.13,
+          415.89
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          705.08,
+          524.01
+        ],
+        [
+          717.45,
+          525.09
+        ],
+        [
+          717.67,
+          515.55
+        ],
+        [
+          704.65,
+          515.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          995.29,
+          1140.4
+        ],
+        [
+          997.24,
+          1147.4
+        ],
+        [
+          998.4,
+          1159.84
+        ],
+        [
+          996.85,
+          1162.18
+        ],
+        [
+          993.35,
+          1165.29
+        ],
+        [
+          993.35,
+          1171.51
+        ],
+        [
+          1006.57,
+          1215.45
+        ],
+        [
+          1017.85,
+          1197.57
+        ],
+        [
+          1006.96,
+          1145.85
+        ],
+        [
+          1008.13,
+          1135.35
+        ],
+        [
+          1008.12,
+          1128.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          673.4,
+          525.75
+        ],
+        [
+          671.49,
+          527.94
+        ],
+        [
+          665.39,
+          535.5
+        ],
+        [
+          667.76,
+          544.19
+        ],
+        [
+          670.15,
+          540.93
+        ],
+        [
+          675.57,
+          536.81
+        ],
+        [
+          681.21,
+          532.91
+        ],
+        [
+          687.94,
+          528.35
+        ],
+        [
+          679.04,
+          520.75
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          779.72,
+          544.11
+        ],
+        [
+          772.32,
+          536.05
+        ],
+        [
+          759.21,
+          523.61
+        ],
+        [
+          757.87,
+          533.02
+        ],
+        [
+          753.5,
+          533.02
+        ],
+        [
+          756.19,
+          519.91
+        ],
+        [
+          754.51,
+          518.57
+        ],
+        [
+          751.15,
+          516.55
+        ],
+        [
+          751.48,
+          521.59
+        ],
+        [
+          750.48,
+          523.27
+        ],
+        [
+          747.45,
+          521.59
+        ],
+        [
+          746.78,
+          516.55
+        ],
+        [
+          732.33,
+          507.81
+        ],
+        [
+          719.22,
+          505.13
+        ],
+        [
+          719.89,
+          515.88
+        ],
+        [
+          719.89,
+          525.96
+        ],
+        [
+          739.39,
+          534.37
+        ],
+        [
+          741.4,
+          537.39
+        ],
+        [
+          740.73,
+          542.77
+        ],
+        [
+          752.16,
+          549.15
+        ],
+        [
+          765.26,
+          555.54
+        ],
+        [
+          768.96,
+          560.58
+        ],
+        [
+          765.26,
+          571.34
+        ],
+        [
+          774.67,
+          584.78
+        ],
+        [
+          782.07,
+          601.25
+        ],
+        [
+          772.32,
+          610.99
+        ],
+        [
+          774.67,
+          623.43
+        ],
+        [
+          784.09,
+          617.72
+        ],
+        [
+          789.46,
+          606.63
+        ],
+        [
+          792.15,
+          573.35
+        ],
+        [
+          793.16,
+          556.88
+        ],
+        [
+          785.77,
+          558.23
+        ],
+        [
+          781.06,
+          549.83
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          821.94,
+          869.05
+        ],
+        [
+          849.54,
+          876.05
+        ],
+        [
+          862.77,
+          875.66
+        ],
+        [
+          880.27,
+          874.1
+        ],
+        [
+          889.99,
+          866.72
+        ],
+        [
+          895.82,
+          859.33
+        ],
+        [
+          898.15,
+          850.77
+        ],
+        [
+          885.71,
+          848.83
+        ],
+        [
+          882.21,
+          858.94
+        ],
+        [
+          868.99,
+          866.33
+        ],
+        [
+          857.71,
+          868.27
+        ],
+        [
+          834.38,
+          864.77
+        ],
+        [
+          811.05,
+          857.77
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          865.88,
+          801.0
+        ],
+        [
+          875.99,
+          816.55
+        ],
+        [
+          885.71,
+          832.88
+        ],
+        [
+          887.26,
+          844.94
+        ],
+        [
+          897.76,
+          846.88
+        ],
+        [
+          898.54,
+          837.55
+        ],
+        [
+          893.49,
+          824.33
+        ],
+        [
+          884.93,
+          812.66
+        ],
+        [
+          873.27,
+          798.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          611.66,
+          541.6
+        ],
+        [
+          628.21,
+          545.95
+        ],
+        [
+          638.09,
+          530.56
+        ],
+        [
+          636.35,
+          519.23
+        ],
+        [
+          622.7,
+          527.65
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          421.88,
+          1250.04
+        ],
+        [
+          465.91,
+          1242.31
+        ],
+        [
+          450.11,
+          1232.23
+        ],
+        [
+          420.87,
+          1238.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          487.42,
+          1330.69
+        ],
+        [
+          478.99,
+          1335.39
+        ],
+        [
+          473.16,
+          1337.82
+        ],
+        [
+          469.91,
+          1343.17
+        ],
+        [
+          478.67,
+          1348.03
+        ],
+        [
+          485.96,
+          1337.66
+        ],
+        [
+          491.15,
+          1328.58
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          834.02,
+          677.95
+        ],
+        [
+          835.79,
+          686.08
+        ],
+        [
+          840.41,
+          706.7
+        ],
+        [
+          843.05,
+          722.68
+        ],
+        [
+          849.44,
+          722.68
+        ],
+        [
+          849.44,
+          717.45
+        ],
+        [
+          847.41,
+          700.02
+        ],
+        [
+          842.76,
+          684.05
+        ],
+        [
+          839.28,
+          673.59
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          817.17,
+          634.96
+        ],
+        [
+          833.47,
+          675.91
+        ],
+        [
+          838.69,
+          670.39
+        ],
+        [
+          832.3,
+          654.13
+        ],
+        [
+          820.37,
+          623.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          513.13,
+          1274.94
+        ],
+        [
+          523.29,
+          1278.42
+        ],
+        [
+          535.2,
+          1259.25
+        ],
+        [
+          539.56,
+          1250.24
+        ],
+        [
+          533.46,
+          1248.21
+        ],
+        [
+          530.56,
+          1256.05
+        ],
+        [
+          521.55,
+          1260.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          501.8,
+          1291.78
+        ],
+        [
+          505.57,
+          1305.44
+        ],
+        [
+          520.1,
+          1281.33
+        ],
+        [
+          511.96,
+          1278.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          481.46,
+          1323.74
+        ],
+        [
+          491.63,
+          1325.77
+        ],
+        [
+          501.22,
+          1312.99
+        ],
+        [
+          498.6,
+          1297.88
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          916.04,
+          891.6
+        ],
+        [
+          921.49,
+          874.49
+        ],
+        [
+          910.21,
+          854.66
+        ],
+        [
+          901.65,
+          856.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          814.51,
+          1051.27
+        ],
+        [
+          826.22,
+          1058.87
+        ],
+        [
+          831.86,
+          1051.27
+        ],
+        [
+          817.98,
+          1042.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "34.Clean sheet steel",
+      "score": null,
+      "points": [
+        [
+          796.93,
+          1038.47
+        ],
+        [
+          803.66,
+          1042.81
+        ],
+        [
+          809.3,
+          1036.74
+        ],
+        [
+          799.97,
+          1031.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "204_10-31-27.jpg",
+  "imageData": null,
+  "imageWidth": 1103,
+  "imageHeight": 1566,
+  "text": "",
+  "description": ""
+}

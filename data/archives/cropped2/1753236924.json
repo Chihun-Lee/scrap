@@ -1,0 +1,4988 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "74. Handler",
+      "score": null,
+      "points": [
+        [
+          488.21,
+          422.75
+        ],
+        [
+          489.7,
+          451.36
+        ],
+        [
+          487.71,
+          459.33
+        ],
+        [
+          482.73,
+          467.79
+        ],
+        [
+          480.24,
+          474.75
+        ],
+        [
+          463.34,
+          473.26
+        ],
+        [
+          445.93,
+          459.82
+        ],
+        [
+          442.44,
+          459.82
+        ],
+        [
+          393.19,
+          478.73
+        ],
+        [
+          371.79,
+          494.14
+        ],
+        [
+          364.83,
+          502.1
+        ],
+        [
+          415.24,
+          530.04
+        ],
+        [
+          431.29,
+          524.25
+        ],
+        [
+          452.81,
+          522.65
+        ],
+        [
+          457.95,
+          528.44
+        ],
+        [
+          459.24,
+          531.96
+        ],
+        [
+          446.17,
+          548.24
+        ],
+        [
+          501.13,
+          577.04
+        ],
+        [
+          503.28,
+          571.28
+        ],
+        [
+          510.0,
+          565.29
+        ],
+        [
+          517.44,
+          560.5
+        ],
+        [
+          527.52,
+          562.65
+        ],
+        [
+          545.71,
+          562.76
+        ],
+        [
+          550.56,
+          578.66
+        ],
+        [
+          550.84,
+          585.32
+        ],
+        [
+          553.4,
+          589.63
+        ],
+        [
+          562.03,
+          608.58
+        ],
+        [
+          624.9,
+          645.53
+        ],
+        [
+          623.45,
+          637.39
+        ],
+        [
+          617.93,
+          610.99
+        ],
+        [
+          610.98,
+          589.63
+        ],
+        [
+          604.74,
+          571.15
+        ],
+        [
+          598.02,
+          552.68
+        ],
+        [
+          602.17,
+          549.39
+        ],
+        [
+          606.3,
+          545.99
+        ],
+        [
+          614.9,
+          541.51
+        ],
+        [
+          624.22,
+          541.15
+        ],
+        [
+          626.19,
+          544.73
+        ],
+        [
+          660.96,
+          548.5
+        ],
+        [
+          671.35,
+          550.65
+        ],
+        [
+          673.5,
+          556.56
+        ],
+        [
+          677.48,
+          561.85
+        ],
+        [
+          684.65,
+          578.34
+        ],
+        [
+          690.17,
+          580.47
+        ],
+        [
+          700.44,
+          585.29
+        ],
+        [
+          718.87,
+          593.69
+        ],
+        [
+          721.78,
+          596.89
+        ],
+        [
+          733.02,
+          605.56
+        ],
+        [
+          745.85,
+          617.77
+        ],
+        [
+          750.35,
+          613.6
+        ],
+        [
+          754.19,
+          590.27
+        ],
+        [
+          753.07,
+          572.46
+        ],
+        [
+          753.27,
+          570.18
+        ],
+        [
+          753.07,
+          556.29
+        ],
+        [
+          750.37,
+          547.79
+        ],
+        [
+          746.85,
+          542.39
+        ],
+        [
+          743.28,
+          535.95
+        ],
+        [
+          735.46,
+          524.87
+        ],
+        [
+          722.92,
+          514.84
+        ],
+        [
+          702.84,
+          502.62
+        ],
+        [
+          673.23,
+          492.58
+        ],
+        [
+          670.73,
+          493.13
+        ],
+        [
+          647.97,
+          485.64
+        ],
+        [
+          643.33,
+          484.79
+        ],
+        [
+          636.9,
+          482.72
+        ],
+        [
+          633.38,
+          482.72
+        ],
+        [
+          631.31,
+          485.41
+        ],
+        [
+          619.69,
+          481.89
+        ],
+        [
+          619.28,
+          478.36
+        ],
+        [
+          623.63,
+          474.01
+        ],
+        [
+          631.93,
+          467.37
+        ],
+        [
+          640.75,
+          460.65
+        ],
+        [
+          647.3,
+          457.7
+        ],
+        [
+          691.03,
+          472.35
+        ],
+        [
+          689.75,
+          464.37
+        ],
+        [
+          686.42,
+          448.55
+        ],
+        [
+          683.09,
+          435.22
+        ],
+        [
+          677.81,
+          428.28
+        ],
+        [
+          671.43,
+          424.4
+        ],
+        [
+          657.27,
+          415.79
+        ],
+        [
+          644.22,
+          407.74
+        ],
+        [
+          637.0,
+          406.63
+        ],
+        [
+          626.46,
+          407.19
+        ],
+        [
+          618.68,
+          410.24
+        ],
+        [
+          601.47,
+          418.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1044.93,
+          813.89
+        ],
+        [
+          1056.74,
+          828.33
+        ],
+        [
+          1063.49,
+          833.77
+        ],
+        [
+          1071.18,
+          837.33
+        ],
+        [
+          1068.9,
+          815.88
+        ],
+        [
+          1038.83,
+          793.49
+        ],
+        [
+          1039.49,
+          798.89
+        ],
+        [
+          1040.99,
+          804.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1091.66,
+          841.03
+        ],
+        [
+          1100.47,
+          840.09
+        ],
+        [
+          1105.72,
+          838.4
+        ],
+        [
+          1091.3,
+          828.06
+        ],
+        [
+          1083.78,
+          841.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1101.85,
+          804.55
+        ],
+        [
+          1128.73,
+          823.03
+        ],
+        [
+          1134.85,
+          828.27
+        ],
+        [
+          1140.2,
+          823.25
+        ],
+        [
+          1143.92,
+          817.74
+        ],
+        [
+          1147.0,
+          807.69
+        ],
+        [
+          1145.71,
+          798.61
+        ],
+        [
+          1142.14,
+          789.05
+        ],
+        [
+          1134.52,
+          780.14
+        ],
+        [
+          1125.61,
+          773.0
+        ],
+        [
+          1120.42,
+          770.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          706.94,
+          687.92
+        ],
+        [
+          746.86,
+          688.67
+        ],
+        [
+          744.35,
+          684.4
+        ],
+        [
+          740.58,
+          678.88
+        ],
+        [
+          734.81,
+          675.11
+        ],
+        [
+          726.27,
+          671.1
+        ],
+        [
+          719.49,
+          669.09
+        ],
+        [
+          705.43,
+          668.84
+        ],
+        [
+          695.39,
+          669.34
+        ],
+        [
+          681.08,
+          673.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          959.41,
+          824.8
+        ],
+        [
+          979.82,
+          806.13
+        ],
+        [
+          978.59,
+          798.85
+        ],
+        [
+          973.47,
+          790.33
+        ],
+        [
+          967.43,
+          784.13
+        ],
+        [
+          954.58,
+          775.92
+        ],
+        [
+          944.56,
+          770.89
+        ],
+        [
+          934.77,
+          766.12
+        ],
+        [
+          928.5,
+          762.86
+        ],
+        [
+          921.97,
+          762.35
+        ],
+        [
+          916.45,
+          763.86
+        ],
+        [
+          908.16,
+          768.63
+        ],
+        [
+          902.81,
+          774.28
+        ],
+        [
+          899.62,
+          781.94
+        ],
+        [
+          896.36,
+          791.73
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          647.3,
+          457.7
+        ],
+        [
+          640.75,
+          460.65
+        ],
+        [
+          642.69,
+          468.42
+        ],
+        [
+          644.64,
+          477.31
+        ],
+        [
+          647.97,
+          485.64
+        ],
+        [
+          670.73,
+          493.13
+        ],
+        [
+          673.23,
+          492.58
+        ],
+        [
+          680.45,
+          486.47
+        ],
+        [
+          687.39,
+          477.86
+        ],
+        [
+          691.14,
+          472.42
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1369.65,
+          1008.53
+        ],
+        [
+          1355.99,
+          1012.93
+        ],
+        [
+          1346.45,
+          1030.5
+        ],
+        [
+          1364.13,
+          1053.85
+        ],
+        [
+          1379.23,
+          1008.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          775.51,
+          668.8
+        ],
+        [
+          777.79,
+          673.03
+        ],
+        [
+          869.21,
+          699.58
+        ],
+        [
+          976.42,
+          711.34
+        ],
+        [
+          846.69,
+          673.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          804.09,
+          745.24
+        ],
+        [
+          830.11,
+          753.6
+        ],
+        [
+          936.1,
+          759.7
+        ],
+        [
+          1030.53,
+          762.59
+        ],
+        [
+          1032.65,
+          749.71
+        ],
+        [
+          1031.04,
+          739.75
+        ],
+        [
+          1026.41,
+          739.35
+        ],
+        [
+          794.13,
+          729.51
+        ],
+        [
+          794.55,
+          735.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          869.21,
+          699.58
+        ],
+        [
+          786.84,
+          693.53
+        ],
+        [
+          792.0,
+          721.2
+        ],
+        [
+          1026.41,
+          739.35
+        ],
+        [
+          1031.04,
+          739.75
+        ],
+        [
+          1032.65,
+          726.26
+        ],
+        [
+          1030.69,
+          719.04
+        ],
+        [
+          1018.76,
+          715.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1032.65,
+          726.26
+        ],
+        [
+          1030.08,
+          739.11
+        ],
+        [
+          1031.04,
+          739.75
+        ],
+        [
+          1032.65,
+          749.71
+        ],
+        [
+          1064.13,
+          758.38
+        ],
+        [
+          1060.91,
+          734.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1070.55,
+          760.95
+        ],
+        [
+          1108.77,
+          771.87
+        ],
+        [
+          1118.09,
+          751.64
+        ],
+        [
+          1067.66,
+          737.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1066.5,
+          722.76
+        ],
+        [
+          1119.5,
+          748.46
+        ],
+        [
+          1123.8,
+          740.5
+        ],
+        [
+          1123.52,
+          736.89
+        ],
+        [
+          1099.09,
+          713.57
+        ],
+        [
+          1070.36,
+          704.45
+        ],
+        [
+          1065.23,
+          706.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          823.9,
+          619.67
+        ],
+        [
+          837.05,
+          623.45
+        ],
+        [
+          916.51,
+          655.95
+        ],
+        [
+          919.4,
+          657.56
+        ],
+        [
+          922.61,
+          661.74
+        ],
+        [
+          1032.42,
+          709.69
+        ],
+        [
+          1057.34,
+          699.33
+        ],
+        [
+          968.0,
+          663.31
+        ],
+        [
+          830.62,
+          608.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          876.1,
+          617.11
+        ],
+        [
+          758.62,
+          577.94
+        ],
+        [
+          757.18,
+          585.35
+        ],
+        [
+          847.62,
+          614.39
+        ],
+        [
+          1005.68,
+          673.54
+        ],
+        [
+          1012.68,
+          667.63
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          769.82,
+          659.49
+        ],
+        [
+          775.51,
+          668.8
+        ],
+        [
+          920.68,
+          677.79
+        ],
+        [
+          923.57,
+          672.98
+        ],
+        [
+          924.22,
+          668.48
+        ],
+        [
+          922.61,
+          661.74
+        ],
+        [
+          919.4,
+          657.56
+        ],
+        [
+          916.51,
+          655.95
+        ],
+        [
+          867.32,
+          652.69
+        ],
+        [
+          833.52,
+          651.24
+        ],
+        [
+          833.77,
+          653.17
+        ],
+        [
+          763.27,
+          650.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          690.17,
+          580.47
+        ],
+        [
+          663.83,
+          610.99
+        ],
+        [
+          670.57,
+          622.87
+        ],
+        [
+          700.44,
+          585.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          646.16,
+          643.11
+        ],
+        [
+          682.78,
+          642.79
+        ],
+        [
+          742.2,
+          650.17
+        ],
+        [
+          745.41,
+          652.1
+        ],
+        [
+          751.83,
+          654.67
+        ],
+        [
+          760.19,
+          664.63
+        ],
+        [
+          777.85,
+          694.82
+        ],
+        [
+          781.06,
+          704.77
+        ],
+        [
+          785.24,
+          732.08
+        ],
+        [
+          794.55,
+          735.61
+        ],
+        [
+          791.98,
+          720.19
+        ],
+        [
+          786.84,
+          693.53
+        ],
+        [
+          780.74,
+          676.83
+        ],
+        [
+          769.82,
+          659.49
+        ],
+        [
+          755.69,
+          641.18
+        ],
+        [
+          751.51,
+          638.61
+        ],
+        [
+          712.97,
+          631.86
+        ],
+        [
+          692.09,
+          629.62
+        ],
+        [
+          666.7,
+          631.5
+        ],
+        [
+          645.84,
+          633.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1071.58,
+          844.15
+        ],
+        [
+          1053.82,
+          874.69
+        ],
+        [
+          1066.86,
+          874.41
+        ],
+        [
+          1072.97,
+          860.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1065.23,
+          706.35
+        ],
+        [
+          1110.2,
+          687.48
+        ],
+        [
+          1099.09,
+          713.57
+        ],
+        [
+          1123.52,
+          736.89
+        ],
+        [
+          1123.8,
+          740.5
+        ],
+        [
+          1094.96,
+          798.12
+        ],
+        [
+          1081.96,
+          823.14
+        ],
+        [
+          1076.61,
+          832.1
+        ],
+        [
+          1079.38,
+          849.04
+        ],
+        [
+          1091.3,
+          828.06
+        ],
+        [
+          1101.85,
+          804.55
+        ],
+        [
+          1133.96,
+          746.24
+        ],
+        [
+          1134.24,
+          736.53
+        ],
+        [
+          1132.29,
+          731.53
+        ],
+        [
+          1124.52,
+          725.7
+        ],
+        [
+          1114.25,
+          714.32
+        ],
+        [
+          1110.08,
+          707.38
+        ],
+        [
+          1110.36,
+          705.99
+        ],
+        [
+          1116.75,
+          688.78
+        ],
+        [
+          1115.64,
+          681.29
+        ],
+        [
+          1112.58,
+          676.84
+        ],
+        [
+          1063.17,
+          696.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1030.69,
+          719.04
+        ],
+        [
+          1059.01,
+          707.66
+        ],
+        [
+          1057.34,
+          699.33
+        ],
+        [
+          1018.76,
+          715.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          928.54,
+          758.19
+        ],
+        [
+          916.09,
+          757.16
+        ],
+        [
+          870.27,
+          773.33
+        ],
+        [
+          884.57,
+          773.75
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          862.2,
+          773.0
+        ],
+        [
+          874.62,
+          780.16
+        ],
+        [
+          890.88,
+          780.78
+        ],
+        [
+          902.81,
+          774.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          967.43,
+          784.13
+        ],
+        [
+          973.47,
+          790.33
+        ],
+        [
+          978.59,
+          798.85
+        ],
+        [
+          979.82,
+          806.13
+        ],
+        [
+          984.01,
+          800.39
+        ],
+        [
+          994.83,
+          784.44
+        ],
+        [
+          992.36,
+          779.17
+        ],
+        [
+          982.46,
+          777.78
+        ],
+        [
+          954.58,
+          775.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1033.65,
+          759.27
+        ],
+        [
+          959.41,
+          824.8
+        ],
+        [
+          990.93,
+          840.56
+        ],
+        [
+          1038.83,
+          793.49
+        ],
+        [
+          1068.9,
+          815.88
+        ],
+        [
+          1065.99,
+          779.59
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1128.73,
+          823.03
+        ],
+        [
+          1101.85,
+          804.55
+        ],
+        [
+          1091.3,
+          828.06
+        ],
+        [
+          1107.85,
+          840.54
+        ],
+        [
+          1081.22,
+          864.77
+        ],
+        [
+          1082.3,
+          887.7
+        ],
+        [
+          1101.18,
+          867.18
+        ],
+        [
+          1103.26,
+          865.73
+        ],
+        [
+          1119.23,
+          849.04
+        ],
+        [
+          1138.2,
+          830.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          974.91,
+          711.0
+        ],
+        [
+          1018.76,
+          715.43
+        ],
+        [
+          1032.42,
+          709.69
+        ],
+        [
+          1017.59,
+          703.61
+        ],
+        [
+          923.57,
+          672.98
+        ],
+        [
+          920.68,
+          677.79
+        ],
+        [
+          846.69,
+          673.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          760.19,
+          664.63
+        ],
+        [
+          751.83,
+          654.67
+        ],
+        [
+          745.41,
+          652.1
+        ],
+        [
+          742.2,
+          650.17
+        ],
+        [
+          682.78,
+          642.79
+        ],
+        [
+          646.16,
+          643.11
+        ],
+        [
+          645.34,
+          647.72
+        ],
+        [
+          646.35,
+          655.51
+        ],
+        [
+          662.92,
+          664.79
+        ],
+        [
+          764.01,
+          670.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          746.86,
+          688.67
+        ],
+        [
+          706.94,
+          687.92
+        ],
+        [
+          756.01,
+          714.87
+        ],
+        [
+          783.57,
+          719.0
+        ],
+        [
+          781.06,
+          704.77
+        ],
+        [
+          777.85,
+          694.82
+        ],
+        [
+          775.33,
+          691.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1178.51,
+          775.63
+        ],
+        [
+          1187.2,
+          770.4
+        ],
+        [
+          1189.81,
+          764.59
+        ],
+        [
+          1190.68,
+          758.49
+        ],
+        [
+          1187.2,
+          754.13
+        ],
+        [
+          1134.91,
+          729.73
+        ],
+        [
+          1124.52,
+          725.7
+        ],
+        [
+          1132.29,
+          731.53
+        ],
+        [
+          1134.24,
+          736.53
+        ],
+        [
+          1133.96,
+          746.24
+        ],
+        [
+          1130.26,
+          752.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1226.51,
+          966.5
+        ],
+        [
+          1254.07,
+          978.6
+        ],
+        [
+          1260.68,
+          970.85
+        ],
+        [
+          1250.18,
+          965.01
+        ],
+        [
+          1281.96,
+          941.29
+        ],
+        [
+          1298.43,
+          920.46
+        ],
+        [
+          1271.21,
+          904.32
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1311.66,
+          929.86
+        ],
+        [
+          1260.68,
+          970.85
+        ],
+        [
+          1254.07,
+          978.6
+        ],
+        [
+          1270.79,
+          990.29
+        ],
+        [
+          1284.3,
+          988.4
+        ],
+        [
+          1317.72,
+          933.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1284.6,
+          988.2
+        ],
+        [
+          1304.62,
+          985.62
+        ],
+        [
+          1335.38,
+          942.69
+        ],
+        [
+          1317.72,
+          933.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1281.96,
+          941.29
+        ],
+        [
+          1304.94,
+          924.56
+        ],
+        [
+          1298.43,
+          920.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1144.56,
+          834.78
+        ],
+        [
+          1154.38,
+          824.04
+        ],
+        [
+          1158.32,
+          816.34
+        ],
+        [
+          1165.31,
+          808.99
+        ],
+        [
+          1172.48,
+          804.69
+        ],
+        [
+          1185.11,
+          785.84
+        ],
+        [
+          1182.8,
+          784.97
+        ],
+        [
+          1185.35,
+          780.32
+        ],
+        [
+          1181.51,
+          778.88
+        ],
+        [
+          1167.59,
+          793.28
+        ],
+        [
+          1140.2,
+          823.25
+        ],
+        [
+          1134.85,
+          828.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          550.56,
+          578.66
+        ],
+        [
+          539.46,
+          572.55
+        ],
+        [
+          515.86,
+          585.6
+        ],
+        [
+          535.57,
+          595.87
+        ],
+        [
+          550.84,
+          585.32
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          623.45,
+          637.39
+        ],
+        [
+          624.9,
+          645.53
+        ],
+        [
+          646.35,
+          655.51
+        ],
+        [
+          645.34,
+          647.72
+        ],
+        [
+          646.16,
+          643.11
+        ],
+        [
+          645.84,
+          633.47
+        ],
+        [
+          642.25,
+          611.4
+        ],
+        [
+          636.88,
+          610.27
+        ],
+        [
+          627.44,
+          607.12
+        ],
+        [
+          615.36,
+          603.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1496.55,
+          1087.87
+        ],
+        [
+          1502.6,
+          1089.38
+        ],
+        [
+          1484.46,
+          1038.5
+        ],
+        [
+          1480.43,
+          1038.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1445.41,
+          1118.66
+        ],
+        [
+          1450.31,
+          1118.66
+        ],
+        [
+          1467.99,
+          1076.9
+        ],
+        [
+          1460.84,
+          1074.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1119.23,
+          849.04
+        ],
+        [
+          1103.26,
+          865.73
+        ],
+        [
+          1106.78,
+          865.73
+        ],
+        [
+          1110.51,
+          866.56
+        ],
+        [
+          1112.48,
+          866.84
+        ],
+        [
+          1125.81,
+          852.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          814.86,
+          636.31
+        ],
+        [
+          813.41,
+          638.59
+        ],
+        [
+          810.3,
+          640.04
+        ],
+        [
+          810.09,
+          642.74
+        ],
+        [
+          832.07,
+          651.03
+        ],
+        [
+          833.52,
+          651.24
+        ],
+        [
+          843.68,
+          635.69
+        ],
+        [
+          844.31,
+          633.61
+        ],
+        [
+          837.6,
+          623.5
+        ],
+        [
+          828.7,
+          626.8
+        ],
+        [
+          821.8,
+          628.7
+        ],
+        [
+          815.69,
+          628.01
+        ],
+        [
+          811.96,
+          632.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          833.52,
+          651.24
+        ],
+        [
+          867.32,
+          652.69
+        ],
+        [
+          859.03,
+          640.87
+        ],
+        [
+          854.47,
+          637.76
+        ],
+        [
+          850.94,
+          638.17
+        ],
+        [
+          847.0,
+          642.32
+        ],
+        [
+          842.85,
+          644.39
+        ],
+        [
+          835.8,
+          648.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          617.41,
+          559.43
+        ],
+        [
+          632.28,
+          563.55
+        ],
+        [
+          647.69,
+          564.81
+        ],
+        [
+          662.03,
+          562.66
+        ],
+        [
+          671.53,
+          558.53
+        ],
+        [
+          673.5,
+          556.56
+        ],
+        [
+          671.35,
+          550.65
+        ],
+        [
+          660.96,
+          548.5
+        ],
+        [
+          626.19,
+          544.73
+        ],
+        [
+          624.22,
+          541.15
+        ],
+        [
+          614.9,
+          541.51
+        ],
+        [
+          606.3,
+          545.99
+        ],
+        [
+          602.17,
+          549.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          608.33,
+          582.06
+        ],
+        [
+          619.94,
+          578.74
+        ],
+        [
+          629.07,
+          578.74
+        ],
+        [
+          636.12,
+          579.37
+        ],
+        [
+          644.41,
+          581.44
+        ],
+        [
+          650.22,
+          584.34
+        ],
+        [
+          653.33,
+          590.77
+        ],
+        [
+          657.06,
+          590.36
+        ],
+        [
+          652.08,
+          582.06
+        ],
+        [
+          641.72,
+          577.91
+        ],
+        [
+          632.38,
+          575.84
+        ],
+        [
+          618.91,
+          575.84
+        ],
+        [
+          606.05,
+          579.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          703.52,
+          611.12
+        ],
+        [
+          700.16,
+          612.46
+        ],
+        [
+          696.79,
+          615.15
+        ],
+        [
+          694.11,
+          618.85
+        ],
+        [
+          694.11,
+          625.57
+        ],
+        [
+          694.78,
+          629.6
+        ],
+        [
+          712.97,
+          631.86
+        ],
+        [
+          746.87,
+          637.67
+        ],
+        [
+          751.51,
+          638.61
+        ],
+        [
+          755.69,
+          641.18
+        ],
+        [
+          763.27,
+          650.47
+        ],
+        [
+          833.77,
+          653.17
+        ],
+        [
+          833.52,
+          651.24
+        ],
+        [
+          810.09,
+          642.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1057.34,
+          699.33
+        ],
+        [
+          1065.99,
+          779.59
+        ],
+        [
+          1071.58,
+          844.15
+        ],
+        [
+          1076.65,
+          887.11
+        ],
+        [
+          1082.3,
+          887.7
+        ],
+        [
+          1081.22,
+          864.77
+        ],
+        [
+          1079.38,
+          849.04
+        ],
+        [
+          1076.61,
+          832.1
+        ],
+        [
+          1074.08,
+          806.76
+        ],
+        [
+          1072.44,
+          784.34
+        ],
+        [
+          1065.23,
+          706.35
+        ],
+        [
+          1063.17,
+          696.28
+        ],
+        [
+          1060.69,
+          678.31
+        ],
+        [
+          1054.9,
+          679.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1035.29,
+          811.28
+        ],
+        [
+          1030.04,
+          811.66
+        ],
+        [
+          1025.53,
+          814.66
+        ],
+        [
+          1024.22,
+          817.28
+        ],
+        [
+          1024.22,
+          820.66
+        ],
+        [
+          1029.29,
+          825.53
+        ],
+        [
+          1030.79,
+          830.41
+        ],
+        [
+          1038.29,
+          834.91
+        ],
+        [
+          1045.98,
+          836.79
+        ],
+        [
+          1050.85,
+          836.04
+        ],
+        [
+          1054.6,
+          833.04
+        ],
+        [
+          1056.74,
+          828.33
+        ],
+        [
+          1044.93,
+          813.89
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          890.88,
+          780.78
+        ],
+        [
+          884.3,
+          780.4
+        ],
+        [
+          882.75,
+          784.47
+        ],
+        [
+          896.36,
+          791.73
+        ],
+        [
+          899.62,
+          781.94
+        ],
+        [
+          902.81,
+          774.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          853.53,
+          763.08
+        ],
+        [
+          854.98,
+          768.31
+        ],
+        [
+          860.5,
+          772.95
+        ],
+        [
+          862.2,
+          773.0
+        ],
+        [
+          870.27,
+          773.33
+        ],
+        [
+          885.48,
+          768.02
+        ],
+        [
+          884.61,
+          762.21
+        ],
+        [
+          881.12,
+          759.01
+        ],
+        [
+          877.05,
+          758.14
+        ],
+        [
+          856.14,
+          759.01
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1006.43,
+          828.87
+        ],
+        [
+          994.7,
+          842.52
+        ],
+        [
+          1029.21,
+          859.89
+        ],
+        [
+          1032.02,
+          858.36
+        ],
+        [
+          1034.64,
+          856.21
+        ],
+        [
+          1034.84,
+          851.41
+        ],
+        [
+          1033.33,
+          844.85
+        ],
+        [
+          1032.78,
+          836.6
+        ],
+        [
+          1030.79,
+          830.41
+        ],
+        [
+          1029.29,
+          825.53
+        ],
+        [
+          1024.22,
+          820.66
+        ],
+        [
+          1019.5,
+          817.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1295.49,
+          887.65
+        ],
+        [
+          1313.81,
+          868.07
+        ],
+        [
+          1299.04,
+          862.77
+        ],
+        [
+          1298.4,
+          869.19
+        ],
+        [
+          1296.79,
+          874.97
+        ],
+        [
+          1289.09,
+          883.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1295.49,
+          887.65
+        ],
+        [
+          1318.36,
+          900.21
+        ],
+        [
+          1327.9,
+          889.66
+        ],
+        [
+          1324.89,
+          885.65
+        ],
+        [
+          1326.64,
+          883.14
+        ],
+        [
+          1313.59,
+          873.6
+        ],
+        [
+          1309.57,
+          872.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1355.57,
+          983.55
+        ],
+        [
+          1356.51,
+          987.69
+        ],
+        [
+          1361.39,
+          987.88
+        ],
+        [
+          1365.89,
+          987.88
+        ],
+        [
+          1368.89,
+          986.01
+        ],
+        [
+          1372.26,
+          984.3
+        ],
+        [
+          1374.14,
+          983.18
+        ],
+        [
+          1377.7,
+          977.19
+        ],
+        [
+          1377.52,
+          974.57
+        ],
+        [
+          1375.26,
+          973.24
+        ],
+        [
+          1373.76,
+          971.17
+        ],
+        [
+          1372.45,
+          968.74
+        ],
+        [
+          1366.83,
+          968.36
+        ],
+        [
+          1364.76,
+          969.3
+        ],
+        [
+          1355.57,
+          980.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "89. Unknown-Machine",
+      "score": null,
+      "points": [
+        [
+          1458.71,
+          1122.57
+        ],
+        [
+          1459.58,
+          1151.33
+        ],
+        [
+          1455.22,
+          1180.96
+        ],
+        [
+          1463.35,
+          1180.38
+        ],
+        [
+          1466.84,
+          1171.08
+        ],
+        [
+          1504.6,
+          1176.6
+        ],
+        [
+          1506.05,
+          1175.44
+        ],
+        [
+          1510.41,
+          1172.83
+        ],
+        [
+          1515.93,
+          1172.83
+        ],
+        [
+          1529.29,
+          1176.02
+        ],
+        [
+          1540.04,
+          1182.7
+        ],
+        [
+          1610.28,
+          1194.82
+        ],
+        [
+          1611.61,
+          1194.15
+        ],
+        [
+          1612.95,
+          1192.81
+        ],
+        [
+          1616.99,
+          1192.81
+        ],
+        [
+          1626.4,
+          1174.66
+        ],
+        [
+          1628.43,
+          1111.13
+        ],
+        [
+          1473.67,
+          1084.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "81. Unknown-Vehicle Part",
+      "score": null,
+      "points": [
+        [
+          1529.29,
+          1176.02
+        ],
+        [
+          1515.93,
+          1172.83
+        ],
+        [
+          1510.41,
+          1172.83
+        ],
+        [
+          1506.05,
+          1175.44
+        ],
+        [
+          1504.6,
+          1176.6
+        ],
+        [
+          1497.93,
+          1179.97
+        ],
+        [
+          1495.49,
+          1184.29
+        ],
+        [
+          1492.68,
+          1193.47
+        ],
+        [
+          1491.37,
+          1202.48
+        ],
+        [
+          1492.3,
+          1208.29
+        ],
+        [
+          1499.24,
+          1223.48
+        ],
+        [
+          1503.37,
+          1230.04
+        ],
+        [
+          1509.74,
+          1234.17
+        ],
+        [
+          1517.25,
+          1236.42
+        ],
+        [
+          1523.81,
+          1237.36
+        ],
+        [
+          1530.94,
+          1236.61
+        ],
+        [
+          1537.87,
+          1233.04
+        ],
+        [
+          1543.88,
+          1228.36
+        ],
+        [
+          1550.44,
+          1220.48
+        ],
+        [
+          1552.88,
+          1212.6
+        ],
+        [
+          1552.69,
+          1201.73
+        ],
+        [
+          1548.94,
+          1192.54
+        ],
+        [
+          1540.04,
+          1182.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "score": null,
+      "points": [
+        [
+          1647.93,
+          1126.83
+        ],
+        [
+          1648.91,
+          1134.95
+        ],
+        [
+          1653.4,
+          1134.95
+        ],
+        [
+          1651.15,
+          1122.77
+        ],
+        [
+          1640.93,
+          1122.77
+        ],
+        [
+          1640.79,
+          1116.04
+        ],
+        [
+          1634.34,
+          1116.04
+        ],
+        [
+          1634.76,
+          1123.05
+        ],
+        [
+          1628.04,
+          1123.33
+        ],
+        [
+          1627.62,
+          1127.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "score": null,
+      "points": [
+        [
+          1651.45,
+          1134.88
+        ],
+        [
+          1649.21,
+          1140.35
+        ],
+        [
+          1643.04,
+          1157.72
+        ],
+        [
+          1643.6,
+          1159.96
+        ],
+        [
+          1645.7,
+          1162.2
+        ],
+        [
+          1647.67,
+          1162.62
+        ],
+        [
+          1649.49,
+          1164.44
+        ],
+        [
+          1651.87,
+          1164.58
+        ],
+        [
+          1655.37,
+          1163.04
+        ],
+        [
+          1660.41,
+          1152.53
+        ],
+        [
+          1660.97,
+          1149.17
+        ],
+        [
+          1662.3,
+          1136.2
+        ],
+        [
+          1653.4,
+          1134.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1316.67,
+          989.9
+        ],
+        [
+          1322.35,
+          1014.69
+        ],
+        [
+          1342.18,
+          1007.91
+        ],
+        [
+          1364.3,
+          961.5
+        ],
+        [
+          1343.54,
+          949.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1366.4,
+          998.1
+        ],
+        [
+          1384.75,
+          998.66
+        ],
+        [
+          1389.11,
+          1003.88
+        ],
+        [
+          1400.25,
+          981.72
+        ],
+        [
+          1380.92,
+          970.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1387.88,
+          1089.69
+        ],
+        [
+          1404.24,
+          1110.72
+        ],
+        [
+          1430.32,
+          1077.13
+        ],
+        [
+          1452.98,
+          1047.1
+        ],
+        [
+          1473.89,
+          1016.95
+        ],
+        [
+          1466.76,
+          1009.33
+        ],
+        [
+          1453.3,
+          1001.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1302.39,
+          800.54
+        ],
+        [
+          1422.35,
+          858.36
+        ],
+        [
+          1425.26,
+          849.64
+        ],
+        [
+          1316.63,
+          794.66
+        ],
+        [
+          1299.83,
+          789.64
+        ],
+        [
+          1220.97,
+          781.36
+        ],
+        [
+          1218.49,
+          782.36
+        ],
+        [
+          1211.69,
+          788.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1430.32,
+          1077.13
+        ],
+        [
+          1417.07,
+          1130.78
+        ],
+        [
+          1434.65,
+          1156.91
+        ],
+        [
+          1447.36,
+          1108.82
+        ],
+        [
+          1466.46,
+          1027.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1162.45,
+          919.38
+        ],
+        [
+          1163.79,
+          911.31
+        ],
+        [
+          1164.13,
+          900.56
+        ],
+        [
+          1160.77,
+          890.81
+        ],
+        [
+          1156.06,
+          884.43
+        ],
+        [
+          1144.64,
+          874.34
+        ],
+        [
+          1135.23,
+          868.97
+        ],
+        [
+          1129.51,
+          867.96
+        ],
+        [
+          1124.47,
+          867.96
+        ],
+        [
+          1121.68,
+          869.57
+        ],
+        [
+          1129.08,
+          877.3
+        ],
+        [
+          1159.99,
+          923.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1112.94,
+          874.61
+        ],
+        [
+          1113.28,
+          871.25
+        ],
+        [
+          1115.97,
+          869.57
+        ],
+        [
+          1121.68,
+          869.57
+        ],
+        [
+          1120.96,
+          867.89
+        ],
+        [
+          1118.35,
+          867.45
+        ],
+        [
+          1115.1,
+          867.24
+        ],
+        [
+          1112.48,
+          866.84
+        ],
+        [
+          1110.51,
+          866.56
+        ],
+        [
+          1106.78,
+          865.73
+        ],
+        [
+          1103.26,
+          865.73
+        ],
+        [
+          1101.18,
+          867.18
+        ],
+        [
+          1082.3,
+          887.7
+        ],
+        [
+          1111.94,
+          905.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1147.14,
+          923.33
+        ],
+        [
+          1122.69,
+          887.05
+        ],
+        [
+          1123.36,
+          910.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1072.44,
+          784.34
+        ],
+        [
+          1074.08,
+          806.76
+        ],
+        [
+          1075.33,
+          818.99
+        ],
+        [
+          1081.96,
+          823.14
+        ],
+        [
+          1094.96,
+          798.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1150.53,
+          928.5
+        ],
+        [
+          1165.36,
+          935.31
+        ],
+        [
+          1167.26,
+          934.45
+        ],
+        [
+          1159.99,
+          923.33
+        ],
+        [
+          1129.08,
+          877.3
+        ],
+        [
+          1121.68,
+          869.57
+        ],
+        [
+          1115.97,
+          869.57
+        ],
+        [
+          1113.28,
+          871.25
+        ],
+        [
+          1112.94,
+          874.61
+        ],
+        [
+          1111.94,
+          905.2
+        ],
+        [
+          1123.36,
+          910.57
+        ],
+        [
+          1122.69,
+          887.05
+        ],
+        [
+          1147.14,
+          923.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1358.38,
+          924.99
+        ],
+        [
+          1361.04,
+          925.97
+        ],
+        [
+          1377.33,
+          935.79
+        ],
+        [
+          1385.97,
+          912.52
+        ],
+        [
+          1385.73,
+          908.17
+        ],
+        [
+          1384.77,
+          904.6
+        ],
+        [
+          1380.21,
+          902.68
+        ],
+        [
+          1376.37,
+          901.72
+        ],
+        [
+          1371.09,
+          901.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1366.06,
+          873.65
+        ],
+        [
+          1359.82,
+          879.89
+        ],
+        [
+          1359.84,
+          885.3
+        ],
+        [
+          1353.2,
+          894.6
+        ],
+        [
+          1334.21,
+          911.97
+        ],
+        [
+          1354.06,
+          922.83
+        ],
+        [
+          1386.93,
+          883.73
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1346.53,
+          869.98
+        ],
+        [
+          1349.64,
+          870.19
+        ],
+        [
+          1350.68,
+          869.15
+        ],
+        [
+          1351.09,
+          865.63
+        ],
+        [
+          1308.17,
+          844.12
+        ],
+        [
+          1283.52,
+          832.36
+        ],
+        [
+          1294.69,
+          844.68
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1339.5,
+          1017.88
+        ],
+        [
+          1337.24,
+          1023.65
+        ],
+        [
+          1341.25,
+          1025.41
+        ],
+        [
+          1344.02,
+          1016.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1351.8,
+          991.52
+        ],
+        [
+          1344.52,
+          1007.08
+        ],
+        [
+          1349.79,
+          1004.82
+        ],
+        [
+          1355.8,
+          992.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1195.94,
+          842.53
+        ],
+        [
+          1195.62,
+          850.88
+        ],
+        [
+          1202.04,
+          867.91
+        ],
+        [
+          1231.82,
+          884.33
+        ],
+        [
+          1249.52,
+          866.14
+        ],
+        [
+          1257.35,
+          865.54
+        ],
+        [
+          1289.09,
+          883.97
+        ],
+        [
+          1296.79,
+          874.97
+        ],
+        [
+          1298.4,
+          869.19
+        ],
+        [
+          1299.04,
+          862.77
+        ],
+        [
+          1269.54,
+          852.18
+        ],
+        [
+          1203.9,
+          830.86
+        ],
+        [
+          1200.2,
+          832.5
+        ],
+        [
+          1196.91,
+          835.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1289.06,
+          847.97
+        ],
+        [
+          1298.93,
+          851.72
+        ],
+        [
+          1298.93,
+          850.82
+        ],
+        [
+          1292.66,
+          841.86
+        ],
+        [
+          1283.52,
+          832.36
+        ],
+        [
+          1256.46,
+          819.64
+        ],
+        [
+          1249.83,
+          819.1
+        ],
+        [
+          1240.15,
+          818.56
+        ],
+        [
+          1226.89,
+          819.46
+        ],
+        [
+          1217.03,
+          821.25
+        ],
+        [
+          1212.55,
+          822.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1247.21,
+          815.08
+        ],
+        [
+          1210.29,
+          797.88
+        ],
+        [
+          1200.44,
+          797.16
+        ],
+        [
+          1190.58,
+          798.6
+        ],
+        [
+          1180.01,
+          801.64
+        ],
+        [
+          1172.48,
+          804.69
+        ],
+        [
+          1165.31,
+          808.99
+        ],
+        [
+          1158.32,
+          816.34
+        ],
+        [
+          1154.38,
+          824.04
+        ],
+        [
+          1152.23,
+          833.54
+        ],
+        [
+          1153.3,
+          839.82
+        ],
+        [
+          1202.04,
+          867.91
+        ],
+        [
+          1195.62,
+          850.88
+        ],
+        [
+          1195.94,
+          842.53
+        ],
+        [
+          1196.91,
+          835.79
+        ],
+        [
+          1200.2,
+          832.5
+        ],
+        [
+          1172.01,
+          844.08
+        ],
+        [
+          1166.18,
+          836.3
+        ],
+        [
+          1200.4,
+          819.97
+        ],
+        [
+          1203.12,
+          819.97
+        ],
+        [
+          1212.55,
+          822.86
+        ],
+        [
+          1217.03,
+          821.25
+        ],
+        [
+          1226.89,
+          819.46
+        ],
+        [
+          1240.15,
+          818.56
+        ],
+        [
+          1249.83,
+          819.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          750.37,
+          547.79
+        ],
+        [
+          753.07,
+          556.29
+        ],
+        [
+          753.27,
+          570.18
+        ],
+        [
+          753.07,
+          572.46
+        ],
+        [
+          760.95,
+          562.92
+        ],
+        [
+          764.26,
+          556.49
+        ],
+        [
+          764.06,
+          552.14
+        ],
+        [
+          760.53,
+          545.92
+        ],
+        [
+          756.39,
+          543.22
+        ],
+        [
+          753.07,
+          542.39
+        ],
+        [
+          746.85,
+          542.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1119.23,
+          849.04
+        ],
+        [
+          1199.22,
+          898.11
+        ],
+        [
+          1165.94,
+          928.35
+        ],
+        [
+          1165.61,
+          934.74
+        ],
+        [
+          1179.65,
+          940.22
+        ],
+        [
+          1231.82,
+          884.33
+        ],
+        [
+          1138.2,
+          830.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1331.3,
+          1020.73
+        ],
+        [
+          1369.65,
+          1008.53
+        ],
+        [
+          1379.23,
+          1008.82
+        ],
+        [
+          1364.13,
+          1053.85
+        ],
+        [
+          1370.52,
+          1062.85
+        ],
+        [
+          1390.27,
+          1006.79
+        ],
+        [
+          1389.11,
+          1003.88
+        ],
+        [
+          1384.75,
+          998.66
+        ],
+        [
+          1367.61,
+          998.37
+        ],
+        [
+          1321.1,
+          1015.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1334.21,
+          911.97
+        ],
+        [
+          1353.2,
+          894.6
+        ],
+        [
+          1359.84,
+          885.3
+        ],
+        [
+          1359.84,
+          874.8
+        ],
+        [
+          1331.45,
+          864.3
+        ],
+        [
+          1289.06,
+          847.97
+        ],
+        [
+          1203.12,
+          819.97
+        ],
+        [
+          1200.4,
+          819.97
+        ],
+        [
+          1166.18,
+          836.3
+        ],
+        [
+          1172.01,
+          844.08
+        ],
+        [
+          1203.9,
+          830.86
+        ],
+        [
+          1269.62,
+          852.24
+        ],
+        [
+          1348.17,
+          881.02
+        ],
+        [
+          1345.45,
+          887.24
+        ],
+        [
+          1327.83,
+          905.89
+        ],
+        [
+          1304.94,
+          924.56
+        ],
+        [
+          1250.18,
+          965.01
+        ],
+        [
+          1260.68,
+          970.85
+        ],
+        [
+          1311.66,
+          929.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1361.04,
+          925.97
+        ],
+        [
+          1351.71,
+          921.69
+        ],
+        [
+          1335.38,
+          942.69
+        ],
+        [
+          1304.62,
+          985.62
+        ],
+        [
+          1270.79,
+          990.29
+        ],
+        [
+          1322.51,
+          1015.96
+        ],
+        [
+          1316.67,
+          989.9
+        ],
+        [
+          1343.54,
+          949.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1343.54,
+          949.69
+        ],
+        [
+          1435.32,
+          1002.19
+        ],
+        [
+          1414.71,
+          1026.69
+        ],
+        [
+          1376.99,
+          1077.63
+        ],
+        [
+          1387.88,
+          1089.69
+        ],
+        [
+          1437.65,
+          1022.41
+        ],
+        [
+          1464.09,
+          988.97
+        ],
+        [
+          1456.7,
+          982.75
+        ],
+        [
+          1361.04,
+          925.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1311.66,
+          929.86
+        ],
+        [
+          1335.38,
+          942.69
+        ],
+        [
+          1351.71,
+          921.69
+        ],
+        [
+          1334.21,
+          911.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1198.33,
+          952.27
+        ],
+        [
+          1256.75,
+          896.25
+        ],
+        [
+          1304.94,
+          924.56
+        ],
+        [
+          1327.83,
+          905.89
+        ],
+        [
+          1257.35,
+          865.54
+        ],
+        [
+          1249.52,
+          866.14
+        ],
+        [
+          1179.65,
+          940.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1408.64,
+          986.75
+        ],
+        [
+          1404.3,
+          995.99
+        ],
+        [
+          1412.56,
+          997.67
+        ],
+        [
+          1415.22,
+          990.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1429.99,
+          964.27
+        ],
+        [
+          1433.17,
+          959.02
+        ],
+        [
+          1449.12,
+          931.64
+        ],
+        [
+          1448.74,
+          920.2
+        ],
+        [
+          1446.11,
+          905.2
+        ],
+        [
+          1442.55,
+          901.45
+        ],
+        [
+          1366.47,
+          862.78
+        ],
+        [
+          1266.14,
+          812.5
+        ],
+        [
+          1186.16,
+          777.25
+        ],
+        [
+          1182.8,
+          784.97
+        ],
+        [
+          1308.17,
+          844.12
+        ],
+        [
+          1436.42,
+          908.93
+        ],
+        [
+          1439.18,
+          926.77
+        ],
+        [
+          1438.67,
+          932.54
+        ],
+        [
+          1421.55,
+          959.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          690.18,
+          598.2
+        ],
+        [
+          707.65,
+          597.86
+        ],
+        [
+          718.87,
+          593.69
+        ],
+        [
+          700.44,
+          585.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          684.65,
+          578.34
+        ],
+        [
+          677.48,
+          561.85
+        ],
+        [
+          673.18,
+          571.17
+        ],
+        [
+          672.6,
+          580.7
+        ],
+        [
+          675.33,
+          589.63
+        ],
+        [
+          679.45,
+          593.21
+        ],
+        [
+          690.17,
+          580.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1065.99,
+          779.59
+        ],
+        [
+          1064.62,
+          766.07
+        ],
+        [
+          1058.7,
+          769.8
+        ],
+        [
+          1055.05,
+          772.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          615.36,
+          603.16
+        ],
+        [
+          635.62,
+          604.06
+        ],
+        [
+          639.92,
+          606.39
+        ],
+        [
+          642.25,
+          611.4
+        ],
+        [
+          645.84,
+          633.47
+        ],
+        [
+          659.99,
+          632.55
+        ],
+        [
+          666.7,
+          631.5
+        ],
+        [
+          670.2,
+          631.48
+        ],
+        [
+          670.57,
+          622.87
+        ],
+        [
+          663.83,
+          610.99
+        ],
+        [
+          662.14,
+          608.54
+        ],
+        [
+          654.07,
+          602.8
+        ],
+        [
+          643.14,
+          598.86
+        ],
+        [
+          629.34,
+          598.86
+        ],
+        [
+          614.11,
+          600.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          1072.44,
+          784.34
+        ],
+        [
+          1094.96,
+          798.12
+        ],
+        [
+          1108.77,
+          771.87
+        ],
+        [
+          1070.55,
+          760.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "20.Galvanized steel pipe",
+      "score": null,
+      "points": [
+        [
+          1434.67,
+          916.12
+        ],
+        [
+          1431.08,
+          912.04
+        ],
+        [
+          1424.6,
+          909.64
+        ],
+        [
+          1417.4,
+          908.68
+        ],
+        [
+          1415.48,
+          908.68
+        ],
+        [
+          1394.0,
+          945.6
+        ],
+        [
+          1414.6,
+          957.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753236924.jpg",
+  "imageData": null,
+  "imageWidth": 1898,
+  "imageHeight": 1500,
+  "text": "",
+  "description": ""
+}

@@ -1,0 +1,19 @@
+handler
+rebar
+structure steel
+mixed steel
+heavy iron
+panel
+square pipe
+mesh
+small pipe
+trash
+vehicle
+pipe
+plastic
+machine
+LPG GAS cylinder
+beam
+drum
+Fan
+Guillotine

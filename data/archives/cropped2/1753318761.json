@@ -1,0 +1,1131 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          667.42,
+          748.23
+        ],
+        [
+          703.27,
+          733.71
+        ],
+        [
+          681.56,
+          727.77
+        ],
+        [
+          607.03,
+          710.09
+        ],
+        [
+          603.0,
+          717.53
+        ],
+        [
+          599.75,
+          719.69
+        ],
+        [
+          598.98,
+          732.24
+        ],
+        [
+          648.0,
+          743.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          589.34,
+          701.48
+        ],
+        [
+          600.45,
+          688.38
+        ],
+        [
+          597.98,
+          672.78
+        ],
+        [
+          589.51,
+          669.67
+        ],
+        [
+          471.01,
+          629.57
+        ],
+        [
+          459.6,
+          643.26
+        ],
+        [
+          460.23,
+          657.98
+        ],
+        [
+          583.46,
+          700.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          537.77,
+          563.66
+        ],
+        [
+          529.97,
+          566.66
+        ],
+        [
+          526.87,
+          577.96
+        ],
+        [
+          623.24,
+          659.76
+        ],
+        [
+          684.5,
+          711.45
+        ],
+        [
+          708.33,
+          731.75
+        ],
+        [
+          721.31,
+          727.47
+        ],
+        [
+          720.38,
+          720.24
+        ],
+        [
+          721.18,
+          716.63
+        ],
+        [
+          725.2,
+          712.88
+        ],
+        [
+          689.42,
+          684.52
+        ],
+        [
+          664.62,
+          664.41
+        ],
+        [
+          599.35,
+          608.35
+        ],
+        [
+          541.07,
+          560.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          304.39,
+          625.71
+        ],
+        [
+          316.77,
+          641.33
+        ],
+        [
+          429.56,
+          543.7
+        ],
+        [
+          427.15,
+          533.87
+        ],
+        [
+          415.85,
+          527.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "68. Magnet",
+      "score": null,
+      "points": [
+        [
+          567.97,
+          498.82
+        ],
+        [
+          548.69,
+          489.5
+        ],
+        [
+          530.07,
+          486.29
+        ],
+        [
+          503.73,
+          493.04
+        ],
+        [
+          492.16,
+          493.36
+        ],
+        [
+          486.96,
+          504.05
+        ],
+        [
+          475.78,
+          508.61
+        ],
+        [
+          461.88,
+          515.23
+        ],
+        [
+          447.58,
+          528.72
+        ],
+        [
+          440.32,
+          545.1
+        ],
+        [
+          440.1,
+          567.49
+        ],
+        [
+          439.55,
+          585.96
+        ],
+        [
+          444.82,
+          604.26
+        ],
+        [
+          461.2,
+          622.06
+        ],
+        [
+          482.3,
+          630.38
+        ],
+        [
+          505.62,
+          635.35
+        ],
+        [
+          529.78,
+          637.57
+        ],
+        [
+          561.96,
+          632.59
+        ],
+        [
+          582.52,
+          624.53
+        ],
+        [
+          526.87,
+          577.96
+        ],
+        [
+          529.97,
+          566.66
+        ],
+        [
+          537.77,
+          563.66
+        ],
+        [
+          541.07,
+          560.66
+        ],
+        [
+          599.35,
+          608.35
+        ],
+        [
+          610.81,
+          596.23
+        ],
+        [
+          617.49,
+          577.89
+        ],
+        [
+          616.95,
+          566.52
+        ],
+        [
+          611.39,
+          540.15
+        ],
+        [
+          608.05,
+          524.06
+        ],
+        [
+          597.68,
+          514.11
+        ],
+        [
+          586.92,
+          508.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          536.59,
+          1003.17
+        ],
+        [
+          550.86,
+          1047.67
+        ],
+        [
+          571.6,
+          1069.58
+        ],
+        [
+          761.42,
+          1267.77
+        ],
+        [
+          782.6,
+          1257.36
+        ],
+        [
+          786.32,
+          1241.75
+        ],
+        [
+          597.91,
+          1048.88
+        ],
+        [
+          520.09,
+          965.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          796.14,
+          857.29
+        ],
+        [
+          817.23,
+          875.85
+        ],
+        [
+          836.4,
+          886.4
+        ],
+        [
+          847.8,
+          879.8
+        ],
+        [
+          834.42,
+          868.77
+        ],
+        [
+          807.82,
+          847.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          345.1,
+          560.27
+        ],
+        [
+          292.56,
+          569.77
+        ],
+        [
+          296.44,
+          577.13
+        ],
+        [
+          333.92,
+          571.11
+        ],
+        [
+          333.39,
+          568.7
+        ],
+        [
+          342.49,
+          567.36
+        ],
+        [
+          344.1,
+          569.1
+        ],
+        [
+          372.48,
+          565.49
+        ],
+        [
+          379.93,
+          558.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          342.74,
+          591.94
+        ],
+        [
+          350.37,
+          585.51
+        ],
+        [
+          344.1,
+          569.1
+        ],
+        [
+          342.49,
+          567.36
+        ],
+        [
+          333.39,
+          568.7
+        ],
+        [
+          333.92,
+          571.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          534.8,
+          775.74
+        ],
+        [
+          561.8,
+          759.99
+        ],
+        [
+          556.85,
+          747.39
+        ],
+        [
+          524.45,
+          763.14
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          452.91,
+          754.59
+        ],
+        [
+          458.76,
+          749.19
+        ],
+        [
+          423.67,
+          730.74
+        ],
+        [
+          417.4,
+          737.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          495.21,
+          727.6
+        ],
+        [
+          482.16,
+          754.59
+        ],
+        [
+          494.31,
+          755.04
+        ],
+        [
+          506.46,
+          728.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          461.01,
+          720.4
+        ],
+        [
+          467.76,
+          720.85
+        ],
+        [
+          473.16,
+          718.6
+        ],
+        [
+          470.91,
+          714.1
+        ],
+        [
+          462.36,
+          710.05
+        ],
+        [
+          452.91,
+          710.95
+        ],
+        [
+          448.41,
+          714.55
+        ],
+        [
+          446.61,
+          721.3
+        ],
+        [
+          444.36,
+          728.49
+        ],
+        [
+          446.61,
+          731.19
+        ],
+        [
+          451.11,
+          729.84
+        ],
+        [
+          455.61,
+          726.7
+        ],
+        [
+          458.31,
+          724.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          619.5,
+          1037.25
+        ],
+        [
+          630.99,
+          1034.85
+        ],
+        [
+          629.22,
+          1028.66
+        ],
+        [
+          614.83,
+          991.79
+        ],
+        [
+          599.15,
+          988.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "score": null,
+      "points": [
+        [
+          621.09,
+          1002.86
+        ],
+        [
+          624.91,
+          1008.53
+        ],
+        [
+          630.04,
+          1011.91
+        ],
+        [
+          635.17,
+          1016.82
+        ],
+        [
+          639.43,
+          1019.88
+        ],
+        [
+          643.57,
+          1020.53
+        ],
+        [
+          646.74,
+          1020.09
+        ],
+        [
+          650.66,
+          1017.48
+        ],
+        [
+          654.15,
+          1013.66
+        ],
+        [
+          656.45,
+          1008.09
+        ],
+        [
+          652.74,
+          1002.53
+        ],
+        [
+          650.01,
+          1000.02
+        ],
+        [
+          644.01,
+          999.47
+        ],
+        [
+          632.66,
+          997.84
+        ],
+        [
+          619.46,
+          997.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "6.Panels",
+      "score": null,
+      "points": [
+        [
+          520.09,
+          965.23
+        ],
+        [
+          599.15,
+          988.03
+        ],
+        [
+          614.83,
+          991.79
+        ],
+        [
+          644.01,
+          999.47
+        ],
+        [
+          650.01,
+          1000.02
+        ],
+        [
+          776.99,
+          1030.23
+        ],
+        [
+          686.94,
+          968.24
+        ],
+        [
+          681.96,
+          967.79
+        ],
+        [
+          675.85,
+          962.13
+        ],
+        [
+          673.37,
+          961.68
+        ],
+        [
+          667.26,
+          965.98
+        ],
+        [
+          661.14,
+          964.85
+        ],
+        [
+          657.08,
+          962.59
+        ],
+        [
+          655.04,
+          954.45
+        ],
+        [
+          651.65,
+          955.8
+        ],
+        [
+          648.48,
+          960.1
+        ],
+        [
+          641.23,
+          958.96
+        ],
+        [
+          634.68,
+          956.25
+        ],
+        [
+          631.29,
+          949.24
+        ],
+        [
+          617.03,
+          947.43
+        ],
+        [
+          613.09,
+          943.8
+        ],
+        [
+          551.2,
+          934.7
+        ],
+        [
+          535.04,
+          940.27
+        ],
+        [
+          531.87,
+          948.84
+        ],
+        [
+          518.33,
+          949.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "63.Steel grating",
+      "score": null,
+      "points": [
+        [
+          611.42,
+          1226.4
+        ],
+        [
+          631.33,
+          1223.23
+        ],
+        [
+          630.42,
+          1211.91
+        ],
+        [
+          571.6,
+          1069.58
+        ],
+        [
+          550.86,
+          1047.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "63.Steel grating",
+      "score": null,
+      "points": [
+        [
+          776.7,
+          889.85
+        ],
+        [
+          817.23,
+          875.85
+        ],
+        [
+          796.14,
+          857.29
+        ],
+        [
+          768.62,
+          882.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "63.Steel grating",
+      "score": null,
+      "points": [
+        [
+          834.42,
+          868.77
+        ],
+        [
+          843.92,
+          863.97
+        ],
+        [
+          829.42,
+          849.06
+        ],
+        [
+          822.82,
+          848.77
+        ],
+        [
+          807.82,
+          847.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "63.Steel grating",
+      "score": null,
+      "points": [
+        [
+          597.98,
+          672.78
+        ],
+        [
+          600.45,
+          688.38
+        ],
+        [
+          589.34,
+          701.48
+        ],
+        [
+          583.46,
+          700.15
+        ],
+        [
+          569.97,
+          774.85
+        ],
+        [
+          591.06,
+          761.83
+        ],
+        [
+          606.41,
+          753.92
+        ],
+        [
+          614.94,
+          753.61
+        ],
+        [
+          628.1,
+          748.81
+        ],
+        [
+          648.0,
+          743.48
+        ],
+        [
+          598.98,
+          732.24
+        ],
+        [
+          599.75,
+          719.69
+        ],
+        [
+          603.0,
+          717.53
+        ],
+        [
+          607.03,
+          710.09
+        ],
+        [
+          681.56,
+          727.77
+        ],
+        [
+          684.5,
+          711.45
+        ],
+        [
+          623.24,
+          659.76
+        ],
+        [
+          590.45,
+          659.09
+        ],
+        [
+          589.51,
+          669.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "63.Steel grating",
+      "score": null,
+      "points": [
+        [
+          689.42,
+          684.52
+        ],
+        [
+          691.52,
+          664.72
+        ],
+        [
+          664.62,
+          664.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753318761.jpg",
+  "imageData": null,
+  "imageWidth": 1328,
+  "imageHeight": 1617,
+  "text": "",
+  "description": ""
+}

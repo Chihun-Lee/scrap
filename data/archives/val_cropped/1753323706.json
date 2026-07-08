@@ -1,0 +1,10241 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          271.49,
+          699.05
+        ],
+        [
+          299.5,
+          714.7
+        ],
+        [
+          326.43,
+          713.69
+        ],
+        [
+          324.99,
+          702.89
+        ],
+        [
+          303.88,
+          696.17
+        ],
+        [
+          303.16,
+          673.14
+        ],
+        [
+          280.61,
+          670.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          622.13,
+          392.9
+        ],
+        [
+          606.6,
+          461.6
+        ],
+        [
+          659.29,
+          472.8
+        ],
+        [
+          676.01,
+          420.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          551.89,
+          375.8
+        ],
+        [
+          507.67,
+          474.28
+        ],
+        [
+          571.9,
+          498.6
+        ],
+        [
+          576.9,
+          501.33
+        ],
+        [
+          594.29,
+          463.87
+        ],
+        [
+          600.56,
+          456.53
+        ],
+        [
+          611.67,
+          440.04
+        ],
+        [
+          618.81,
+          403.16
+        ],
+        [
+          615.44,
+          400.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          486.25,
+          520.53
+        ],
+        [
+          500.52,
+          561.63
+        ],
+        [
+          520.61,
+          547.12
+        ],
+        [
+          524.7,
+          536.36
+        ],
+        [
+          547.2,
+          536.7
+        ],
+        [
+          571.2,
+          498.5
+        ],
+        [
+          512.7,
+          476.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          495.58,
+          567.28
+        ],
+        [
+          481.13,
+          553.15
+        ],
+        [
+          420.42,
+          494.37
+        ],
+        [
+          372.4,
+          526.7
+        ],
+        [
+          370.96,
+          561.82
+        ],
+        [
+          405.33,
+          565.67
+        ],
+        [
+          443.55,
+          605.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          547.2,
+          536.2
+        ],
+        [
+          585.04,
+          562.51
+        ],
+        [
+          633.35,
+          537.98
+        ],
+        [
+          628.15,
+          523.12
+        ],
+        [
+          571.4,
+          498.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          561.07,
+          310.45
+        ],
+        [
+          577.03,
+          261.48
+        ],
+        [
+          618.54,
+          277.97
+        ],
+        [
+          621.59,
+          263.53
+        ],
+        [
+          548.6,
+          218.3
+        ],
+        [
+          495.8,
+          304.3
+        ],
+        [
+          524.43,
+          315.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          291.07,
+          516.08
+        ],
+        [
+          295.58,
+          510.73
+        ],
+        [
+          359.17,
+          561.06
+        ],
+        [
+          372.4,
+          526.7
+        ],
+        [
+          382.01,
+          513.1
+        ],
+        [
+          380.86,
+          508.37
+        ],
+        [
+          373.66,
+          495.75
+        ],
+        [
+          310.9,
+          460.2
+        ],
+        [
+          287.6,
+          512.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          674.8,
+          1039.0
+        ],
+        [
+          703.93,
+          1045.66
+        ],
+        [
+          737.79,
+          1010.96
+        ],
+        [
+          663.6,
+          986.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          679.62,
+          1062.75
+        ],
+        [
+          666.24,
+          1062.01
+        ],
+        [
+          659.07,
+          1081.71
+        ],
+        [
+          641.56,
+          1100.29
+        ],
+        [
+          679.1,
+          1103.26
+        ],
+        [
+          721.09,
+          1072.04
+        ],
+        [
+          674.7,
+          1039.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          425.69,
+          774.59
+        ],
+        [
+          486.63,
+          777.94
+        ],
+        [
+          466.4,
+          756.6
+        ],
+        [
+          425.69,
+          757.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          347.4,
+          767.1
+        ],
+        [
+          344.89,
+          859.82
+        ],
+        [
+          387.89,
+          850.79
+        ],
+        [
+          399.93,
+          753.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          400.9,
+          751.8
+        ],
+        [
+          393.0,
+          809.3
+        ],
+        [
+          422.3,
+          809.68
+        ],
+        [
+          425.69,
+          757.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          235.05,
+          777.37
+        ],
+        [
+          264.0,
+          794.3
+        ],
+        [
+          274.9,
+          792.2
+        ],
+        [
+          306.4,
+          745.8
+        ],
+        [
+          266.13,
+          722.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          364.27,
+          350.53
+        ],
+        [
+          364.07,
+          356.76
+        ],
+        [
+          364.48,
+          359.04
+        ],
+        [
+          403.67,
+          372.93
+        ],
+        [
+          461.73,
+          367.33
+        ],
+        [
+          458.83,
+          361.52
+        ],
+        [
+          437.27,
+          342.86
+        ],
+        [
+          409.06,
+          323.16
+        ],
+        [
+          389.38,
+          299.3
+        ],
+        [
+          337.15,
+          306.27
+        ],
+        [
+          361.03,
+          342.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          234.65,
+          265.98
+        ],
+        [
+          276.78,
+          299.95
+        ],
+        [
+          263.52,
+          333.04
+        ],
+        [
+          278.22,
+          321.4
+        ],
+        [
+          283.24,
+          296.66
+        ],
+        [
+          280.55,
+          284.48
+        ],
+        [
+          277.32,
+          277.31
+        ],
+        [
+          257.97,
+          262.43
+        ],
+        [
+          256.35,
+          261.36
+        ],
+        [
+          247.39,
+          258.85
+        ],
+        [
+          228.93,
+          258.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          615.44,
+          400.33
+        ],
+        [
+          618.81,
+          403.16
+        ],
+        [
+          622.13,
+          392.9
+        ],
+        [
+          647.13,
+          405.94
+        ],
+        [
+          657.24,
+          381.06
+        ],
+        [
+          661.01,
+          357.08
+        ],
+        [
+          656.01,
+          354.03
+        ],
+        [
+          647.96,
+          351.53
+        ],
+        [
+          639.99,
+          352.69
+        ],
+        [
+          588.83,
+          335.98
+        ],
+        [
+          562.46,
+          335.15
+        ],
+        [
+          561.62,
+          379.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          390.28,
+          430.66
+        ],
+        [
+          425.23,
+          413.46
+        ],
+        [
+          427.2,
+          419.73
+        ],
+        [
+          443.33,
+          412.38
+        ],
+        [
+          445.48,
+          408.8
+        ],
+        [
+          444.94,
+          398.94
+        ],
+        [
+          437.95,
+          387.29
+        ],
+        [
+          430.97,
+          387.83
+        ],
+        [
+          423.8,
+          387.65
+        ],
+        [
+          370.03,
+          372.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          308.38,
+          350.55
+        ],
+        [
+          315.37,
+          362.74
+        ],
+        [
+          320.03,
+          375.29
+        ],
+        [
+          321.82,
+          377.8
+        ],
+        [
+          367.0,
+          366.07
+        ],
+        [
+          370.03,
+          372.96
+        ],
+        [
+          423.8,
+          387.65
+        ],
+        [
+          430.97,
+          387.83
+        ],
+        [
+          431.32,
+          370.27
+        ],
+        [
+          403.67,
+          372.93
+        ],
+        [
+          364.48,
+          359.04
+        ],
+        [
+          364.07,
+          356.76
+        ],
+        [
+          364.27,
+          350.53
+        ],
+        [
+          361.03,
+          342.09
+        ],
+        [
+          343.33,
+          351.09
+        ],
+        [
+          317.34,
+          341.77
+        ],
+        [
+          309.78,
+          335.12
+        ],
+        [
+          302.29,
+          340.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          270.62,
+          720.01
+        ],
+        [
+          320.51,
+          734.28
+        ],
+        [
+          331.59,
+          709.13
+        ],
+        [
+          326.5,
+          711.47
+        ],
+        [
+          326.43,
+          713.69
+        ],
+        [
+          299.5,
+          714.7
+        ],
+        [
+          271.49,
+          699.05
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          291.07,
+          516.08
+        ],
+        [
+          287.6,
+          512.3
+        ],
+        [
+          310.9,
+          460.2
+        ],
+        [
+          309.78,
+          460.1
+        ],
+        [
+          287.69,
+          457.85
+        ],
+        [
+          274.65,
+          461.46
+        ],
+        [
+          272.15,
+          483.11
+        ],
+        [
+          274.09,
+          487.83
+        ],
+        [
+          277.7,
+          498.93
+        ],
+        [
+          274.09,
+          499.76
+        ],
+        [
+          262.71,
+          505.04
+        ],
+        [
+          259.93,
+          520.31
+        ],
+        [
+          262.71,
+          534.46
+        ],
+        [
+          266.32,
+          540.02
+        ],
+        [
+          265.7,
+          549.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          369.03,
+          570.27
+        ],
+        [
+          376.25,
+          576.38
+        ],
+        [
+          382.91,
+          574.99
+        ],
+        [
+          386.8,
+          577.77
+        ],
+        [
+          392.07,
+          591.65
+        ],
+        [
+          399.01,
+          594.15
+        ],
+        [
+          414.68,
+          594.61
+        ],
+        [
+          429.55,
+          623.57
+        ],
+        [
+          435.37,
+          619.41
+        ],
+        [
+          437.32,
+          616.35
+        ],
+        [
+          438.15,
+          608.58
+        ],
+        [
+          443.55,
+          605.5
+        ],
+        [
+          405.33,
+          565.67
+        ],
+        [
+          370.96,
+          561.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          461.5,
+          638.3
+        ],
+        [
+          482.65,
+          641.69
+        ],
+        [
+          504.75,
+          635.65
+        ],
+        [
+          519.57,
+          630.76
+        ],
+        [
+          542.06,
+          639.43
+        ],
+        [
+          540.0,
+          624.13
+        ],
+        [
+          531.63,
+          633.14
+        ],
+        [
+          458.97,
+          596.16
+        ],
+        [
+          457.38,
+          595.1
+        ],
+        [
+          443.55,
+          605.5
+        ],
+        [
+          445.55,
+          614.63
+        ],
+        [
+          447.7,
+          619.11
+        ],
+        [
+          450.39,
+          626.82
+        ],
+        [
+          450.21,
+          630.58
+        ],
+        [
+          448.5,
+          635.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          486.63,
+          777.94
+        ],
+        [
+          511.74,
+          781.44
+        ],
+        [
+          517.11,
+          779.02
+        ],
+        [
+          550.55,
+          747.06
+        ],
+        [
+          548.38,
+          740.36
+        ],
+        [
+          553.94,
+          732.31
+        ],
+        [
+          567.8,
+          723.4
+        ],
+        [
+          518.96,
+          680.12
+        ],
+        [
+          509.75,
+          681.66
+        ],
+        [
+          503.8,
+          692.69
+        ],
+        [
+          458.17,
+          747.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          469.94,
+          842.38
+        ],
+        [
+          470.22,
+          854.87
+        ],
+        [
+          478.27,
+          865.42
+        ],
+        [
+          493.26,
+          876.24
+        ],
+        [
+          504.92,
+          877.91
+        ],
+        [
+          520.86,
+          859.36
+        ],
+        [
+          541.67,
+          847.1
+        ],
+        [
+          555.42,
+          856.76
+        ],
+        [
+          563.77,
+          833.77
+        ],
+        [
+          540.73,
+          839.32
+        ],
+        [
+          504.08,
+          848.48
+        ],
+        [
+          492.98,
+          836.83
+        ],
+        [
+          474.1,
+          835.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          440.07,
+          837.7
+        ],
+        [
+          420.37,
+          835.84
+        ],
+        [
+          373.55,
+          882.66
+        ],
+        [
+          453.07,
+          967.39
+        ],
+        [
+          472.4,
+          946.58
+        ],
+        [
+          470.69,
+          937.4
+        ],
+        [
+          476.64,
+          921.05
+        ],
+        [
+          487.41,
+          902.1
+        ],
+        [
+          500.64,
+          881.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          541.67,
+          847.1
+        ],
+        [
+          520.86,
+          859.36
+        ],
+        [
+          487.41,
+          902.1
+        ],
+        [
+          476.64,
+          921.05
+        ],
+        [
+          470.69,
+          937.4
+        ],
+        [
+          484.07,
+          964.16
+        ],
+        [
+          496.7,
+          966.02
+        ],
+        [
+          519.74,
+          930.34
+        ],
+        [
+          555.42,
+          856.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          444.43,
+          989.74
+        ],
+        [
+          448.74,
+          1012.53
+        ],
+        [
+          487.85,
+          995.26
+        ],
+        [
+          487.85,
+          977.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          462.42,
+          1009.17
+        ],
+        [
+          447.07,
+          1032.21
+        ],
+        [
+          475.86,
+          1027.65
+        ],
+        [
+          485.45,
+          1001.98
+        ],
+        [
+          483.77,
+          997.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          354.07,
+          1025.23
+        ],
+        [
+          367.39,
+          1033.56
+        ],
+        [
+          391.82,
+          1038.0
+        ],
+        [
+          408.48,
+          1033.56
+        ],
+        [
+          413.48,
+          1030.5
+        ],
+        [
+          349.07,
+          1016.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          430.07,
+          1012.1
+        ],
+        [
+          433.79,
+          992.78
+        ],
+        [
+          427.47,
+          974.57
+        ],
+        [
+          405.54,
+          958.96
+        ],
+        [
+          391.79,
+          954.13
+        ],
+        [
+          369.12,
+          960.07
+        ],
+        [
+          357.23,
+          969.36
+        ],
+        [
+          344.6,
+          986.46
+        ],
+        [
+          345.34,
+          1002.07
+        ],
+        [
+          422.64,
+          1023.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          752.66,
+          982.81
+        ],
+        [
+          765.72,
+          991.32
+        ],
+        [
+          773.19,
+          1001.68
+        ],
+        [
+          782.31,
+          1019.93
+        ],
+        [
+          783.97,
+          1020.14
+        ],
+        [
+          788.53,
+          997.33
+        ],
+        [
+          788.53,
+          979.08
+        ],
+        [
+          783.14,
+          972.03
+        ],
+        [
+          768.62,
+          969.54
+        ],
+        [
+          753.28,
+          972.03
+        ],
+        [
+          743.74,
+          977.01
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          643.94,
+          997.35
+        ],
+        [
+          652.86,
+          1011.47
+        ],
+        [
+          662.52,
+          1033.02
+        ],
+        [
+          666.24,
+          1062.01
+        ],
+        [
+          679.62,
+          1062.75
+        ],
+        [
+          661.78,
+          978.77
+        ],
+        [
+          650.63,
+          981.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          198.64,
+          1159.36
+        ],
+        [
+          246.82,
+          1096.73
+        ],
+        [
+          226.91,
+          1087.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          285.81,
+          1217.96
+        ],
+        [
+          313.48,
+          1208.86
+        ],
+        [
+          315.48,
+          1189.15
+        ],
+        [
+          283.23,
+          1165.93
+        ],
+        [
+          242.39,
+          1172.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          296.28,
+          1307.56
+        ],
+        [
+          293.38,
+          1319.79
+        ],
+        [
+          295.96,
+          1329.78
+        ],
+        [
+          324.75,
+          1345.62
+        ],
+        [
+          336.27,
+          1345.62
+        ],
+        [
+          332.51,
+          1324.65
+        ],
+        [
+          332.19,
+          1306.75
+        ],
+        [
+          319.0,
+          1306.75
+        ],
+        [
+          304.99,
+          1305.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          271.81,
+          1315.03
+        ],
+        [
+          293.38,
+          1319.79
+        ],
+        [
+          296.28,
+          1307.56
+        ],
+        [
+          304.99,
+          1305.49
+        ],
+        [
+          310.38,
+          1283.3
+        ],
+        [
+          310.4,
+          1251.97
+        ],
+        [
+          309.4,
+          1239.09
+        ],
+        [
+          307.06,
+          1237.06
+        ],
+        [
+          282.18,
+          1234.36
+        ],
+        [
+          278.45,
+          1237.89
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          107.87,
+          1233.61
+        ],
+        [
+          129.02,
+          1229.31
+        ],
+        [
+          152.32,
+          1231.1
+        ],
+        [
+          169.88,
+          1237.37
+        ],
+        [
+          173.92,
+          1204.21
+        ],
+        [
+          148.98,
+          1202.51
+        ],
+        [
+          115.37,
+          1202.36
+        ],
+        [
+          96.16,
+          1205.45
+        ],
+        [
+          94.61,
+          1239.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          106.79,
+          1274.47
+        ],
+        [
+          122.57,
+          1273.04
+        ],
+        [
+          144.61,
+          1273.22
+        ],
+        [
+          159.13,
+          1277.34
+        ],
+        [
+          172.93,
+          1284.87
+        ],
+        [
+          172.22,
+          1264.78
+        ],
+        [
+          156.88,
+          1260.29
+        ],
+        [
+          130.24,
+          1256.72
+        ],
+        [
+          106.85,
+          1259.2
+        ],
+        [
+          91.83,
+          1266.33
+        ],
+        [
+          90.31,
+          1282.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          106.79,
+          1296.34
+        ],
+        [
+          132.78,
+          1292.93
+        ],
+        [
+          153.03,
+          1295.26
+        ],
+        [
+          167.19,
+          1302.07
+        ],
+        [
+          172.75,
+          1308.52
+        ],
+        [
+          172.93,
+          1284.87
+        ],
+        [
+          159.13,
+          1277.34
+        ],
+        [
+          144.61,
+          1273.22
+        ],
+        [
+          122.57,
+          1273.04
+        ],
+        [
+          106.79,
+          1274.47
+        ],
+        [
+          90.31,
+          1282.18
+        ],
+        [
+          89.05,
+          1304.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          101.35,
+          1317.8
+        ],
+        [
+          117.82,
+          1313.92
+        ],
+        [
+          133.21,
+          1314.72
+        ],
+        [
+          150.35,
+          1317.66
+        ],
+        [
+          167.48,
+          1323.82
+        ],
+        [
+          172.04,
+          1329.04
+        ],
+        [
+          172.75,
+          1308.52
+        ],
+        [
+          167.19,
+          1302.07
+        ],
+        [
+          153.03,
+          1295.26
+        ],
+        [
+          132.78,
+          1292.93
+        ],
+        [
+          106.79,
+          1296.34
+        ],
+        [
+          89.05,
+          1304.94
+        ],
+        [
+          87.7,
+          1323.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          105.94,
+          1335.95
+        ],
+        [
+          129.17,
+          1335.33
+        ],
+        [
+          154.26,
+          1340.72
+        ],
+        [
+          160.94,
+          1344.74
+        ],
+        [
+          171.77,
+          1346.18
+        ],
+        [
+          172.04,
+          1329.04
+        ],
+        [
+          167.48,
+          1323.82
+        ],
+        [
+          150.35,
+          1317.66
+        ],
+        [
+          133.21,
+          1314.72
+        ],
+        [
+          117.82,
+          1313.92
+        ],
+        [
+          101.35,
+          1317.8
+        ],
+        [
+          87.7,
+          1323.96
+        ],
+        [
+          85.21,
+          1346.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          154.26,
+          1340.72
+        ],
+        [
+          129.17,
+          1335.33
+        ],
+        [
+          105.94,
+          1335.95
+        ],
+        [
+          85.21,
+          1346.11
+        ],
+        [
+          84.59,
+          1353.16
+        ],
+        [
+          160.94,
+          1344.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          69.74,
+          1355.03
+        ],
+        [
+          68.37,
+          1403.13
+        ],
+        [
+          75.3,
+          1410.91
+        ],
+        [
+          160.94,
+          1344.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          208.41,
+          1184.68
+        ],
+        [
+          217.73,
+          1182.71
+        ],
+        [
+          230.63,
+          1179.67
+        ],
+        [
+          244.43,
+          1180.74
+        ],
+        [
+          238.3,
+          1168.66
+        ],
+        [
+          238.17,
+          1154.47
+        ],
+        [
+          222.64,
+          1158.09
+        ],
+        [
+          213.94,
+          1168.4
+        ],
+        [
+          196.94,
+          1163.85
+        ],
+        [
+          196.22,
+          1192.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          210.56,
+          1206.55
+        ],
+        [
+          225.26,
+          1203.14
+        ],
+        [
+          240.31,
+          1201.89
+        ],
+        [
+          260.03,
+          1207.8
+        ],
+        [
+          273.47,
+          1219.27
+        ],
+        [
+          280.99,
+          1231.46
+        ],
+        [
+          281.53,
+          1217.48
+        ],
+        [
+          244.43,
+          1180.74
+        ],
+        [
+          230.63,
+          1179.67
+        ],
+        [
+          217.73,
+          1182.71
+        ],
+        [
+          208.41,
+          1184.68
+        ],
+        [
+          196.22,
+          1192.57
+        ],
+        [
+          194.07,
+          1217.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          208.15,
+          1232.25
+        ],
+        [
+          217.14,
+          1227.76
+        ],
+        [
+          235.1,
+          1226.67
+        ],
+        [
+          252.14,
+          1229.62
+        ],
+        [
+          262.67,
+          1236.12
+        ],
+        [
+          272.28,
+          1245.42
+        ],
+        [
+          276.77,
+          1255.18
+        ],
+        [
+          278.13,
+          1236.66
+        ],
+        [
+          280.99,
+          1231.46
+        ],
+        [
+          273.47,
+          1219.27
+        ],
+        [
+          260.03,
+          1207.8
+        ],
+        [
+          240.31,
+          1201.89
+        ],
+        [
+          225.26,
+          1203.14
+        ],
+        [
+          210.56,
+          1206.55
+        ],
+        [
+          194.07,
+          1217.3
+        ],
+        [
+          191.89,
+          1244.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          203.13,
+          1255.55
+        ],
+        [
+          224.72,
+          1250.27
+        ],
+        [
+          239.11,
+          1251.95
+        ],
+        [
+          256.34,
+          1256.88
+        ],
+        [
+          268.16,
+          1265.18
+        ],
+        [
+          276.04,
+          1277.83
+        ],
+        [
+          276.77,
+          1255.18
+        ],
+        [
+          272.28,
+          1245.42
+        ],
+        [
+          262.67,
+          1236.12
+        ],
+        [
+          252.14,
+          1229.62
+        ],
+        [
+          235.1,
+          1226.67
+        ],
+        [
+          217.14,
+          1227.76
+        ],
+        [
+          208.15,
+          1232.25
+        ],
+        [
+          191.89,
+          1244.49
+        ],
+        [
+          188.72,
+          1266.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          182.44,
+          1361.7
+        ],
+        [
+          200.89,
+          1337.65
+        ],
+        [
+          234.71,
+          1299.76
+        ],
+        [
+          270.4,
+          1312.87
+        ],
+        [
+          276.04,
+          1277.83
+        ],
+        [
+          268.16,
+          1265.18
+        ],
+        [
+          256.34,
+          1256.88
+        ],
+        [
+          239.11,
+          1251.95
+        ],
+        [
+          224.72,
+          1250.27
+        ],
+        [
+          203.13,
+          1255.55
+        ],
+        [
+          188.72,
+          1266.11
+        ],
+        [
+          177.36,
+          1353.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          372.02,
+          1190.87
+        ],
+        [
+          333.15,
+          1184.15
+        ],
+        [
+          318.04,
+          1189.67
+        ],
+        [
+          313.48,
+          1208.86
+        ],
+        [
+          304.6,
+          1214.38
+        ],
+        [
+          306.04,
+          1226.61
+        ],
+        [
+          313.24,
+          1218.7
+        ],
+        [
+          331.95,
+          1210.54
+        ],
+        [
+          356.66,
+          1207.18
+        ],
+        [
+          373.22,
+          1208.86
+        ],
+        [
+          382.33,
+          1213.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          323.67,
+          1242.43
+        ],
+        [
+          345.44,
+          1234.55
+        ],
+        [
+          372.19,
+          1235.17
+        ],
+        [
+          381.52,
+          1240.15
+        ],
+        [
+          385.45,
+          1232.13
+        ],
+        [
+          382.33,
+          1213.9
+        ],
+        [
+          373.22,
+          1208.86
+        ],
+        [
+          356.66,
+          1207.18
+        ],
+        [
+          331.95,
+          1210.54
+        ],
+        [
+          313.24,
+          1218.7
+        ],
+        [
+          306.04,
+          1226.61
+        ],
+        [
+          306.28,
+          1235.97
+        ],
+        [
+          309.4,
+          1239.09
+        ],
+        [
+          310.4,
+          1251.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          317.81,
+          1274.68
+        ],
+        [
+          336.09,
+          1264.5
+        ],
+        [
+          356.69,
+          1262.64
+        ],
+        [
+          368.72,
+          1265.54
+        ],
+        [
+          381.52,
+          1240.15
+        ],
+        [
+          372.19,
+          1235.17
+        ],
+        [
+          345.44,
+          1234.55
+        ],
+        [
+          323.67,
+          1242.43
+        ],
+        [
+          310.4,
+          1251.97
+        ],
+        [
+          311.56,
+          1282.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          334.84,
+          1296.73
+        ],
+        [
+          352.04,
+          1293.93
+        ],
+        [
+          360.64,
+          1293.13
+        ],
+        [
+          368.72,
+          1265.54
+        ],
+        [
+          356.69,
+          1262.64
+        ],
+        [
+          336.09,
+          1264.5
+        ],
+        [
+          317.81,
+          1274.68
+        ],
+        [
+          311.56,
+          1282.55
+        ],
+        [
+          308.21,
+          1289.02
+        ],
+        [
+          319.44,
+          1305.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          106.85,
+          1259.2
+        ],
+        [
+          130.24,
+          1256.72
+        ],
+        [
+          156.88,
+          1260.29
+        ],
+        [
+          172.22,
+          1264.78
+        ],
+        [
+          169.88,
+          1237.37
+        ],
+        [
+          152.32,
+          1231.1
+        ],
+        [
+          129.02,
+          1229.31
+        ],
+        [
+          107.87,
+          1233.61
+        ],
+        [
+          94.61,
+          1239.34
+        ],
+        [
+          91.83,
+          1266.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          540.73,
+          1485.57
+        ],
+        [
+          576.81,
+          1486.12
+        ],
+        [
+          638.44,
+          1480.3
+        ],
+        [
+          625.63,
+          1445.47
+        ],
+        [
+          528.23,
+          1446.98
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          727.41,
+          1373.8
+        ],
+        [
+          731.87,
+          1393.5
+        ],
+        [
+          730.38,
+          1412.45
+        ],
+        [
+          727.41,
+          1428.43
+        ],
+        [
+          720.35,
+          1440.7
+        ],
+        [
+          736.33,
+          1440.32
+        ],
+        [
+          756.02,
+          1405.76
+        ],
+        [
+          760.85,
+          1389.41
+        ],
+        [
+          755.28,
+          1366.0
+        ],
+        [
+          746.36,
+          1348.53
+        ],
+        [
+          717.75,
+          1348.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          694.17,
+          1362.09
+        ],
+        [
+          699.31,
+          1381.69
+        ],
+        [
+          700.6,
+          1405.45
+        ],
+        [
+          699.63,
+          1424.08
+        ],
+        [
+          691.28,
+          1444.32
+        ],
+        [
+          720.35,
+          1440.7
+        ],
+        [
+          727.41,
+          1428.43
+        ],
+        [
+          730.38,
+          1412.45
+        ],
+        [
+          731.87,
+          1393.5
+        ],
+        [
+          727.41,
+          1373.8
+        ],
+        [
+          717.75,
+          1348.9
+        ],
+        [
+          688.3,
+          1349.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          663.26,
+          1364.18
+        ],
+        [
+          667.14,
+          1388.6
+        ],
+        [
+          666.59,
+          1414.7
+        ],
+        [
+          661.59,
+          1435.52
+        ],
+        [
+          657.15,
+          1444.68
+        ],
+        [
+          691.28,
+          1444.32
+        ],
+        [
+          699.63,
+          1424.08
+        ],
+        [
+          700.6,
+          1405.45
+        ],
+        [
+          699.31,
+          1381.69
+        ],
+        [
+          694.17,
+          1362.09
+        ],
+        [
+          688.3,
+          1349.8
+        ],
+        [
+          656.59,
+          1352.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          632.38,
+          1380.92
+        ],
+        [
+          635.59,
+          1402.76
+        ],
+        [
+          632.7,
+          1426.85
+        ],
+        [
+          625.63,
+          1445.47
+        ],
+        [
+          657.15,
+          1444.68
+        ],
+        [
+          661.59,
+          1435.52
+        ],
+        [
+          666.59,
+          1414.7
+        ],
+        [
+          667.14,
+          1388.6
+        ],
+        [
+          663.26,
+          1364.18
+        ],
+        [
+          656.59,
+          1352.52
+        ],
+        [
+          624.02,
+          1357.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          593.73,
+          1364.8
+        ],
+        [
+          597.13,
+          1374.12
+        ],
+        [
+          601.08,
+          1396.16
+        ],
+        [
+          599.64,
+          1410.86
+        ],
+        [
+          598.03,
+          1429.32
+        ],
+        [
+          592.47,
+          1444.91
+        ],
+        [
+          625.63,
+          1445.47
+        ],
+        [
+          632.7,
+          1426.85
+        ],
+        [
+          635.59,
+          1402.76
+        ],
+        [
+          632.38,
+          1380.92
+        ],
+        [
+          624.02,
+          1357.47
+        ],
+        [
+          587.83,
+          1356.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          515.21,
+          1358.34
+        ],
+        [
+          485.12,
+          1360.14
+        ],
+        [
+          468.63,
+          1412.11
+        ],
+        [
+          473.29,
+          1437.2
+        ],
+        [
+          477.24,
+          1446.34
+        ],
+        [
+          592.47,
+          1444.91
+        ],
+        [
+          598.03,
+          1429.32
+        ],
+        [
+          599.64,
+          1410.86
+        ],
+        [
+          601.08,
+          1396.16
+        ],
+        [
+          597.13,
+          1374.12
+        ],
+        [
+          593.73,
+          1364.8
+        ],
+        [
+          587.83,
+          1356.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          502.35,
+          1316.52
+        ],
+        [
+          511.18,
+          1309.85
+        ],
+        [
+          515.21,
+          1358.34
+        ],
+        [
+          587.83,
+          1356.55
+        ],
+        [
+          592.8,
+          1349.9
+        ],
+        [
+          597.6,
+          1341.84
+        ],
+        [
+          599.46,
+          1331.16
+        ],
+        [
+          597.76,
+          1322.32
+        ],
+        [
+          594.66,
+          1317.21
+        ],
+        [
+          570.84,
+          1311.12
+        ],
+        [
+          561.16,
+          1306.64
+        ],
+        [
+          526.75,
+          1298.22
+        ],
+        [
+          514.57,
+          1290.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          442.2,
+          1478.48
+        ],
+        [
+          440.76,
+          1484.24
+        ],
+        [
+          483.7,
+          1485.42
+        ],
+        [
+          535.76,
+          1486.86
+        ],
+        [
+          523.77,
+          1460.25
+        ],
+        [
+          453.47,
+          1461.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          605.75,
+          655.7
+        ],
+        [
+          586.17,
+          669.56
+        ],
+        [
+          590.01,
+          676.52
+        ],
+        [
+          611.84,
+          668.12
+        ],
+        [
+          624.7,
+          648.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          575.14,
+          723.07
+        ],
+        [
+          611.84,
+          668.12
+        ],
+        [
+          590.01,
+          676.52
+        ],
+        [
+          586.17,
+          669.56
+        ],
+        [
+          575.62,
+          667.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          522.27,
+          678.77
+        ],
+        [
+          537.69,
+          691.61
+        ],
+        [
+          575.27,
+          704.14
+        ],
+        [
+          572.38,
+          666.24
+        ],
+        [
+          512.32,
+          665.92
+        ],
+        [
+          509.75,
+          681.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          523.77,
+          1460.25
+        ],
+        [
+          519.81,
+          1446.62
+        ],
+        [
+          477.24,
+          1446.34
+        ],
+        [
+          472.79,
+          1440.14
+        ],
+        [
+          459.35,
+          1441.1
+        ],
+        [
+          453.47,
+          1461.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          184.1,
+          824.7
+        ],
+        [
+          190.73,
+          842.07
+        ],
+        [
+          213.77,
+          830.41
+        ],
+        [
+          246.53,
+          787.66
+        ],
+        [
+          239.87,
+          782.11
+        ],
+        [
+          231.5,
+          774.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          150.71,
+          852.0
+        ],
+        [
+          138.24,
+          889.41
+        ],
+        [
+          132.55,
+          892.92
+        ],
+        [
+          132.55,
+          902.58
+        ],
+        [
+          168.97,
+          903.7
+        ],
+        [
+          180.86,
+          855.76
+        ],
+        [
+          176.03,
+          834.58
+        ],
+        [
+          160.5,
+          833.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          92.65,
+          1060.59
+        ],
+        [
+          116.42,
+          1069.59
+        ],
+        [
+          126.14,
+          1059.54
+        ],
+        [
+          130.23,
+          1012.74
+        ],
+        [
+          97.79,
+          1010.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          438.83,
+          449.6
+        ],
+        [
+          502.0,
+          435.36
+        ],
+        [
+          519.05,
+          444.26
+        ],
+        [
+          551.89,
+          375.8
+        ],
+        [
+          550.8,
+          355.9
+        ],
+        [
+          551.44,
+          350.38
+        ],
+        [
+          476.62,
+          350.84
+        ],
+        [
+          465.45,
+          357.7
+        ],
+        [
+          438.4,
+          443.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          515.1,
+          239.2
+        ],
+        [
+          533.7,
+          245.57
+        ],
+        [
+          545.08,
+          221.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          643.75,
+          1479.52
+        ],
+        [
+          702.44,
+          1477.45
+        ],
+        [
+          721.93,
+          1456.3
+        ],
+        [
+          715.29,
+          1442.82
+        ],
+        [
+          708.03,
+          1444.48
+        ],
+        [
+          632.97,
+          1447.38
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          455.86,
+          687.11
+        ],
+        [
+          418.33,
+          718.7
+        ],
+        [
+          423.7,
+          758.0
+        ],
+        [
+          451.03,
+          756.98
+        ],
+        [
+          466.0,
+          756.3
+        ],
+        [
+          458.5,
+          748.4
+        ],
+        [
+          503.8,
+          692.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "77. Paint Can Lid",
+      "score": null,
+      "points": [
+        [
+          671.17,
+          989.31
+        ],
+        [
+          737.0,
+          1010.9
+        ],
+        [
+          703.93,
+          1045.66
+        ],
+        [
+          674.8,
+          1039.0
+        ],
+        [
+          719.42,
+          1072.13
+        ],
+        [
+          729.58,
+          1071.3
+        ],
+        [
+          742.44,
+          1068.39
+        ],
+        [
+          754.67,
+          1059.89
+        ],
+        [
+          766.28,
+          1041.23
+        ],
+        [
+          760.74,
+          1018.69
+        ],
+        [
+          748.45,
+          1014.27
+        ],
+        [
+          745.76,
+          1007.85
+        ],
+        [
+          737.06,
+          992.31
+        ],
+        [
+          723.14,
+          978.63
+        ],
+        [
+          708.75,
+          973.11
+        ],
+        [
+          677.08,
+          975.27
+        ],
+        [
+          666.04,
+          987.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          274.53,
+          792.63
+        ],
+        [
+          318.86,
+          815.08
+        ],
+        [
+          345.6,
+          803.3
+        ],
+        [
+          347.4,
+          767.3
+        ],
+        [
+          385.8,
+          757.4
+        ],
+        [
+          374.12,
+          746.0
+        ],
+        [
+          363.75,
+          759.82
+        ],
+        [
+          318.86,
+          741.4
+        ],
+        [
+          307.34,
+          744.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          81.24,
+          1148.77
+        ],
+        [
+          147.93,
+          1185.83
+        ],
+        [
+          177.94,
+          1180.43
+        ],
+        [
+          196.94,
+          1163.85
+        ],
+        [
+          229.6,
+          1080.1
+        ],
+        [
+          126.14,
+          1059.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          198.64,
+          1159.36
+        ],
+        [
+          196.94,
+          1163.85
+        ],
+        [
+          213.94,
+          1168.4
+        ],
+        [
+          222.64,
+          1158.09
+        ],
+        [
+          255.17,
+          1115.04
+        ],
+        [
+          239.5,
+          1106.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          220.9,
+          1078.3
+        ],
+        [
+          170.6,
+          1045.31
+        ],
+        [
+          149.73,
+          1065.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          221.4,
+          1014.11
+        ],
+        [
+          233.67,
+          1024.88
+        ],
+        [
+          247.29,
+          1028.86
+        ],
+        [
+          264.56,
+          1011.19
+        ],
+        [
+          274.34,
+          994.72
+        ],
+        [
+          281.43,
+          995.79
+        ],
+        [
+          292.14,
+          1005.16
+        ],
+        [
+          287.46,
+          1016.54
+        ],
+        [
+          282.5,
+          1026.05
+        ],
+        [
+          270.05,
+          1039.03
+        ],
+        [
+          301.2,
+          1052.4
+        ],
+        [
+          310.97,
+          1052.38
+        ],
+        [
+          298.7,
+          973.23
+        ],
+        [
+          202.82,
+          1000.73
+        ],
+        [
+          203.57,
+          1019.68
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          704.54,
+          1084.36
+        ],
+        [
+          743.58,
+          1100.16
+        ],
+        [
+          740.63,
+          1108.22
+        ],
+        [
+          710.28,
+          1098.15
+        ],
+        [
+          695.87,
+          1091.02
+        ],
+        [
+          678.99,
+          1103.26
+        ],
+        [
+          699.71,
+          1136.05
+        ],
+        [
+          747.86,
+          1159.24
+        ],
+        [
+          784.42,
+          1161.02
+        ],
+        [
+          784.39,
+          1100.81
+        ],
+        [
+          727.86,
+          1073.51
+        ],
+        [
+          715.9,
+          1076.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          692.07,
+          953.38
+        ],
+        [
+          718.08,
+          957.84
+        ],
+        [
+          757.1,
+          946.7
+        ],
+        [
+          767.88,
+          916.22
+        ],
+        [
+          757.1,
+          876.83
+        ],
+        [
+          737.41,
+          870.51
+        ],
+        [
+          706.93,
+          869.4
+        ],
+        [
+          680.55,
+          906.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          364.22,
+          1031.52
+        ],
+        [
+          358.3,
+          1038.2
+        ],
+        [
+          352.1,
+          1053.9
+        ],
+        [
+          394.61,
+          1068.69
+        ],
+        [
+          393.72,
+          1065.14
+        ],
+        [
+          413.97,
+          1069.44
+        ],
+        [
+          416.24,
+          1057.83
+        ],
+        [
+          438.51,
+          1034.86
+        ],
+        [
+          429.64,
+          1032.71
+        ],
+        [
+          413.48,
+          1030.5
+        ],
+        [
+          408.48,
+          1033.56
+        ],
+        [
+          391.82,
+          1038.0
+        ],
+        [
+          367.39,
+          1033.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          229.6,
+          1080.1
+        ],
+        [
+          227.83,
+          1075.67
+        ],
+        [
+          224.33,
+          1069.67
+        ],
+        [
+          210.23,
+          1041.27
+        ],
+        [
+          207.83,
+          1035.96
+        ],
+        [
+          205.03,
+          1034.86
+        ],
+        [
+          202.53,
+          1036.17
+        ],
+        [
+          202.03,
+          1045.27
+        ],
+        [
+          203.93,
+          1045.37
+        ],
+        [
+          206.87,
+          1044.64
+        ],
+        [
+          212.65,
+          1058.06
+        ],
+        [
+          216.47,
+          1066.05
+        ],
+        [
+          224.11,
+          1079.01
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          403.1,
+          1130.94
+        ],
+        [
+          411.9,
+          1170.7
+        ],
+        [
+          418.45,
+          1146.5
+        ],
+        [
+          428.13,
+          1125.36
+        ],
+        [
+          446.94,
+          1095.25
+        ],
+        [
+          443.11,
+          1094.3
+        ],
+        [
+          427.47,
+          1097.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          485.12,
+          1360.14
+        ],
+        [
+          515.21,
+          1358.34
+        ],
+        [
+          511.18,
+          1309.85
+        ],
+        [
+          502.35,
+          1316.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          695.87,
+          1091.02
+        ],
+        [
+          710.28,
+          1098.15
+        ],
+        [
+          740.63,
+          1108.22
+        ],
+        [
+          743.58,
+          1100.16
+        ],
+        [
+          704.54,
+          1084.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          718.08,
+          957.84
+        ],
+        [
+          707.1,
+          956.0
+        ],
+        [
+          710.8,
+          964.4
+        ],
+        [
+          708.9,
+          968.6
+        ],
+        [
+          703.34,
+          971.4
+        ],
+        [
+          708.75,
+          973.11
+        ],
+        [
+          723.22,
+          973.16
+        ],
+        [
+          735.37,
+          975.24
+        ],
+        [
+          743.74,
+          977.01
+        ],
+        [
+          744.58,
+          976.45
+        ],
+        [
+          757.1,
+          946.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          746.07,
+          795.14
+        ],
+        [
+          747.11,
+          806.54
+        ],
+        [
+          750.84,
+          819.81
+        ],
+        [
+          751.05,
+          835.37
+        ],
+        [
+          752.91,
+          861.49
+        ],
+        [
+          758.51,
+          876.22
+        ],
+        [
+          764.73,
+          886.58
+        ],
+        [
+          768.4,
+          888.4
+        ],
+        [
+          768.67,
+          837.86
+        ],
+        [
+          763.28,
+          823.75
+        ],
+        [
+          755.0,
+          794.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          742.75,
+          812.14
+        ],
+        [
+          743.17,
+          819.19
+        ],
+        [
+          735.08,
+          837.86
+        ],
+        [
+          733.84,
+          847.19
+        ],
+        [
+          747.11,
+          873.73
+        ],
+        [
+          757.1,
+          876.83
+        ],
+        [
+          758.51,
+          876.22
+        ],
+        [
+          752.91,
+          861.49
+        ],
+        [
+          751.05,
+          835.37
+        ],
+        [
+          750.84,
+          819.81
+        ],
+        [
+          747.11,
+          806.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          763.28,
+          823.75
+        ],
+        [
+          768.67,
+          837.86
+        ],
+        [
+          768.4,
+          888.4
+        ],
+        [
+          771.59,
+          888.16
+        ],
+        [
+          774.89,
+          881.21
+        ],
+        [
+          778.42,
+          846.79
+        ],
+        [
+          774.69,
+          832.48
+        ],
+        [
+          759.13,
+          793.71
+        ],
+        [
+          755.0,
+          794.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          746.07,
+          795.14
+        ],
+        [
+          755.0,
+          794.3
+        ],
+        [
+          759.13,
+          793.71
+        ],
+        [
+          774.69,
+          832.48
+        ],
+        [
+          778.42,
+          846.79
+        ],
+        [
+          786.29,
+          825.97
+        ],
+        [
+          791.15,
+          799.43
+        ],
+        [
+          790.61,
+          785.81
+        ],
+        [
+          775.02,
+          778.82
+        ],
+        [
+          758.89,
+          768.43
+        ],
+        [
+          757.81,
+          762.15
+        ],
+        [
+          752.26,
+          763.41
+        ],
+        [
+          748.31,
+          771.83
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          775.02,
+          778.82
+        ],
+        [
+          790.61,
+          785.81
+        ],
+        [
+          785.11,
+          753.49
+        ],
+        [
+          781.58,
+          725.86
+        ],
+        [
+          782.86,
+          724.58
+        ],
+        [
+          783.83,
+          719.76
+        ],
+        [
+          780.62,
+          716.87
+        ],
+        [
+          774.19,
+          722.33
+        ],
+        [
+          773.55,
+          731.0
+        ],
+        [
+          767.77,
+          733.25
+        ],
+        [
+          765.2,
+          744.17
+        ],
+        [
+          771.94,
+          740.32
+        ],
+        [
+          770.02,
+          746.42
+        ],
+        [
+          763.91,
+          761.52
+        ],
+        [
+          758.89,
+          768.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          717.72,
+          687.69
+        ],
+        [
+          745.51,
+          700.54
+        ],
+        [
+          748.0,
+          698.88
+        ],
+        [
+          762.93,
+          672.55
+        ],
+        [
+          762.1,
+          669.85
+        ],
+        [
+          759.4,
+          669.85
+        ],
+        [
+          721.25,
+          677.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          687.66,
+          240.05
+        ],
+        [
+          689.08,
+          241.54
+        ],
+        [
+          705.74,
+          245.43
+        ],
+        [
+          717.35,
+          262.22
+        ],
+        [
+          728.13,
+          275.49
+        ],
+        [
+          736.03,
+          281.49
+        ],
+        [
+          754.98,
+          287.06
+        ],
+        [
+          758.2,
+          289.39
+        ],
+        [
+          759.24,
+          279.23
+        ],
+        [
+          756.75,
+          267.62
+        ],
+        [
+          734.56,
+          247.71
+        ],
+        [
+          704.29,
+          220.54
+        ],
+        [
+          698.27,
+          222.0
+        ],
+        [
+          688.32,
+          230.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          130.2,
+          471.21
+        ],
+        [
+          154.71,
+          507.76
+        ],
+        [
+          176.21,
+          498.3
+        ],
+        [
+          182.66,
+          464.76
+        ],
+        [
+          158.58,
+          434.66
+        ],
+        [
+          136.65,
+          437.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          251.44,
+          569.03
+        ],
+        [
+          268.1,
+          594.57
+        ],
+        [
+          293.08,
+          616.77
+        ],
+        [
+          349.16,
+          625.93
+        ],
+        [
+          357.48,
+          613.72
+        ],
+        [
+          357.21,
+          600.67
+        ],
+        [
+          373.31,
+          599.56
+        ],
+        [
+          380.8,
+          580.96
+        ],
+        [
+          295.58,
+          510.73
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          315.61,
+          698.38
+        ],
+        [
+          358.11,
+          719.53
+        ],
+        [
+          364.75,
+          714.76
+        ],
+        [
+          378.23,
+          690.08
+        ],
+        [
+          377.4,
+          677.44
+        ],
+        [
+          336.96,
+          655.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          320.51,
+          734.28
+        ],
+        [
+          270.62,
+          720.01
+        ],
+        [
+          269.09,
+          722.82
+        ],
+        [
+          307.34,
+          744.85
+        ],
+        [
+          318.86,
+          741.4
+        ],
+        [
+          363.75,
+          759.82
+        ],
+        [
+          375.58,
+          739.18
+        ],
+        [
+          331.59,
+          709.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          676.42,
+          483.72
+        ],
+        [
+          631.45,
+          535.01
+        ],
+        [
+          651.89,
+          547.27
+        ],
+        [
+          696.12,
+          497.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          352.04,
+          1293.93
+        ],
+        [
+          334.84,
+          1296.73
+        ],
+        [
+          319.44,
+          1305.13
+        ],
+        [
+          331.26,
+          1305.99
+        ],
+        [
+          332.51,
+          1324.65
+        ],
+        [
+          342.87,
+          1329.22
+        ],
+        [
+          360.64,
+          1293.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          205.76,
+          919.49
+        ],
+        [
+          256.5,
+          915.01
+        ],
+        [
+          256.0,
+          894.62
+        ],
+        [
+          248.8,
+          860.7
+        ],
+        [
+          243.3,
+          854.7
+        ],
+        [
+          195.81,
+          860.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          221.63,
+          1058.67
+        ],
+        [
+          235.75,
+          1079.48
+        ],
+        [
+          248.38,
+          1090.25
+        ],
+        [
+          274.4,
+          1088.4
+        ],
+        [
+          302.6,
+          1053.1
+        ],
+        [
+          270.05,
+          1039.03
+        ],
+        [
+          282.5,
+          1026.05
+        ],
+        [
+          287.46,
+          1016.54
+        ],
+        [
+          292.14,
+          1005.16
+        ],
+        [
+          281.43,
+          995.79
+        ],
+        [
+          274.34,
+          994.72
+        ],
+        [
+          264.56,
+          1011.19
+        ],
+        [
+          247.42,
+          1028.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          267.8,
+          885.48
+        ],
+        [
+          285.07,
+          882.6
+        ],
+        [
+          339.1,
+          834.5
+        ],
+        [
+          274.53,
+          792.63
+        ],
+        [
+          266.65,
+          793.38
+        ],
+        [
+          217.72,
+          822.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          416.24,
+          1057.83
+        ],
+        [
+          411.0,
+          1087.6
+        ],
+        [
+          443.11,
+          1094.3
+        ],
+        [
+          458.94,
+          1063.11
+        ],
+        [
+          473.34,
+          1029.28
+        ],
+        [
+          439.99,
+          1033.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          335.7,
+          1094.8
+        ],
+        [
+          358.3,
+          1038.2
+        ],
+        [
+          364.22,
+          1031.52
+        ],
+        [
+          354.07,
+          1025.23
+        ],
+        [
+          349.07,
+          1016.35
+        ],
+        [
+          345.91,
+          1015.66
+        ],
+        [
+          342.2,
+          1014.5
+        ],
+        [
+          327.3,
+          1033.67
+        ],
+        [
+          311.92,
+          1081.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          767.88,
+          916.22
+        ],
+        [
+          755.3,
+          951.0
+        ],
+        [
+          744.58,
+          976.45
+        ],
+        [
+          745.48,
+          975.95
+        ],
+        [
+          753.28,
+          972.03
+        ],
+        [
+          768.62,
+          969.54
+        ],
+        [
+          767.6,
+          967.8
+        ],
+        [
+          778.65,
+          903.9
+        ],
+        [
+          776.34,
+          896.73
+        ],
+        [
+          778.88,
+          892.21
+        ],
+        [
+          775.63,
+          888.97
+        ],
+        [
+          771.59,
+          888.16
+        ],
+        [
+          768.4,
+          888.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          731.3,
+          986.75
+        ],
+        [
+          737.06,
+          992.31
+        ],
+        [
+          743.74,
+          1003.14
+        ],
+        [
+          748.0,
+          1014.0
+        ],
+        [
+          760.74,
+          1018.69
+        ],
+        [
+          768.35,
+          1049.73
+        ],
+        [
+          774.78,
+          1043.3
+        ],
+        [
+          775.82,
+          1020.08
+        ],
+        [
+          768.35,
+          1000.38
+        ],
+        [
+          753.01,
+          987.52
+        ],
+        [
+          740.01,
+          981.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          304.11,
+          1007.07
+        ],
+        [
+          310.02,
+          1020.69
+        ],
+        [
+          322.03,
+          1031.81
+        ],
+        [
+          327.3,
+          1033.67
+        ],
+        [
+          342.2,
+          1014.5
+        ],
+        [
+          321.2,
+          1006.1
+        ],
+        [
+          306.6,
+          995.6
+        ],
+        [
+          300.68,
+          989.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          125.5,
+          937.33
+        ],
+        [
+          141.11,
+          926.54
+        ],
+        [
+          146.03,
+          927.58
+        ],
+        [
+          142.51,
+          902.9
+        ],
+        [
+          132.55,
+          902.58
+        ],
+        [
+          132.55,
+          892.92
+        ],
+        [
+          138.24,
+          889.41
+        ],
+        [
+          117.62,
+          892.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          163.87,
+          663.45
+        ],
+        [
+          144.99,
+          662.63
+        ],
+        [
+          135.39,
+          671.99
+        ],
+        [
+          137.26,
+          675.1
+        ],
+        [
+          152.64,
+          677.3
+        ],
+        [
+          170.02,
+          682.68
+        ],
+        [
+          178.1,
+          689.3
+        ],
+        [
+          182.18,
+          681.44
+        ],
+        [
+          193.11,
+          665.67
+        ],
+        [
+          184.97,
+          662.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          234.17,
+          603.06
+        ],
+        [
+          211.68,
+          600.49
+        ],
+        [
+          207.51,
+          641.6
+        ],
+        [
+          216.28,
+          637.25
+        ],
+        [
+          232.66,
+          654.25
+        ],
+        [
+          238.86,
+          665.4
+        ],
+        [
+          246.4,
+          619.0
+        ],
+        [
+          271.37,
+          621.41
+        ],
+        [
+          274.43,
+          612.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          232.19,
+          353.44
+        ],
+        [
+          232.37,
+          354.32
+        ],
+        [
+          239.77,
+          367.74
+        ],
+        [
+          244.96,
+          379.22
+        ],
+        [
+          251.4,
+          359.0
+        ],
+        [
+          242.4,
+          350.6
+        ],
+        [
+          240.19,
+          348.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          160.52,
+          386.65
+        ],
+        [
+          161.46,
+          390.26
+        ],
+        [
+          166.81,
+          400.7
+        ],
+        [
+          188.5,
+          401.1
+        ],
+        [
+          188.08,
+          399.06
+        ],
+        [
+          171.23,
+          369.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          179.93,
+          291.21
+        ],
+        [
+          181.17,
+          294.15
+        ],
+        [
+          179.16,
+          301.74
+        ],
+        [
+          175.91,
+          302.05
+        ],
+        [
+          173.46,
+          307.38
+        ],
+        [
+          170.67,
+          312.96
+        ],
+        [
+          171.6,
+          319.93
+        ],
+        [
+          194.23,
+          292.21
+        ],
+        [
+          187.35,
+          286.62
+        ],
+        [
+          184.12,
+          283.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          171.57,
+          285.79
+        ],
+        [
+          172.81,
+          294.93
+        ],
+        [
+          175.91,
+          302.05
+        ],
+        [
+          179.16,
+          301.74
+        ],
+        [
+          181.17,
+          294.15
+        ],
+        [
+          179.93,
+          291.21
+        ],
+        [
+          184.12,
+          283.62
+        ],
+        [
+          173.58,
+          273.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          187.52,
+          248.92
+        ],
+        [
+          178.54,
+          240.25
+        ],
+        [
+          177.15,
+          241.18
+        ],
+        [
+          173.58,
+          270.14
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          221.1,
+          249.9
+        ],
+        [
+          224.05,
+          233.64
+        ],
+        [
+          226.53,
+          223.26
+        ],
+        [
+          223.74,
+          220.93
+        ],
+        [
+          219.71,
+          222.79
+        ],
+        [
+          214.29,
+          235.34
+        ],
+        [
+          213.82,
+          241.38
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          292.05,
+          900.19
+        ],
+        [
+          343.49,
+          890.87
+        ],
+        [
+          357.82,
+          873.85
+        ],
+        [
+          343.49,
+          861.12
+        ],
+        [
+          345.3,
+          803.09
+        ],
+        [
+          327.77,
+          810.53
+        ],
+        [
+          313.9,
+          818.1
+        ],
+        [
+          339.06,
+          834.3
+        ],
+        [
+          281.84,
+          887.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          206.75,
+          950.34
+        ],
+        [
+          288.34,
+          913.02
+        ],
+        [
+          290.33,
+          910.54
+        ],
+        [
+          274.41,
+          889.64
+        ],
+        [
+          260.48,
+          879.19
+        ],
+        [
+          254.6,
+          886.7
+        ],
+        [
+          256.0,
+          894.62
+        ],
+        [
+          256.5,
+          915.01
+        ],
+        [
+          205.76,
+          919.49
+        ],
+        [
+          200.8,
+          891.1
+        ],
+        [
+          175.41,
+          908.05
+        ],
+        [
+          188.84,
+          927.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          669.1,
+          440.54
+        ],
+        [
+          657.58,
+          481.42
+        ],
+        [
+          666.87,
+          490.71
+        ],
+        [
+          683.59,
+          481.05
+        ],
+        [
+          705.52,
+          463.95
+        ],
+        [
+          683.22,
+          431.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          663.34,
+          343.57
+        ],
+        [
+          657.24,
+          381.06
+        ],
+        [
+          673.33,
+          419.47
+        ],
+        [
+          683.22,
+          431.25
+        ],
+        [
+          698.51,
+          426.66
+        ],
+        [
+          694.47,
+          415.27
+        ],
+        [
+          736.18,
+          384.43
+        ],
+        [
+          738.11,
+          380.57
+        ],
+        [
+          706.3,
+          343.92
+        ],
+        [
+          705.09,
+          334.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          556.48,
+          324.11
+        ],
+        [
+          639.99,
+          352.69
+        ],
+        [
+          652.51,
+          300.34
+        ],
+        [
+          626.5,
+          281.71
+        ],
+        [
+          577.03,
+          261.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          600.6,
+          249.73
+        ],
+        [
+          607.27,
+          216.15
+        ],
+        [
+          582.84,
+          220.59
+        ],
+        [
+          547.86,
+          218.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          483.9,
+          290.07
+        ],
+        [
+          468.08,
+          302.84
+        ],
+        [
+          493.34,
+          308.95
+        ],
+        [
+          503.89,
+          291.18
+        ],
+        [
+          498.34,
+          288.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          322.72,
+          330.15
+        ],
+        [
+          309.78,
+          335.12
+        ],
+        [
+          316.75,
+          341.09
+        ],
+        [
+          344.61,
+          351.04
+        ],
+        [
+          361.03,
+          342.09
+        ],
+        [
+          337.15,
+          306.27
+        ],
+        [
+          389.38,
+          299.3
+        ],
+        [
+          377.44,
+          271.44
+        ],
+        [
+          342.62,
+          256.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          694.47,
+          415.27
+        ],
+        [
+          704.36,
+          432.04
+        ],
+        [
+          715.54,
+          450.09
+        ],
+        [
+          731.02,
+          443.22
+        ],
+        [
+          769.71,
+          444.08
+        ],
+        [
+          734.46,
+          384.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          338.39,
+          191.97
+        ],
+        [
+          325.06,
+          238.6
+        ],
+        [
+          402.51,
+          275.52
+        ],
+        [
+          415.56,
+          223.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          549.26,
+          165.38
+        ],
+        [
+          509.24,
+          197.73
+        ],
+        [
+          511.73,
+          223.03
+        ],
+        [
+          526.03,
+          233.81
+        ],
+        [
+          567.71,
+          206.44
+        ],
+        [
+          571.24,
+          177.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          576.4,
+          212.36
+        ],
+        [
+          585.36,
+          218.45
+        ],
+        [
+          618.54,
+          215.34
+        ],
+        [
+          624.25,
+          209.13
+        ],
+        [
+          622.46,
+          156.8
+        ],
+        [
+          614.39,
+          147.3
+        ],
+        [
+          572.46,
+          155.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          620.2,
+          228.67
+        ],
+        [
+          637.69,
+          245.32
+        ],
+        [
+          653.51,
+          240.6
+        ],
+        [
+          687.66,
+          240.05
+        ],
+        [
+          689.05,
+          219.5
+        ],
+        [
+          671.28,
+          206.74
+        ],
+        [
+          627.42,
+          207.85
+        ],
+        [
+          618.54,
+          215.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          706.3,
+          343.92
+        ],
+        [
+          736.77,
+          379.97
+        ],
+        [
+          778.77,
+          392.23
+        ],
+        [
+          786.2,
+          376.62
+        ],
+        [
+          772.82,
+          300.81
+        ],
+        [
+          754.98,
+          287.06
+        ],
+        [
+          736.03,
+          281.49
+        ],
+        [
+          714.1,
+          288.92
+        ],
+        [
+          702.96,
+          304.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          455.86,
+          687.11
+        ],
+        [
+          503.8,
+          692.69
+        ],
+        [
+          509.75,
+          681.66
+        ],
+        [
+          512.32,
+          665.92
+        ],
+        [
+          544.82,
+          666.4
+        ],
+        [
+          542.06,
+          639.43
+        ],
+        [
+          519.57,
+          630.76
+        ],
+        [
+          504.75,
+          635.65
+        ],
+        [
+          464.63,
+          646.57
+        ],
+        [
+          412.98,
+          668.5
+        ],
+        [
+          419.29,
+          696.74
+        ],
+        [
+          427.63,
+          709.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          282.77,
+          622.93
+        ],
+        [
+          307.32,
+          631.53
+        ],
+        [
+          309.13,
+          650.0
+        ],
+        [
+          319.95,
+          651.39
+        ],
+        [
+          330.94,
+          631.73
+        ],
+        [
+          340.3,
+          635.81
+        ],
+        [
+          353.54,
+          644.17
+        ],
+        [
+          357.71,
+          628.35
+        ],
+        [
+          349.16,
+          625.93
+        ],
+        [
+          293.08,
+          616.77
+        ],
+        [
+          274.43,
+          612.53
+        ],
+        [
+          271.37,
+          621.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          377.25,
+          665.56
+        ],
+        [
+          371.97,
+          656.2
+        ],
+        [
+          340.3,
+          635.81
+        ],
+        [
+          330.94,
+          631.73
+        ],
+        [
+          315.59,
+          666.76
+        ],
+        [
+          321.35,
+          677.55
+        ],
+        [
+          336.96,
+          655.25
+        ],
+        [
+          367.17,
+          670.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          434.89,
+          636.75
+        ],
+        [
+          414.68,
+          594.61
+        ],
+        [
+          373.31,
+          599.56
+        ],
+        [
+          357.21,
+          600.67
+        ],
+        [
+          357.48,
+          613.72
+        ],
+        [
+          369.53,
+          650.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          202.03,
+          784.78
+        ],
+        [
+          211.19,
+          785.89
+        ],
+        [
+          238.42,
+          721.4
+        ],
+        [
+          184.26,
+          732.59
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          517.11,
+          779.02
+        ],
+        [
+          515.99,
+          793.14
+        ],
+        [
+          550.09,
+          798.5
+        ],
+        [
+          565.79,
+          771.58
+        ],
+        [
+          550.55,
+          747.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          567.5,
+          723.03
+        ],
+        [
+          574.24,
+          707.61
+        ],
+        [
+          538.59,
+          696.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          135.25,
+          709.38
+        ],
+        [
+          189.2,
+          714.4
+        ],
+        [
+          199.41,
+          706.16
+        ],
+        [
+          170.02,
+          682.68
+        ],
+        [
+          152.64,
+          677.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          238.42,
+          721.4
+        ],
+        [
+          230.09,
+          746.94
+        ],
+        [
+          249.25,
+          751.66
+        ],
+        [
+          270.62,
+          720.01
+        ],
+        [
+          271.18,
+          693.09
+        ],
+        [
+          236.2,
+          687.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          290.11,
+          975.53
+        ],
+        [
+          310.32,
+          975.96
+        ],
+        [
+          317.87,
+          922.47
+        ],
+        [
+          341.28,
+          905.02
+        ],
+        [
+          397.18,
+          923.07
+        ],
+        [
+          383.42,
+          892.55
+        ],
+        [
+          350.74,
+          891.26
+        ],
+        [
+          291.4,
+          901.15
+        ],
+        [
+          285.38,
+          916.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          212.03,
+          987.56
+        ],
+        [
+          230.9,
+          973.05
+        ],
+        [
+          228.41,
+          943.6
+        ],
+        [
+          212.24,
+          955.63
+        ],
+        [
+          191.5,
+          938.21
+        ],
+        [
+          183.21,
+          944.02
+        ],
+        [
+          187.15,
+          959.15
+        ],
+        [
+          199.38,
+          960.61
+        ],
+        [
+          203.53,
+          998.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          238.59,
+          955.31
+        ],
+        [
+          249.04,
+          983.17
+        ],
+        [
+          280.88,
+          976.21
+        ],
+        [
+          287.84,
+          933.42
+        ],
+        [
+          278.39,
+          919.99
+        ],
+        [
+          237.6,
+          938.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          102.13,
+          855.01
+        ],
+        [
+          111.58,
+          893.71
+        ],
+        [
+          138.24,
+          889.41
+        ],
+        [
+          150.71,
+          852.0
+        ],
+        [
+          137.81,
+          808.14
+        ],
+        [
+          112.88,
+          809.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          345.34,
+          1002.07
+        ],
+        [
+          344.6,
+          986.46
+        ],
+        [
+          357.23,
+          969.36
+        ],
+        [
+          369.12,
+          960.07
+        ],
+        [
+          391.79,
+          954.13
+        ],
+        [
+          405.54,
+          958.96
+        ],
+        [
+          410.35,
+          927.1
+        ],
+        [
+          339.45,
+          907.06
+        ],
+        [
+          317.87,
+          922.47
+        ],
+        [
+          308.63,
+          985.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          517.94,
+          845.04
+        ],
+        [
+          569.52,
+          830.89
+        ],
+        [
+          576.96,
+          801.14
+        ],
+        [
+          550.09,
+          798.5
+        ],
+        [
+          517.94,
+          794.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          158.58,
+          434.66
+        ],
+        [
+          182.66,
+          464.76
+        ],
+        [
+          176.21,
+          498.3
+        ],
+        [
+          154.71,
+          507.76
+        ],
+        [
+          140.35,
+          490.26
+        ],
+        [
+          144.99,
+          662.63
+        ],
+        [
+          163.87,
+          663.45
+        ],
+        [
+          176.08,
+          607.94
+        ],
+        [
+          183.09,
+          549.46
+        ],
+        [
+          189.97,
+          503.46
+        ],
+        [
+          204.59,
+          435.52
+        ],
+        [
+          191.69,
+          401.12
+        ],
+        [
+          162.45,
+          400.69
+        ],
+        [
+          150.41,
+          433.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          627.4,
+          275.8
+        ],
+        [
+          645.77,
+          292.38
+        ],
+        [
+          661.51,
+          315.18
+        ],
+        [
+          689.13,
+          324.82
+        ],
+        [
+          701.98,
+          300.41
+        ],
+        [
+          679.17,
+          278.89
+        ],
+        [
+          656.7,
+          262.9
+        ],
+        [
+          643.5,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          417.48,
+          230.41
+        ],
+        [
+          421.56,
+          256.56
+        ],
+        [
+          455.63,
+          247.68
+        ],
+        [
+          453.3,
+          215.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          172.1,
+          272.5
+        ],
+        [
+          187.35,
+          286.62
+        ],
+        [
+          194.23,
+          292.21
+        ],
+        [
+          199.39,
+          287.05
+        ],
+        [
+          241.96,
+          327.03
+        ],
+        [
+          259.58,
+          343.8
+        ],
+        [
+          276.78,
+          299.95
+        ],
+        [
+          234.65,
+          265.98
+        ],
+        [
+          201.97,
+          226.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          199.39,
+          287.05
+        ],
+        [
+          194.23,
+          292.21
+        ],
+        [
+          165.72,
+          326.82
+        ],
+        [
+          171.2,
+          369.2
+        ],
+        [
+          188.08,
+          399.06
+        ],
+        [
+          227.63,
+          356.04
+        ],
+        [
+          241.14,
+          348.41
+        ],
+        [
+          253.18,
+          345.6
+        ],
+        [
+          255.5,
+          339.7
+        ],
+        [
+          241.96,
+          327.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          419.7,
+          455.0
+        ],
+        [
+          426.49,
+          499.49
+        ],
+        [
+          477.68,
+          548.76
+        ],
+        [
+          492.45,
+          544.9
+        ],
+        [
+          484.43,
+          518.25
+        ],
+        [
+          508.52,
+          479.39
+        ],
+        [
+          507.67,
+          474.28
+        ],
+        [
+          519.13,
+          444.39
+        ],
+        [
+          502.0,
+          435.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          655.97,
+          240.1
+        ],
+        [
+          638.21,
+          246.58
+        ],
+        [
+          625.02,
+          234.11
+        ],
+        [
+          613.74,
+          231.95
+        ],
+        [
+          606.29,
+          253.69
+        ],
+        [
+          618.18,
+          261.49
+        ],
+        [
+          639.88,
+          260.29
+        ],
+        [
+          661.24,
+          263.38
+        ],
+        [
+          700.35,
+          279.93
+        ],
+        [
+          706.32,
+          277.71
+        ],
+        [
+          707.12,
+          270.62
+        ],
+        [
+          708.19,
+          249.07
+        ],
+        [
+          705.91,
+          245.58
+        ],
+        [
+          689.08,
+          241.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          385.15,
+          517.81
+        ],
+        [
+          420.42,
+          494.37
+        ],
+        [
+          426.49,
+          499.49
+        ],
+        [
+          425.63,
+          494.87
+        ],
+        [
+          419.56,
+          455.06
+        ],
+        [
+          438.83,
+          449.6
+        ],
+        [
+          424.37,
+          413.95
+        ],
+        [
+          356.46,
+          447.56
+        ],
+        [
+          362.02,
+          477.01
+        ],
+        [
+          373.66,
+          495.75
+        ],
+        [
+          383.0,
+          513.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          242.4,
+          350.6
+        ],
+        [
+          251.4,
+          359.0
+        ],
+        [
+          244.96,
+          379.22
+        ],
+        [
+          271.72,
+          438.68
+        ],
+        [
+          291.05,
+          446.86
+        ],
+        [
+          317.74,
+          410.35
+        ],
+        [
+          256.6,
+          344.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          217.2,
+          367.5
+        ],
+        [
+          238.28,
+          412.3
+        ],
+        [
+          253.88,
+          417.87
+        ],
+        [
+          260.62,
+          414.32
+        ],
+        [
+          244.96,
+          379.22
+        ],
+        [
+          239.77,
+          367.74
+        ],
+        [
+          232.37,
+          354.32
+        ],
+        [
+          227.64,
+          356.06
+        ],
+        [
+          224.2,
+          359.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          204.87,
+          642.64
+        ],
+        [
+          184.86,
+          662.09
+        ],
+        [
+          193.11,
+          665.67
+        ],
+        [
+          182.18,
+          681.44
+        ],
+        [
+          178.1,
+          689.3
+        ],
+        [
+          199.41,
+          706.16
+        ],
+        [
+          211.93,
+          689.15
+        ],
+        [
+          215.51,
+          679.11
+        ],
+        [
+          221.6,
+          684.49
+        ],
+        [
+          237.22,
+          684.11
+        ],
+        [
+          254.02,
+          669.6
+        ],
+        [
+          239.92,
+          666.69
+        ],
+        [
+          232.66,
+          654.25
+        ],
+        [
+          216.28,
+          637.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          140.1,
+          709.7
+        ],
+        [
+          127.57,
+          751.55
+        ],
+        [
+          138.35,
+          803.58
+        ],
+        [
+          150.4,
+          851.5
+        ],
+        [
+          176.62,
+          798.01
+        ],
+        [
+          204.12,
+          793.92
+        ],
+        [
+          177.6,
+          713.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "82. Unknown-Plastic",
+      "score": null,
+      "points": [
+        [
+          514.57,
+          1290.15
+        ],
+        [
+          526.75,
+          1298.22
+        ],
+        [
+          561.16,
+          1306.64
+        ],
+        [
+          570.84,
+          1311.12
+        ],
+        [
+          594.66,
+          1317.21
+        ],
+        [
+          638.19,
+          1324.18
+        ],
+        [
+          746.08,
+          1321.51
+        ],
+        [
+          770.15,
+          1276.93
+        ],
+        [
+          784.42,
+          1161.02
+        ],
+        [
+          747.86,
+          1159.24
+        ],
+        [
+          699.71,
+          1136.05
+        ],
+        [
+          678.98,
+          1102.96
+        ],
+        [
+          641.56,
+          1100.29
+        ],
+        [
+          659.77,
+          1081.71
+        ],
+        [
+          666.24,
+          1062.01
+        ],
+        [
+          662.52,
+          1033.02
+        ],
+        [
+          652.86,
+          1011.47
+        ],
+        [
+          643.94,
+          997.35
+        ],
+        [
+          585.45,
+          1121.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          356.08,
+          1127.12
+        ],
+        [
+          379.05,
+          1083.45
+        ],
+        [
+          388.64,
+          1083.12
+        ],
+        [
+          394.61,
+          1068.69
+        ],
+        [
+          352.1,
+          1053.9
+        ],
+        [
+          328.05,
+          1114.01
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          485.1,
+          239.77
+        ],
+        [
+          421.5,
+          256.34
+        ],
+        [
+          410.27,
+          255.53
+        ],
+        [
+          406.57,
+          265.83
+        ],
+        [
+          407.3,
+          273.6
+        ],
+        [
+          411.25,
+          273.64
+        ],
+        [
+          487.32,
+          250.87
+        ],
+        [
+          499.81,
+          243.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          456.83,
+          221.53
+        ],
+        [
+          457.07,
+          243.37
+        ],
+        [
+          502.2,
+          236.7
+        ],
+        [
+          500.02,
+          212.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          385.38,
+          290.34
+        ],
+        [
+          389.38,
+          299.3
+        ],
+        [
+          417.73,
+          318.12
+        ],
+        [
+          466.25,
+          348.19
+        ],
+        [
+          468.35,
+          348.61
+        ],
+        [
+          477.48,
+          344.28
+        ],
+        [
+          483.37,
+          330.96
+        ],
+        [
+          482.29,
+          322.28
+        ],
+        [
+          484.61,
+          317.48
+        ],
+        [
+          482.29,
+          312.06
+        ],
+        [
+          475.94,
+          310.51
+        ],
+        [
+          476.87,
+          304.78
+        ],
+        [
+          468.08,
+          302.84
+        ],
+        [
+          440.9,
+          302.9
+        ],
+        [
+          417.52,
+          282.04
+        ],
+        [
+          396.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          427.4,
+          268.8
+        ],
+        [
+          418.39,
+          283.41
+        ],
+        [
+          440.9,
+          302.9
+        ],
+        [
+          468.08,
+          302.84
+        ],
+        [
+          483.9,
+          290.07
+        ],
+        [
+          498.34,
+          288.96
+        ],
+        [
+          475.57,
+          262.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          189.97,
+          503.46
+        ],
+        [
+          183.09,
+          549.46
+        ],
+        [
+          199.42,
+          541.68
+        ],
+        [
+          199.97,
+          647.72
+        ],
+        [
+          204.87,
+          642.64
+        ],
+        [
+          207.51,
+          641.6
+        ],
+        [
+          211.68,
+          600.49
+        ],
+        [
+          234.17,
+          603.06
+        ],
+        [
+          293.08,
+          616.77
+        ],
+        [
+          268.1,
+          594.57
+        ],
+        [
+          251.44,
+          569.03
+        ],
+        [
+          259.2,
+          559.5
+        ],
+        [
+          265.7,
+          549.5
+        ],
+        [
+          266.32,
+          540.02
+        ],
+        [
+          262.71,
+          534.46
+        ],
+        [
+          259.93,
+          520.31
+        ],
+        [
+          262.71,
+          505.04
+        ],
+        [
+          274.09,
+          499.76
+        ],
+        [
+          277.7,
+          498.93
+        ],
+        [
+          274.09,
+          487.83
+        ],
+        [
+          272.15,
+          483.11
+        ],
+        [
+          274.65,
+          461.46
+        ],
+        [
+          287.69,
+          457.85
+        ],
+        [
+          309.78,
+          460.1
+        ],
+        [
+          303.24,
+          452.29
+        ],
+        [
+          291.05,
+          446.86
+        ],
+        [
+          271.72,
+          438.68
+        ],
+        [
+          260.2,
+          414.53
+        ],
+        [
+          253.88,
+          417.87
+        ],
+        [
+          238.28,
+          412.3
+        ],
+        [
+          226.07,
+          414.26
+        ],
+        [
+          215.8,
+          422.04
+        ],
+        [
+          204.59,
+          435.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          238.86,
+          665.4
+        ],
+        [
+          304.99,
+          672.03
+        ],
+        [
+          307.32,
+          631.53
+        ],
+        [
+          282.77,
+          622.93
+        ],
+        [
+          246.4,
+          619.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          607.29,
+          624.46
+        ],
+        [
+          614.8,
+          630.1
+        ],
+        [
+          639.72,
+          623.67
+        ],
+        [
+          644.71,
+          613.9
+        ],
+        [
+          630.08,
+          611.26
+        ],
+        [
+          623.84,
+          605.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          658.48,
+          968.76
+        ],
+        [
+          670.47,
+          970.68
+        ],
+        [
+          698.07,
+          971.88
+        ],
+        [
+          703.34,
+          971.4
+        ],
+        [
+          708.9,
+          968.6
+        ],
+        [
+          710.8,
+          964.4
+        ],
+        [
+          707.1,
+          956.0
+        ],
+        [
+          692.07,
+          953.38
+        ],
+        [
+          680.55,
+          906.56
+        ],
+        [
+          657.04,
+          961.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          551.44,
+          350.38
+        ],
+        [
+          550.8,
+          355.9
+        ],
+        [
+          551.89,
+          375.8
+        ],
+        [
+          561.62,
+          379.29
+        ],
+        [
+          562.5,
+          335.2
+        ],
+        [
+          588.83,
+          335.98
+        ],
+        [
+          556.48,
+          324.11
+        ],
+        [
+          561.07,
+          310.45
+        ],
+        [
+          524.43,
+          315.72
+        ],
+        [
+          512.74,
+          314.87
+        ],
+        [
+          497.19,
+          319.84
+        ],
+        [
+          485.17,
+          324.2
+        ],
+        [
+          484.13,
+          335.6
+        ],
+        [
+          476.62,
+          350.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          192.66,
+          402.98
+        ],
+        [
+          204.59,
+          435.52
+        ],
+        [
+          217.03,
+          420.9
+        ],
+        [
+          226.07,
+          414.26
+        ],
+        [
+          238.28,
+          412.3
+        ],
+        [
+          217.1,
+          367.6
+        ],
+        [
+          189.61,
+          397.42
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          534.9,
+          564.9
+        ],
+        [
+          536.3,
+          582.1
+        ],
+        [
+          559.82,
+          545.04
+        ],
+        [
+          547.2,
+          536.7
+        ],
+        [
+          524.7,
+          536.36
+        ],
+        [
+          520.61,
+          547.12
+        ],
+        [
+          517.01,
+          549.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          335.5,
+          1094.8
+        ],
+        [
+          292.8,
+          1071.6
+        ],
+        [
+          275.0,
+          1100.2
+        ],
+        [
+          259.72,
+          1107.88
+        ],
+        [
+          246.79,
+          1131.67
+        ],
+        [
+          240.04,
+          1150.62
+        ],
+        [
+          241.65,
+          1168.93
+        ],
+        [
+          266.38,
+          1168.61
+        ],
+        [
+          272.84,
+          1160.94
+        ],
+        [
+          302.94,
+          1101.1
+        ],
+        [
+          328.05,
+          1114.01
+        ],
+        [
+          333.3,
+          1100.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          512.08,
+          277.47
+        ],
+        [
+          532.18,
+          244.88
+        ],
+        [
+          515.1,
+          239.2
+        ],
+        [
+          521.79,
+          235.2
+        ],
+        [
+          520.79,
+          229.3
+        ],
+        [
+          511.73,
+          223.03
+        ],
+        [
+          511.39,
+          220.8
+        ],
+        [
+          501.39,
+          225.5
+        ],
+        [
+          502.2,
+          236.7
+        ],
+        [
+          485.1,
+          239.77
+        ],
+        [
+          499.81,
+          243.1
+        ],
+        [
+          487.32,
+          250.87
+        ],
+        [
+          427.9,
+          268.7
+        ],
+        [
+          475.57,
+          262.03
+        ],
+        [
+          495.68,
+          286.07
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          321.2,
+          1006.1
+        ],
+        [
+          345.91,
+          1015.66
+        ],
+        [
+          349.07,
+          1016.35
+        ],
+        [
+          413.48,
+          1030.5
+        ],
+        [
+          429.64,
+          1032.71
+        ],
+        [
+          438.51,
+          1034.86
+        ],
+        [
+          439.99,
+          1033.36
+        ],
+        [
+          448.24,
+          1031.48
+        ],
+        [
+          450.39,
+          1025.48
+        ],
+        [
+          422.64,
+          1023.25
+        ],
+        [
+          345.34,
+          1002.07
+        ],
+        [
+          308.63,
+          985.66
+        ],
+        [
+          299.0,
+          975.82
+        ],
+        [
+          300.68,
+          989.49
+        ],
+        [
+          306.6,
+          995.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          283.23,
+          1165.93
+        ],
+        [
+          322.63,
+          1182.91
+        ],
+        [
+          333.15,
+          1184.15
+        ],
+        [
+          372.02,
+          1190.87
+        ],
+        [
+          380.87,
+          1187.75
+        ],
+        [
+          411.9,
+          1170.7
+        ],
+        [
+          403.1,
+          1130.94
+        ],
+        [
+          427.47,
+          1097.96
+        ],
+        [
+          412.24,
+          1094.56
+        ],
+        [
+          398.98,
+          1089.9
+        ],
+        [
+          391.63,
+          1084.7
+        ],
+        [
+          388.64,
+          1083.12
+        ],
+        [
+          379.05,
+          1083.45
+        ],
+        [
+          356.08,
+          1127.12
+        ],
+        [
+          328.05,
+          1114.01
+        ],
+        [
+          302.94,
+          1101.1
+        ],
+        [
+          274.24,
+          1156.75
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          115.37,
+          1202.36
+        ],
+        [
+          148.98,
+          1202.51
+        ],
+        [
+          173.92,
+          1204.21
+        ],
+        [
+          172.88,
+          1201.18
+        ],
+        [
+          166.64,
+          1200.22
+        ],
+        [
+          147.93,
+          1185.83
+        ],
+        [
+          145.5,
+          1184.6
+        ],
+        [
+          140.9,
+          1181.9
+        ],
+        [
+          137.37,
+          1179.83
+        ],
+        [
+          121.4,
+          1171.2
+        ],
+        [
+          95.1,
+          1156.4
+        ],
+        [
+          96.16,
+          1205.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          604.69,
+          632.78
+        ],
+        [
+          588.38,
+          639.26
+        ],
+        [
+          589.7,
+          645.1
+        ],
+        [
+          633.24,
+          636.38
+        ],
+        [
+          639.72,
+          623.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          349.31,
+          721.16
+        ],
+        [
+          375.58,
+          739.18
+        ],
+        [
+          374.12,
+          746.0
+        ],
+        [
+          386.2,
+          757.2
+        ],
+        [
+          399.93,
+          753.62
+        ],
+        [
+          400.9,
+          751.8
+        ],
+        [
+          423.15,
+          756.46
+        ],
+        [
+          418.85,
+          727.07
+        ],
+        [
+          403.62,
+          711.66
+        ],
+        [
+          388.38,
+          717.22
+        ],
+        [
+          358.11,
+          719.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          175.82,
+          609.69
+        ],
+        [
+          163.87,
+          663.45
+        ],
+        [
+          184.97,
+          662.13
+        ],
+        [
+          199.97,
+          647.72
+        ],
+        [
+          199.42,
+          541.68
+        ],
+        [
+          183.09,
+          549.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          619.93,
+          553.36
+        ],
+        [
+          585.04,
+          562.51
+        ],
+        [
+          559.82,
+          545.04
+        ],
+        [
+          536.0,
+          582.3
+        ],
+        [
+          544.82,
+          666.4
+        ],
+        [
+          569.23,
+          659.01
+        ],
+        [
+          597.49,
+          652.27
+        ],
+        [
+          601.8,
+          642.7
+        ],
+        [
+          589.46,
+          645.2
+        ],
+        [
+          588.38,
+          639.26
+        ],
+        [
+          623.84,
+          605.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          781.4,
+          1099.39
+        ],
+        [
+          781.31,
+          1096.79
+        ],
+        [
+          780.0,
+          1092.79
+        ],
+        [
+          777.41,
+          1092.79
+        ],
+        [
+          776.1,
+          1089.29
+        ],
+        [
+          775.48,
+          1082.14
+        ],
+        [
+          781.31,
+          1054.15
+        ],
+        [
+          782.31,
+          1019.93
+        ],
+        [
+          773.19,
+          1001.68
+        ],
+        [
+          765.72,
+          991.32
+        ],
+        [
+          752.66,
+          982.81
+        ],
+        [
+          743.74,
+          977.01
+        ],
+        [
+          735.37,
+          975.24
+        ],
+        [
+          723.22,
+          973.16
+        ],
+        [
+          708.75,
+          973.11
+        ],
+        [
+          723.14,
+          978.63
+        ],
+        [
+          740.01,
+          981.36
+        ],
+        [
+          753.01,
+          987.52
+        ],
+        [
+          768.35,
+          1000.38
+        ],
+        [
+          775.82,
+          1020.08
+        ],
+        [
+          774.78,
+          1043.3
+        ],
+        [
+          773.37,
+          1059.25
+        ],
+        [
+          769.09,
+          1075.91
+        ],
+        [
+          766.77,
+          1078.34
+        ],
+        [
+          758.1,
+          1079.27
+        ],
+        [
+          750.69,
+          1084.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          270.97,
+          179.57
+        ],
+        [
+          251.7,
+          220.04
+        ],
+        [
+          264.55,
+          232.57
+        ],
+        [
+          292.2,
+          255.4
+        ],
+        [
+          317.87,
+          250.56
+        ],
+        [
+          334.2,
+          264.0
+        ],
+        [
+          341.64,
+          248.63
+        ],
+        [
+          325.06,
+          238.6
+        ],
+        [
+          331.36,
+          219.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          458.97,
+          596.16
+        ],
+        [
+          531.63,
+          633.14
+        ],
+        [
+          540.1,
+          623.9
+        ],
+        [
+          534.9,
+          564.9
+        ],
+        [
+          517.01,
+          549.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          257.97,
+          262.43
+        ],
+        [
+          277.32,
+          277.31
+        ],
+        [
+          280.55,
+          284.48
+        ],
+        [
+          283.24,
+          296.66
+        ],
+        [
+          278.22,
+          321.4
+        ],
+        [
+          263.52,
+          333.04
+        ],
+        [
+          259.58,
+          343.8
+        ],
+        [
+          262.45,
+          348.28
+        ],
+        [
+          266.77,
+          355.24
+        ],
+        [
+          322.72,
+          330.15
+        ],
+        [
+          339.2,
+          268.8
+        ],
+        [
+          317.9,
+          250.1
+        ],
+        [
+          263.33,
+          261.93
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          317.74,
+          410.35
+        ],
+        [
+          300.83,
+          437.71
+        ],
+        [
+          309.78,
+          460.1
+        ],
+        [
+          342.62,
+          474.52
+        ],
+        [
+          362.02,
+          477.01
+        ],
+        [
+          356.4,
+          447.3
+        ],
+        [
+          390.5,
+          430.8
+        ],
+        [
+          367.0,
+          366.07
+        ],
+        [
+          296.85,
+          384.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          141.11,
+          926.54
+        ],
+        [
+          122.87,
+          939.19
+        ],
+        [
+          114.57,
+          954.74
+        ],
+        [
+          134.69,
+          958.26
+        ],
+        [
+          136.14,
+          1010.1
+        ],
+        [
+          130.23,
+          1012.74
+        ],
+        [
+          151.27,
+          1021.3
+        ],
+        [
+          162.26,
+          1015.7
+        ],
+        [
+          171.6,
+          997.25
+        ],
+        [
+          171.39,
+          975.48
+        ],
+        [
+          167.45,
+          945.62
+        ],
+        [
+          160.61,
+          930.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          130.23,
+          1012.74
+        ],
+        [
+          136.14,
+          1010.1
+        ],
+        [
+          134.69,
+          958.26
+        ],
+        [
+          114.57,
+          954.74
+        ],
+        [
+          109.39,
+          953.7
+        ],
+        [
+          99.64,
+          1010.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          167.45,
+          945.62
+        ],
+        [
+          171.39,
+          975.48
+        ],
+        [
+          171.6,
+          997.25
+        ],
+        [
+          162.26,
+          1015.7
+        ],
+        [
+          179.11,
+          1020.8
+        ],
+        [
+          199.99,
+          1020.47
+        ],
+        [
+          202.82,
+          1000.73
+        ],
+        [
+          203.53,
+          998.35
+        ],
+        [
+          199.38,
+          960.61
+        ],
+        [
+          187.15,
+          959.15
+        ],
+        [
+          183.21,
+          944.02
+        ],
+        [
+          191.5,
+          938.21
+        ],
+        [
+          191.64,
+          935.36
+        ],
+        [
+          188.84,
+          927.45
+        ],
+        [
+          175.9,
+          924.12
+        ],
+        [
+          160.61,
+          930.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          170.6,
+          1045.31
+        ],
+        [
+          191.51,
+          1057.31
+        ],
+        [
+          188.94,
+          1021.34
+        ],
+        [
+          179.11,
+          1020.8
+        ],
+        [
+          164.34,
+          1016.3
+        ],
+        [
+          153.09,
+          1021.76
+        ],
+        [
+          130.23,
+          1012.74
+        ],
+        [
+          126.14,
+          1059.54
+        ],
+        [
+          149.73,
+          1065.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          422.61,
+          834.85
+        ],
+        [
+          513.1,
+          833.74
+        ],
+        [
+          515.05,
+          781.28
+        ],
+        [
+          424.6,
+          775.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          461.5,
+          638.3
+        ],
+        [
+          448.5,
+          635.2
+        ],
+        [
+          434.89,
+          636.75
+        ],
+        [
+          369.53,
+          650.51
+        ],
+        [
+          383.62,
+          680.02
+        ],
+        [
+          401.46,
+          694.51
+        ],
+        [
+          419.29,
+          696.74
+        ],
+        [
+          412.98,
+          668.5
+        ],
+        [
+          464.63,
+          646.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "71. Paint_Can",
+      "score": null,
+      "points": [
+        [
+          650.79,
+          477.42
+        ],
+        [
+          631.62,
+          473.84
+        ],
+        [
+          617.82,
+          473.3
+        ],
+        [
+          602.76,
+          471.15
+        ],
+        [
+          600.97,
+          470.43
+        ],
+        [
+          599.0,
+          466.31
+        ],
+        [
+          596.49,
+          463.98
+        ],
+        [
+          595.24,
+          462.37
+        ],
+        [
+          576.9,
+          501.2
+        ],
+        [
+          637.0,
+          528.5
+        ],
+        [
+          659.2,
+          475.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "57.Deck reinforcement steel",
+      "score": null,
+      "points": [
+        [
+          308.51,
+          122.58
+        ],
+        [
+          296.43,
+          122.89
+        ],
+        [
+          289.21,
+          125.11
+        ],
+        [
+          285.38,
+          125.58
+        ],
+        [
+          273.97,
+          130.17
+        ],
+        [
+          268.24,
+          132.96
+        ],
+        [
+          263.76,
+          137.03
+        ],
+        [
+          265.61,
+          139.62
+        ],
+        [
+          306.81,
+          165.02
+        ],
+        [
+          355.29,
+          195.38
+        ],
+        [
+          432.12,
+          244.02
+        ],
+        [
+          447.46,
+          255.33
+        ],
+        [
+          481.22,
+          274.22
+        ],
+        [
+          549.69,
+          320.69
+        ],
+        [
+          580.35,
+          340.52
+        ],
+        [
+          584.85,
+          343.77
+        ],
+        [
+          589.18,
+          351.98
+        ],
+        [
+          590.05,
+          354.52
+        ],
+        [
+          574.38,
+          358.67
+        ],
+        [
+          570.98,
+          360.11
+        ],
+        [
+          572.86,
+          364.05
+        ],
+        [
+          605.44,
+          384.18
+        ],
+        [
+          611.86,
+          382.25
+        ],
+        [
+          609.61,
+          378.08
+        ],
+        [
+          609.61,
+          366.84
+        ],
+        [
+          617.64,
+          363.95
+        ],
+        [
+          632.42,
+          374.87
+        ],
+        [
+          639.48,
+          371.98
+        ],
+        [
+          640.13,
+          362.02
+        ],
+        [
+          651.69,
+          371.98
+        ],
+        [
+          659.72,
+          371.01
+        ],
+        [
+          659.4,
+          361.7
+        ],
+        [
+          669.03,
+          336.32
+        ],
+        [
+          679.63,
+          324.76
+        ],
+        [
+          691.26,
+          329.06
+        ],
+        [
+          695.13,
+          327.66
+        ],
+        [
+          693.1,
+          325.2
+        ],
+        [
+          680.0,
+          317.9
+        ],
+        [
+          672.1,
+          313.7
+        ],
+        [
+          655.82,
+          304.45
+        ],
+        [
+          651.16,
+          300.87
+        ],
+        [
+          644.5,
+          300.1
+        ],
+        [
+          633.95,
+          294.23
+        ],
+        [
+          623.2,
+          299.61
+        ],
+        [
+          614.6,
+          294.06
+        ],
+        [
+          606.36,
+          291.9
+        ],
+        [
+          599.72,
+          293.16
+        ],
+        [
+          592.91,
+          293.34
+        ],
+        [
+          507.97,
+          241.9
+        ],
+        [
+          411.9,
+          184.73
+        ],
+        [
+          317.1,
+          128.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "57.Deck reinforcement steel",
+      "score": null,
+      "points": [
+        [
+          259.38,
+          145.14
+        ],
+        [
+          247.35,
+          138.13
+        ],
+        [
+          219.03,
+          120.36
+        ],
+        [
+          220.7,
+          139.79
+        ],
+        [
+          222.62,
+          159.94
+        ],
+        [
+          222.41,
+          165.54
+        ],
+        [
+          212.87,
+          169.48
+        ],
+        [
+          202.3,
+          172.8
+        ],
+        [
+          198.36,
+          176.12
+        ],
+        [
+          209.3,
+          180.7
+        ],
+        [
+          244.5,
+          203.8
+        ],
+        [
+          314.67,
+          249.29
+        ],
+        [
+          377.59,
+          286.78
+        ],
+        [
+          406.11,
+          299.09
+        ],
+        [
+          454.43,
+          336.58
+        ],
+        [
+          497.54,
+          368.71
+        ],
+        [
+          520.97,
+          385.71
+        ],
+        [
+          533.15,
+          380.22
+        ],
+        [
+          553.1,
+          367.37
+        ],
+        [
+          574.38,
+          358.67
+        ],
+        [
+          590.05,
+          354.52
+        ],
+        [
+          589.18,
+          351.98
+        ],
+        [
+          584.85,
+          343.77
+        ],
+        [
+          580.35,
+          340.52
+        ],
+        [
+          549.69,
+          320.69
+        ],
+        [
+          481.22,
+          274.22
+        ],
+        [
+          447.46,
+          255.33
+        ],
+        [
+          432.12,
+          244.02
+        ],
+        [
+          355.29,
+          195.38
+        ],
+        [
+          306.81,
+          165.02
+        ],
+        [
+          265.61,
+          139.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753323706.jpg",
+  "imageData": null,
+  "imageWidth": 850,
+  "imageHeight": 1650,
+  "text": "",
+  "description": ""
+}

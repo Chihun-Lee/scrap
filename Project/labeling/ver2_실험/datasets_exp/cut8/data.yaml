@@ -1,0 +1,24 @@
+path: /Users/chihun/Code/scrap/Project/labeling/ver2_실험/datasets_exp/cut8
+train: images/train
+val: images/val
+nc: 19
+names:
+  - handler
+  - rebar
+  - structure steel
+  - mixed steel
+  - heavy iron
+  - panel
+  - square pipe
+  - mesh
+  - small pipe
+  - trash
+  - vehicle
+  - pipe
+  - plastic
+  - machine
+  - LPG GAS cylinder
+  - beam
+  - drum
+  - Fan
+  - Guillotine

@@ -1,0 +1,4973 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1273.3,
+          1086.31
+        ],
+        [
+          1262.7,
+          1091.95
+        ],
+        [
+          1257.97,
+          1100.04
+        ],
+        [
+          1291.56,
+          1135.21
+        ],
+        [
+          1299.0,
+          1129.12
+        ],
+        [
+          1303.9,
+          1114.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1328.36,
+          1468.55
+        ],
+        [
+          1322.97,
+          1447.8
+        ],
+        [
+          1316.12,
+          1449.25
+        ],
+        [
+          1308.22,
+          1446.78
+        ],
+        [
+          1312.75,
+          1477.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          832.53,
+          680.07
+        ],
+        [
+          833.65,
+          719.47
+        ],
+        [
+          888.92,
+          737.02
+        ],
+        [
+          896.98,
+          745.93
+        ],
+        [
+          912.2,
+          755.96
+        ],
+        [
+          927.62,
+          765.46
+        ],
+        [
+          936.04,
+          772.8
+        ],
+        [
+          924.28,
+          735.13
+        ],
+        [
+          925.78,
+          733.64
+        ],
+        [
+          944.18,
+          782.4
+        ],
+        [
+          965.26,
+          764.61
+        ],
+        [
+          972.6,
+          755.53
+        ],
+        [
+          981.68,
+          739.47
+        ],
+        [
+          948.15,
+          722.71
+        ],
+        [
+          926.16,
+          711.54
+        ],
+        [
+          913.24,
+          711.19
+        ],
+        [
+          902.41,
+          709.44
+        ],
+        [
+          880.41,
+          698.62
+        ],
+        [
+          855.72,
+          687.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1141.43,
+          994.81
+        ],
+        [
+          1143.54,
+          1004.17
+        ],
+        [
+          1142.34,
+          1011.11
+        ],
+        [
+          1198.47,
+          967.65
+        ],
+        [
+          1188.81,
+          960.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1119.1,
+          1011.71
+        ],
+        [
+          1120.0,
+          1027.11
+        ],
+        [
+          1142.34,
+          1011.11
+        ],
+        [
+          1139.02,
+          997.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1236.53,
+          1083.39
+        ],
+        [
+          1241.23,
+          1086.89
+        ],
+        [
+          1243.03,
+          1083.39
+        ],
+        [
+          1245.14,
+          1076.39
+        ],
+        [
+          1248.03,
+          1068.09
+        ],
+        [
+          1250.64,
+          1052.59
+        ],
+        [
+          1252.14,
+          1044.49
+        ],
+        [
+          1253.64,
+          1048.69
+        ],
+        [
+          1255.83,
+          1054.19
+        ],
+        [
+          1256.53,
+          1059.59
+        ],
+        [
+          1255.33,
+          1064.59
+        ],
+        [
+          1247.83,
+          1075.39
+        ],
+        [
+          1242.14,
+          1087.89
+        ],
+        [
+          1247.73,
+          1090.69
+        ],
+        [
+          1253.73,
+          1078.69
+        ],
+        [
+          1259.23,
+          1069.09
+        ],
+        [
+          1260.64,
+          1066.59
+        ],
+        [
+          1263.03,
+          1057.89
+        ],
+        [
+          1261.73,
+          1050.19
+        ],
+        [
+          1257.83,
+          1042.19
+        ],
+        [
+          1253.23,
+          1039.09
+        ],
+        [
+          1245.03,
+          1042.4
+        ],
+        [
+          1245.83,
+          1045.89
+        ],
+        [
+          1243.14,
+          1058.89
+        ],
+        [
+          1237.73,
+          1078.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          645.09,
+          679.42
+        ],
+        [
+          660.09,
+          678.92
+        ],
+        [
+          659.49,
+          647.52
+        ],
+        [
+          645.79,
+          663.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1203.2,
+          1240.95
+        ],
+        [
+          1211.96,
+          1239.39
+        ],
+        [
+          1222.62,
+          1229.21
+        ],
+        [
+          1213.96,
+          1226.31
+        ],
+        [
+          1200.14,
+          1235.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1203.59,
+          1247.77
+        ],
+        [
+          1200.14,
+          1235.3
+        ],
+        [
+          1192.44,
+          1236.91
+        ],
+        [
+          1196.29,
+          1252.65
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          871.63,
+          659.17
+        ],
+        [
+          884.94,
+          682.9
+        ],
+        [
+          892.24,
+          677.16
+        ],
+        [
+          880.76,
+          656.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1577.37,
+          1149.62
+        ],
+        [
+          1569.97,
+          1137.02
+        ],
+        [
+          1565.37,
+          1136.42
+        ],
+        [
+          1570.47,
+          1147.42
+        ],
+        [
+          1565.57,
+          1145.82
+        ],
+        [
+          1559.37,
+          1146.02
+        ],
+        [
+          1559.97,
+          1149.02
+        ],
+        [
+          1566.97,
+          1149.82
+        ],
+        [
+          1572.97,
+          1151.82
+        ],
+        [
+          1575.87,
+          1161.32
+        ],
+        [
+          1579.57,
+          1161.32
+        ],
+        [
+          1577.94,
+          1154.23
+        ],
+        [
+          1581.64,
+          1156.63
+        ],
+        [
+          1582.47,
+          1153.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1260.47,
+          1195.82
+        ],
+        [
+          1265.16,
+          1131.91
+        ],
+        [
+          1267.36,
+          1114.2
+        ],
+        [
+          1260.91,
+          1114.54
+        ],
+        [
+          1259.48,
+          1117.4
+        ],
+        [
+          1258.12,
+          1137.13
+        ],
+        [
+          1253.69,
+          1196.6
+        ],
+        [
+          1253.9,
+          1200.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1220.79,
+          988.85
+        ],
+        [
+          1222.44,
+          997.95
+        ],
+        [
+          1248.1,
+          1015.47
+        ],
+        [
+          1251.54,
+          1013.4
+        ],
+        [
+          1254.3,
+          1014.78
+        ],
+        [
+          1251.13,
+          1016.98
+        ],
+        [
+          1266.03,
+          1027.6
+        ],
+        [
+          1269.47,
+          1025.95
+        ],
+        [
+          1271.4,
+          1028.16
+        ],
+        [
+          1268.23,
+          1029.26
+        ],
+        [
+          1281.34,
+          1037.95
+        ],
+        [
+          1291.4,
+          1037.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1544.09,
+          1108.22
+        ],
+        [
+          1539.9,
+          1108.83
+        ],
+        [
+          1555.39,
+          1126.96
+        ],
+        [
+          1557.68,
+          1122.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          855.16,
+          667.06
+        ],
+        [
+          885.47,
+          653.76
+        ],
+        [
+          878.57,
+          647.19
+        ],
+        [
+          867.92,
+          655.61
+        ],
+        [
+          854.82,
+          661.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          772.6,
+          855.44
+        ],
+        [
+          785.88,
+          867.51
+        ],
+        [
+          787.54,
+          888.58
+        ],
+        [
+          782.41,
+          912.12
+        ],
+        [
+          808.64,
+          937.11
+        ],
+        [
+          824.57,
+          919.63
+        ],
+        [
+          839.18,
+          886.5
+        ],
+        [
+          860.49,
+          849.89
+        ],
+        [
+          847.57,
+          849.53
+        ],
+        [
+          824.87,
+          853.72
+        ],
+        [
+          777.43,
+          849.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          861.45,
+          890.84
+        ],
+        [
+          853.0,
+          902.91
+        ],
+        [
+          871.6,
+          919.3
+        ],
+        [
+          879.3,
+          908.1
+        ],
+        [
+          884.99,
+          899.59
+        ],
+        [
+          866.28,
+          881.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1196.29,
+          1252.65
+        ],
+        [
+          1186.33,
+          1240.44
+        ],
+        [
+          1170.27,
+          1233.37
+        ],
+        [
+          1155.82,
+          1232.09
+        ],
+        [
+          1148.43,
+          1235.94
+        ],
+        [
+          1143.93,
+          1251.69
+        ],
+        [
+          1139.43,
+          1262.92
+        ],
+        [
+          1156.46,
+          1277.39
+        ],
+        [
+          1173.48,
+          1276.41
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1114.64,
+          1017.01
+        ],
+        [
+          1111.25,
+          1029.63
+        ],
+        [
+          1100.43,
+          1028.28
+        ],
+        [
+          1070.68,
+          1047.67
+        ],
+        [
+          1077.66,
+          1058.72
+        ],
+        [
+          1105.33,
+          1037.84
+        ],
+        [
+          1117.12,
+          1029.86
+        ],
+        [
+          1116.67,
+          1014.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1124.87,
+          1314.41
+        ],
+        [
+          1125.61,
+          1308.46
+        ],
+        [
+          1137.87,
+          1292.86
+        ],
+        [
+          1121.14,
+          1300.29
+        ],
+        [
+          1093.64,
+          1313.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1089.92,
+          1292.48
+        ],
+        [
+          1103.31,
+          1287.66
+        ],
+        [
+          1113.71,
+          1288.03
+        ],
+        [
+          1110.74,
+          1280.59
+        ],
+        [
+          1096.24,
+          1278.37
+        ],
+        [
+          1084.73,
+          1282.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          754.93,
+          932.37
+        ],
+        [
+          753.25,
+          915.58
+        ],
+        [
+          740.05,
+          887.03
+        ],
+        [
+          734.53,
+          881.99
+        ],
+        [
+          720.14,
+          892.79
+        ],
+        [
+          715.82,
+          899.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          646.1,
+          840.02
+        ],
+        [
+          649.33,
+          831.95
+        ],
+        [
+          639.95,
+          810.89
+        ],
+        [
+          622.3,
+          819.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          599.08,
+          797.98
+        ],
+        [
+          599.28,
+          768.7
+        ],
+        [
+          602.65,
+          752.14
+        ],
+        [
+          603.16,
+          722.73
+        ],
+        [
+          604.55,
+          689.97
+        ],
+        [
+          601.49,
+          684.97
+        ],
+        [
+          592.9,
+          687.2
+        ],
+        [
+          591.13,
+          737.87
+        ],
+        [
+          589.21,
+          789.58
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          859.88,
+          629.14
+        ],
+        [
+          870.33,
+          631.09
+        ],
+        [
+          874.61,
+          621.15
+        ],
+        [
+          871.49,
+          604.0
+        ],
+        [
+          861.36,
+          579.65
+        ],
+        [
+          842.85,
+          592.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          392.67,
+          544.96
+        ],
+        [
+          388.83,
+          536.62
+        ],
+        [
+          375.08,
+          534.82
+        ],
+        [
+          369.9,
+          538.42
+        ],
+        [
+          348.71,
+          534.14
+        ],
+        [
+          327.96,
+          535.49
+        ],
+        [
+          316.92,
+          530.53
+        ],
+        [
+          309.93,
+          535.27
+        ],
+        [
+          365.53,
+          586.31
+        ],
+        [
+          387.85,
+          576.0
+        ],
+        [
+          396.01,
+          564.25
+        ],
+        [
+          401.21,
+          553.95
+        ],
+        [
+          406.26,
+          544.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          763.85,
+          662.46
+        ],
+        [
+          765.66,
+          703.49
+        ],
+        [
+          772.87,
+          704.17
+        ],
+        [
+          778.96,
+          659.98
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          645.04,
+          681.99
+        ],
+        [
+          657.56,
+          721.9
+        ],
+        [
+          672.69,
+          726.59
+        ],
+        [
+          662.26,
+          697.12
+        ],
+        [
+          659.65,
+          682.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          693.8,
+          732.18
+        ],
+        [
+          687.4,
+          740.43
+        ],
+        [
+          677.63,
+          745.48
+        ],
+        [
+          674.1,
+          759.29
+        ],
+        [
+          684.71,
+          753.57
+        ],
+        [
+          694.14,
+          747.51
+        ],
+        [
+          698.18,
+          738.24
+        ],
+        [
+          707.27,
+          727.63
+        ],
+        [
+          701.88,
+          724.77
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          513.51,
+          576.47
+        ],
+        [
+          506.88,
+          600.91
+        ],
+        [
+          496.75,
+          601.26
+        ],
+        [
+          492.21,
+          627.1
+        ],
+        [
+          491.17,
+          640.02
+        ],
+        [
+          500.59,
+          660.62
+        ],
+        [
+          516.31,
+          659.23
+        ],
+        [
+          522.94,
+          638.62
+        ],
+        [
+          529.58,
+          619.07
+        ],
+        [
+          528.88,
+          594.28
+        ],
+        [
+          524.34,
+          576.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          523.65,
+          518.65
+        ],
+        [
+          534.88,
+          524.56
+        ],
+        [
+          536.74,
+          522.49
+        ],
+        [
+          545.45,
+          502.38
+        ],
+        [
+          532.89,
+          499.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          715.77,
+          822.21
+        ],
+        [
+          741.0,
+          824.57
+        ],
+        [
+          753.17,
+          832.05
+        ],
+        [
+          786.33,
+          841.41
+        ],
+        [
+          782.14,
+          847.47
+        ],
+        [
+          831.69,
+          848.41
+        ],
+        [
+          866.76,
+          846.54
+        ],
+        [
+          872.71,
+          824.99
+        ],
+        [
+          828.04,
+          812.31
+        ],
+        [
+          798.77,
+          806.88
+        ],
+        [
+          772.21,
+          800.85
+        ],
+        [
+          748.06,
+          788.77
+        ],
+        [
+          724.52,
+          797.83
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          739.96,
+          867.6
+        ],
+        [
+          767.61,
+          891.34
+        ],
+        [
+          784.04,
+          881.43
+        ],
+        [
+          757.44,
+          858.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          911.52,
+          917.56
+        ],
+        [
+          917.11,
+          928.73
+        ],
+        [
+          945.05,
+          932.92
+        ],
+        [
+          1005.11,
+          959.46
+        ],
+        [
+          1013.84,
+          943.4
+        ],
+        [
+          955.17,
+          919.65
+        ],
+        [
+          924.44,
+          911.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1049.53,
+          975.59
+        ],
+        [
+          1035.95,
+          990.07
+        ],
+        [
+          1035.05,
+          1005.47
+        ],
+        [
+          1038.06,
+          1027.5
+        ],
+        [
+          1100.43,
+          1028.28
+        ],
+        [
+          1111.25,
+          1029.63
+        ],
+        [
+          1114.64,
+          1017.01
+        ],
+        [
+          1103.25,
+          1007.28
+        ],
+        [
+          1097.52,
+          981.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1212.49,
+          1027.79
+        ],
+        [
+          1245.03,
+          1042.4
+        ],
+        [
+          1255.36,
+          1038.31
+        ],
+        [
+          1250.87,
+          1025.45
+        ],
+        [
+          1243.86,
+          1019.8
+        ],
+        [
+          1234.31,
+          1018.43
+        ],
+        [
+          1215.61,
+          1016.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1178.89,
+          1023.45
+        ],
+        [
+          1163.8,
+          1026.17
+        ],
+        [
+          1151.72,
+          1038.24
+        ],
+        [
+          1142.37,
+          1048.5
+        ],
+        [
+          1122.45,
+          1068.72
+        ],
+        [
+          1130.6,
+          1076.87
+        ],
+        [
+          1160.78,
+          1070.53
+        ],
+        [
+          1176.17,
+          1062.08
+        ],
+        [
+          1187.03,
+          1035.83
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1260.47,
+          1195.82
+        ],
+        [
+          1274.29,
+          1182.0
+        ],
+        [
+          1287.07,
+          1153.04
+        ],
+        [
+          1291.51,
+          1141.04
+        ],
+        [
+          1278.21,
+          1134.0
+        ],
+        [
+          1265.16,
+          1131.91
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1240.38,
+          1138.7
+        ],
+        [
+          1228.12,
+          1150.43
+        ],
+        [
+          1223.91,
+          1163.32
+        ],
+        [
+          1224.58,
+          1200.97
+        ],
+        [
+          1253.69,
+          1196.6
+        ],
+        [
+          1258.12,
+          1137.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1220.98,
+          1159.94
+        ],
+        [
+          1212.86,
+          1159.71
+        ],
+        [
+          1206.55,
+          1163.32
+        ],
+        [
+          1205.2,
+          1200.52
+        ],
+        [
+          1224.58,
+          1200.97
+        ],
+        [
+          1223.91,
+          1163.32
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          832.87,
+          596.08
+        ],
+        [
+          843.46,
+          620.81
+        ],
+        [
+          847.93,
+          634.94
+        ],
+        [
+          854.31,
+          643.27
+        ],
+        [
+          874.69,
+          645.31
+        ],
+        [
+          877.03,
+          632.06
+        ],
+        [
+          859.88,
+          629.14
+        ],
+        [
+          841.96,
+          592.12
+        ],
+        [
+          833.79,
+          591.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          887.0,
+          633.99
+        ],
+        [
+          887.59,
+          658.93
+        ],
+        [
+          896.75,
+          656.01
+        ],
+        [
+          908.83,
+          648.8
+        ],
+        [
+          909.61,
+          640.81
+        ],
+        [
+          899.86,
+          633.21
+        ],
+        [
+          882.91,
+          629.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          837.7,
+          920.36
+        ],
+        [
+          825.02,
+          922.47
+        ],
+        [
+          824.12,
+          930.02
+        ],
+        [
+          830.46,
+          938.47
+        ],
+        [
+          852.19,
+          940.28
+        ],
+        [
+          863.05,
+          935.15
+        ],
+        [
+          870.6,
+          921.87
+        ],
+        [
+          850.98,
+          906.78
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          592.5,
+          539.42
+        ],
+        [
+          579.42,
+          555.42
+        ],
+        [
+          590.92,
+          551.36
+        ],
+        [
+          600.16,
+          545.05
+        ],
+        [
+          614.36,
+          533.55
+        ],
+        [
+          606.47,
+          529.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          646.12,
+          611.65
+        ],
+        [
+          645.81,
+          657.82
+        ],
+        [
+          660.0,
+          639.71
+        ],
+        [
+          660.3,
+          611.04
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          549.59,
+          661.58
+        ],
+        [
+          524.57,
+          669.47
+        ],
+        [
+          496.39,
+          676.46
+        ],
+        [
+          497.74,
+          680.07
+        ],
+        [
+          515.55,
+          684.8
+        ],
+        [
+          534.94,
+          678.94
+        ],
+        [
+          545.99,
+          672.85
+        ],
+        [
+          559.06,
+          660.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          653.85,
+          575.34
+        ],
+        [
+          639.3,
+          569.68
+        ],
+        [
+          593.16,
+          558.45
+        ],
+        [
+          575.39,
+          560.47
+        ],
+        [
+          556.8,
+          567.74
+        ],
+        [
+          548.72,
+          586.33
+        ],
+        [
+          542.66,
+          604.51
+        ],
+        [
+          572.68,
+          636.02
+        ],
+        [
+          588.03,
+          642.08
+        ],
+        [
+          590.05,
+          659.05
+        ],
+        [
+          621.57,
+          661.48
+        ],
+        [
+          611.06,
+          634.81
+        ],
+        [
+          595.31,
+          625.12
+        ],
+        [
+          586.01,
+          611.78
+        ],
+        [
+          581.16,
+          602.49
+        ],
+        [
+          610.25,
+          580.67
+        ],
+        [
+          630.86,
+          596.03
+        ],
+        [
+          657.08,
+          593.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          660.93,
+          530.86
+        ],
+        [
+          700.83,
+          540.25
+        ],
+        [
+          720.45,
+          542.55
+        ],
+        [
+          724.65,
+          511.82
+        ],
+        [
+          699.17,
+          502.38
+        ],
+        [
+          678.14,
+          502.17
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1232.41,
+          1099.68
+        ],
+        [
+          1238.57,
+          1102.22
+        ],
+        [
+          1245.0,
+          1094.19
+        ],
+        [
+          1244.46,
+          1091.64
+        ],
+        [
+          1239.11,
+          1088.3
+        ],
+        [
+          1235.36,
+          1087.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          695.07,
+          480.76
+        ],
+        [
+          720.78,
+          464.34
+        ],
+        [
+          716.44,
+          457.99
+        ],
+        [
+          690.57,
+          475.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1170.54,
+          1516.22
+        ],
+        [
+          1179.79,
+          1518.93
+        ],
+        [
+          1224.2,
+          1472.94
+        ],
+        [
+          1231.19,
+          1477.22
+        ],
+        [
+          1189.93,
+          1521.63
+        ],
+        [
+          1221.72,
+          1532.45
+        ],
+        [
+          1248.35,
+          1507.26
+        ],
+        [
+          1254.17,
+          1508.35
+        ],
+        [
+          1243.89,
+          1526.11
+        ],
+        [
+          1312.75,
+          1477.8
+        ],
+        [
+          1308.22,
+          1446.78
+        ],
+        [
+          1316.12,
+          1449.25
+        ],
+        [
+          1322.97,
+          1447.8
+        ],
+        [
+          1328.36,
+          1468.55
+        ],
+        [
+          1484.07,
+          1353.21
+        ],
+        [
+          1526.66,
+          1314.96
+        ],
+        [
+          1540.41,
+          1301.63
+        ],
+        [
+          1523.64,
+          1297.33
+        ],
+        [
+          1482.37,
+          1289.59
+        ],
+        [
+          1447.11,
+          1283.55
+        ],
+        [
+          1430.4,
+          1288.85
+        ],
+        [
+          1409.85,
+          1290.78
+        ],
+        [
+          1394.91,
+          1285.67
+        ],
+        [
+          1385.73,
+          1274.88
+        ],
+        [
+          1381.58,
+          1296.01
+        ],
+        [
+          1376.38,
+          1306.77
+        ],
+        [
+          1373.87,
+          1318.94
+        ],
+        [
+          1366.46,
+          1319.71
+        ],
+        [
+          1362.05,
+          1316.47
+        ],
+        [
+          1358.81,
+          1308.38
+        ],
+        [
+          1358.01,
+          1294.31
+        ],
+        [
+          1358.46,
+          1283.32
+        ],
+        [
+          1336.36,
+          1292.03
+        ],
+        [
+          1315.23,
+          1299.09
+        ],
+        [
+          1301.64,
+          1318.56
+        ],
+        [
+          1304.85,
+          1322.41
+        ],
+        [
+          1318.02,
+          1331.73
+        ],
+        [
+          1345.96,
+          1330.12
+        ],
+        [
+          1342.43,
+          1343.61
+        ],
+        [
+          1334.4,
+          1376.05
+        ],
+        [
+          1327.98,
+          1377.66
+        ],
+        [
+          1322.84,
+          1367.06
+        ],
+        [
+          1318.98,
+          1366.58
+        ],
+        [
+          1311.5,
+          1382.41
+        ],
+        [
+          1301.77,
+          1383.53
+        ],
+        [
+          1296.21,
+          1381.86
+        ],
+        [
+          1298.72,
+          1372.42
+        ],
+        [
+          1301.22,
+          1354.92
+        ],
+        [
+          1292.61,
+          1343.55
+        ],
+        [
+          1286.51,
+          1338.83
+        ],
+        [
+          1281.24,
+          1335.48
+        ],
+        [
+          1269.58,
+          1346.89
+        ],
+        [
+          1246.56,
+          1376.89
+        ],
+        [
+          1236.92,
+          1402.58
+        ],
+        [
+          1244.63,
+          1413.18
+        ],
+        [
+          1240.77,
+          1427.63
+        ],
+        [
+          1223.98,
+          1439.97
+        ],
+        [
+          1218.77,
+          1440.51
+        ],
+        [
+          1209.27,
+          1433.7
+        ],
+        [
+          1189.45,
+          1452.75
+        ],
+        [
+          1194.87,
+          1465.2
+        ],
+        [
+          1204.2,
+          1464.37
+        ],
+        [
+          1255.21,
+          1449.86
+        ],
+        [
+          1257.67,
+          1455.26
+        ],
+        [
+          1209.97,
+          1472.47
+        ],
+        [
+          1194.65,
+          1475.97
+        ],
+        [
+          1185.72,
+          1471.64
+        ],
+        [
+          1179.91,
+          1461.87
+        ],
+        [
+          1152.09,
+          1480.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          497.58,
+          391.7
+        ],
+        [
+          495.19,
+          438.55
+        ],
+        [
+          489.42,
+          436.86
+        ],
+        [
+          489.42,
+          441.91
+        ],
+        [
+          493.51,
+          442.87
+        ],
+        [
+          495.22,
+          453.33
+        ],
+        [
+          502.72,
+          465.27
+        ],
+        [
+          507.44,
+          489.69
+        ],
+        [
+          494.68,
+          491.08
+        ],
+        [
+          478.57,
+          494.41
+        ],
+        [
+          478.63,
+          482.76
+        ],
+        [
+          494.23,
+          469.8
+        ],
+        [
+          492.06,
+          465.73
+        ],
+        [
+          481.98,
+          467.88
+        ],
+        [
+          471.91,
+          466.45
+        ],
+        [
+          467.83,
+          470.29
+        ],
+        [
+          471.91,
+          477.24
+        ],
+        [
+          460.39,
+          477.48
+        ],
+        [
+          445.76,
+          475.56
+        ],
+        [
+          439.76,
+          477.24
+        ],
+        [
+          434.64,
+          483.6
+        ],
+        [
+          429.53,
+          495.22
+        ],
+        [
+          427.51,
+          499.1
+        ],
+        [
+          417.3,
+          503.75
+        ],
+        [
+          410.18,
+          492.05
+        ],
+        [
+          400.41,
+          484.31
+        ],
+        [
+          395.3,
+          482.61
+        ],
+        [
+          390.04,
+          482.61
+        ],
+        [
+          384.77,
+          480.75
+        ],
+        [
+          382.13,
+          482.76
+        ],
+        [
+          384.92,
+          485.7
+        ],
+        [
+          390.2,
+          486.95
+        ],
+        [
+          396.7,
+          488.34
+        ],
+        [
+          401.35,
+          490.81
+        ],
+        [
+          406.45,
+          495.3
+        ],
+        [
+          412.49,
+          505.68
+        ],
+        [
+          408.0,
+          507.08
+        ],
+        [
+          405.22,
+          502.28
+        ],
+        [
+          402.59,
+          497.63
+        ],
+        [
+          395.3,
+          494.84
+        ],
+        [
+          393.91,
+          497.33
+        ],
+        [
+          403.36,
+          503.05
+        ],
+        [
+          404.75,
+          505.99
+        ],
+        [
+          404.6,
+          516.53
+        ],
+        [
+          389.42,
+          496.08
+        ],
+        [
+          386.47,
+          497.79
+        ],
+        [
+          389.72,
+          501.97
+        ],
+        [
+          399.18,
+          515.28
+        ],
+        [
+          407.06,
+          523.98
+        ],
+        [
+          408.29,
+          532.07
+        ],
+        [
+          406.26,
+          544.36
+        ],
+        [
+          401.21,
+          553.95
+        ],
+        [
+          396.01,
+          564.25
+        ],
+        [
+          387.85,
+          576.0
+        ],
+        [
+          365.53,
+          586.31
+        ],
+        [
+          429.76,
+          646.17
+        ],
+        [
+          589.21,
+          789.58
+        ],
+        [
+          591.13,
+          737.87
+        ],
+        [
+          592.9,
+          687.2
+        ],
+        [
+          601.49,
+          684.97
+        ],
+        [
+          604.55,
+          689.97
+        ],
+        [
+          603.16,
+          722.73
+        ],
+        [
+          602.65,
+          752.14
+        ],
+        [
+          599.28,
+          768.7
+        ],
+        [
+          599.08,
+          797.98
+        ],
+        [
+          622.3,
+          819.57
+        ],
+        [
+          639.95,
+          810.89
+        ],
+        [
+          649.33,
+          831.95
+        ],
+        [
+          646.1,
+          840.02
+        ],
+        [
+          715.82,
+          899.02
+        ],
+        [
+          720.14,
+          892.79
+        ],
+        [
+          734.53,
+          881.99
+        ],
+        [
+          740.05,
+          887.03
+        ],
+        [
+          753.25,
+          915.58
+        ],
+        [
+          754.93,
+          932.37
+        ],
+        [
+          948.67,
+          1105.93
+        ],
+        [
+          1041.62,
+          1280.96
+        ],
+        [
+          1061.31,
+          1271.68
+        ],
+        [
+          1072.09,
+          1273.16
+        ],
+        [
+          1084.73,
+          1282.08
+        ],
+        [
+          1096.24,
+          1278.37
+        ],
+        [
+          1110.74,
+          1280.59
+        ],
+        [
+          1113.71,
+          1288.03
+        ],
+        [
+          1103.31,
+          1287.66
+        ],
+        [
+          1089.92,
+          1292.48
+        ],
+        [
+          1090.68,
+          1298.06
+        ],
+        [
+          1093.64,
+          1313.3
+        ],
+        [
+          1121.14,
+          1300.29
+        ],
+        [
+          1137.87,
+          1292.86
+        ],
+        [
+          1125.61,
+          1308.46
+        ],
+        [
+          1124.87,
+          1314.41
+        ],
+        [
+          1133.4,
+          1312.56
+        ],
+        [
+          1173.48,
+          1276.41
+        ],
+        [
+          1156.46,
+          1277.39
+        ],
+        [
+          1139.43,
+          1262.92
+        ],
+        [
+          1143.93,
+          1251.69
+        ],
+        [
+          1148.43,
+          1235.94
+        ],
+        [
+          1155.82,
+          1232.09
+        ],
+        [
+          1170.27,
+          1233.37
+        ],
+        [
+          1186.33,
+          1240.44
+        ],
+        [
+          1196.29,
+          1252.65
+        ],
+        [
+          1192.44,
+          1236.91
+        ],
+        [
+          1200.14,
+          1235.3
+        ],
+        [
+          1213.96,
+          1226.31
+        ],
+        [
+          1223.13,
+          1229.13
+        ],
+        [
+          1248.53,
+          1207.46
+        ],
+        [
+          1250.0,
+          1197.1
+        ],
+        [
+          1224.58,
+          1200.97
+        ],
+        [
+          1205.2,
+          1200.52
+        ],
+        [
+          1206.55,
+          1163.32
+        ],
+        [
+          1212.86,
+          1159.71
+        ],
+        [
+          1220.98,
+          1159.94
+        ],
+        [
+          1223.91,
+          1163.32
+        ],
+        [
+          1228.12,
+          1150.43
+        ],
+        [
+          1240.38,
+          1138.7
+        ],
+        [
+          1258.03,
+          1137.06
+        ],
+        [
+          1259.48,
+          1117.4
+        ],
+        [
+          1260.91,
+          1114.54
+        ],
+        [
+          1267.36,
+          1114.2
+        ],
+        [
+          1265.16,
+          1131.91
+        ],
+        [
+          1278.21,
+          1134.0
+        ],
+        [
+          1291.51,
+          1141.04
+        ],
+        [
+          1291.56,
+          1135.21
+        ],
+        [
+          1257.97,
+          1100.04
+        ],
+        [
+          1262.7,
+          1091.95
+        ],
+        [
+          1273.3,
+          1086.31
+        ],
+        [
+          1303.9,
+          1115.3
+        ],
+        [
+          1304.73,
+          1114.18
+        ],
+        [
+          1308.31,
+          1107.73
+        ],
+        [
+          1312.97,
+          1099.12
+        ],
+        [
+          1327.85,
+          1084.97
+        ],
+        [
+          1347.38,
+          1068.32
+        ],
+        [
+          1312.38,
+          1047.72
+        ],
+        [
+          1311.92,
+          1042.92
+        ],
+        [
+          1310.52,
+          1032.22
+        ],
+        [
+          1310.21,
+          1012.72
+        ],
+        [
+          1304.78,
+          997.22
+        ],
+        [
+          1300.77,
+          980.8
+        ],
+        [
+          1300.14,
+          970.89
+        ],
+        [
+          1332.49,
+          1000.29
+        ],
+        [
+          1352.56,
+          1026.45
+        ],
+        [
+          1366.0,
+          1039.89
+        ],
+        [
+          1384.82,
+          1053.51
+        ],
+        [
+          1389.3,
+          1053.15
+        ],
+        [
+          1388.23,
+          1049.57
+        ],
+        [
+          1373.84,
+          1038.13
+        ],
+        [
+          1365.29,
+          1032.57
+        ],
+        [
+          1335.46,
+          993.74
+        ],
+        [
+          1301.13,
+          963.4
+        ],
+        [
+          1282.88,
+          903.66
+        ],
+        [
+          1260.18,
+          872.73
+        ],
+        [
+          1249.87,
+          865.51
+        ],
+        [
+          1239.55,
+          854.16
+        ],
+        [
+          1218.92,
+          850.02
+        ],
+        [
+          1187.97,
+          812.88
+        ],
+        [
+          1167.84,
+          797.33
+        ],
+        [
+          1167.26,
+          803.1
+        ],
+        [
+          1187.42,
+          822.66
+        ],
+        [
+          1214.93,
+          849.89
+        ],
+        [
+          1222.74,
+          854.34
+        ],
+        [
+          1214.56,
+          866.23
+        ],
+        [
+          1210.1,
+          877.39
+        ],
+        [
+          1202.66,
+          888.53
+        ],
+        [
+          1204.16,
+          896.71
+        ],
+        [
+          1210.85,
+          907.11
+        ],
+        [
+          1207.13,
+          909.35
+        ],
+        [
+          1197.84,
+          900.8
+        ],
+        [
+          1195.24,
+          904.89
+        ],
+        [
+          1206.76,
+          913.06
+        ],
+        [
+          1209.36,
+          912.69
+        ],
+        [
+          1210.47,
+          916.03
+        ],
+        [
+          1210.47,
+          921.24
+        ],
+        [
+          1204.9,
+          927.93
+        ],
+        [
+          1176.39,
+          931.97
+        ],
+        [
+          1166.76,
+          928.11
+        ],
+        [
+          1163.55,
+          921.68
+        ],
+        [
+          1166.76,
+          914.62
+        ],
+        [
+          1166.11,
+          909.8
+        ],
+        [
+          1163.22,
+          906.9
+        ],
+        [
+          1155.52,
+          904.34
+        ],
+        [
+          1144.27,
+          902.74
+        ],
+        [
+          1142.02,
+          894.7
+        ],
+        [
+          1138.81,
+          894.06
+        ],
+        [
+          1136.24,
+          887.96
+        ],
+        [
+          1140.98,
+          880.54
+        ],
+        [
+          1146.99,
+          875.77
+        ],
+        [
+          1154.25,
+          874.73
+        ],
+        [
+          1163.16,
+          871.0
+        ],
+        [
+          1172.92,
+          870.17
+        ],
+        [
+          1178.92,
+          866.43
+        ],
+        [
+          1176.85,
+          864.99
+        ],
+        [
+          1164.62,
+          869.13
+        ],
+        [
+          1156.53,
+          870.79
+        ],
+        [
+          1145.96,
+          872.24
+        ],
+        [
+          1137.98,
+          877.67
+        ],
+        [
+          1129.58,
+          889.42
+        ],
+        [
+          1129.82,
+          869.51
+        ],
+        [
+          1131.5,
+          854.87
+        ],
+        [
+          1126.46,
+          853.44
+        ],
+        [
+          1133.1,
+          833.42
+        ],
+        [
+          1136.45,
+          821.53
+        ],
+        [
+          1136.82,
+          815.95
+        ],
+        [
+          1141.65,
+          802.2
+        ],
+        [
+          1141.65,
+          792.54
+        ],
+        [
+          1143.14,
+          773.59
+        ],
+        [
+          1136.18,
+          751.65
+        ],
+        [
+          1115.11,
+          702.2
+        ],
+        [
+          1110.38,
+          703.93
+        ],
+        [
+          1131.88,
+          759.82
+        ],
+        [
+          1131.02,
+          777.02
+        ],
+        [
+          1131.45,
+          793.35
+        ],
+        [
+          1117.26,
+          810.56
+        ],
+        [
+          1090.61,
+          842.38
+        ],
+        [
+          1081.57,
+          824.74
+        ],
+        [
+          1071.25,
+          811.84
+        ],
+        [
+          1051.9,
+          803.25
+        ],
+        [
+          1043.31,
+          797.23
+        ],
+        [
+          1041.58,
+          780.45
+        ],
+        [
+          1088.88,
+          775.73
+        ],
+        [
+          1103.47,
+          775.26
+        ],
+        [
+          1115.41,
+          784.98
+        ],
+        [
+          1117.91,
+          779.42
+        ],
+        [
+          1104.86,
+          771.93
+        ],
+        [
+          1085.16,
+          772.48
+        ],
+        [
+          1041.03,
+          776.45
+        ],
+        [
+          1034.36,
+          781.73
+        ],
+        [
+          1027.42,
+          777.84
+        ],
+        [
+          1013.63,
+          773.38
+        ],
+        [
+          1007.25,
+          765.33
+        ],
+        [
+          1009.75,
+          761.44
+        ],
+        [
+          1005.03,
+          751.73
+        ],
+        [
+          1002.26,
+          747.57
+        ],
+        [
+          993.65,
+          750.9
+        ],
+        [
+          980.87,
+          745.07
+        ],
+        [
+          976.15,
+          754.23
+        ],
+        [
+          981.71,
+          751.46
+        ],
+        [
+          982.82,
+          748.68
+        ],
+        [
+          988.65,
+          753.12
+        ],
+        [
+          970.06,
+          766.44
+        ],
+        [
+          950.65,
+          786.38
+        ],
+        [
+          944.18,
+          782.4
+        ],
+        [
+          925.78,
+          733.64
+        ],
+        [
+          924.28,
+          735.13
+        ],
+        [
+          936.04,
+          772.8
+        ],
+        [
+          927.62,
+          765.46
+        ],
+        [
+          912.2,
+          755.96
+        ],
+        [
+          896.98,
+          745.93
+        ],
+        [
+          888.92,
+          737.02
+        ],
+        [
+          833.65,
+          719.47
+        ],
+        [
+          832.53,
+          680.07
+        ],
+        [
+          855.72,
+          687.08
+        ],
+        [
+          853.15,
+          659.79
+        ],
+        [
+          854.76,
+          651.76
+        ],
+        [
+          859.57,
+          651.76
+        ],
+        [
+          867.92,
+          655.61
+        ],
+        [
+          854.31,
+          643.27
+        ],
+        [
+          847.93,
+          634.94
+        ],
+        [
+          843.46,
+          620.81
+        ],
+        [
+          832.87,
+          596.08
+        ],
+        [
+          821.3,
+          595.11
+        ],
+        [
+          792.72,
+          608.92
+        ],
+        [
+          775.05,
+          626.27
+        ],
+        [
+          746.03,
+          647.04
+        ],
+        [
+          736.03,
+          660.35
+        ],
+        [
+          717.43,
+          667.02
+        ],
+        [
+          704.39,
+          671.74
+        ],
+        [
+          697.17,
+          668.96
+        ],
+        [
+          684.67,
+          657.86
+        ],
+        [
+          683.29,
+          652.59
+        ],
+        [
+          694.2,
+          638.39
+        ],
+        [
+          675.24,
+          622.97
+        ],
+        [
+          658.55,
+          606.27
+        ],
+        [
+          703.44,
+          550.16
+        ],
+        [
+          710.96,
+          554.32
+        ],
+        [
+          673.21,
+          601.23
+        ],
+        [
+          728.46,
+          649.81
+        ],
+        [
+          760.4,
+          619.31
+        ],
+        [
+          776.01,
+          592.19
+        ],
+        [
+          781.22,
+          573.61
+        ],
+        [
+          772.3,
+          560.59
+        ],
+        [
+          759.66,
+          563.2
+        ],
+        [
+          750.74,
+          554.28
+        ],
+        [
+          761.89,
+          536.08
+        ],
+        [
+          756.69,
+          530.87
+        ],
+        [
+          746.98,
+          513.48
+        ],
+        [
+          733.21,
+          494.99
+        ],
+        [
+          677.57,
+          499.16
+        ],
+        [
+          655.6,
+          483.84
+        ],
+        [
+          632.28,
+          471.85
+        ],
+        [
+          599.65,
+          481.83
+        ],
+        [
+          575.01,
+          496.49
+        ],
+        [
+          561.02,
+          474.51
+        ],
+        [
+          556.07,
+          496.85
+        ],
+        [
+          531.01,
+          498.14
+        ],
+        [
+          524.26,
+          481.11
+        ],
+        [
+          522.34,
+          479.51
+        ],
+        [
+          522.02,
+          500.06
+        ],
+        [
+          516.88,
+          492.35
+        ],
+        [
+          510.77,
+          487.21
+        ],
+        [
+          505.96,
+          465.69
+        ],
+        [
+          499.27,
+          452.72
+        ],
+        [
+          498.16,
+          436.62
+        ],
+        [
+          500.71,
+          390.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          870.33,
+          631.09
+        ],
+        [
+          877.03,
+          632.06
+        ],
+        [
+          881.64,
+          643.55
+        ],
+        [
+          887.17,
+          648.2
+        ],
+        [
+          887.0,
+          633.99
+        ],
+        [
+          882.91,
+          629.51
+        ],
+        [
+          874.61,
+          621.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1114.95,
+          1185.44
+        ],
+        [
+          1097.59,
+          1193.33
+        ],
+        [
+          1088.8,
+          1203.52
+        ],
+        [
+          1081.86,
+          1218.01
+        ],
+        [
+          1083.37,
+          1232.8
+        ],
+        [
+          1091.51,
+          1246.08
+        ],
+        [
+          1119.57,
+          1246.66
+        ],
+        [
+          1131.34,
+          1196.87
+        ],
+        [
+          1124.87,
+          1184.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          880.76,
+          656.82
+        ],
+        [
+          892.24,
+          677.16
+        ],
+        [
+          928.66,
+          687.98
+        ],
+        [
+          896.75,
+          656.01
+        ],
+        [
+          887.59,
+          658.93
+        ],
+        [
+          885.47,
+          653.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          884.94,
+          682.9
+        ],
+        [
+          870.4,
+          693.05
+        ],
+        [
+          880.41,
+          698.62
+        ],
+        [
+          902.41,
+          709.44
+        ],
+        [
+          913.24,
+          711.19
+        ],
+        [
+          926.16,
+          711.54
+        ],
+        [
+          948.15,
+          722.71
+        ],
+        [
+          937.23,
+          698.11
+        ],
+        [
+          928.66,
+          687.98
+        ],
+        [
+          892.24,
+          677.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          868.8,
+          679.64
+        ],
+        [
+          884.97,
+          683.68
+        ],
+        [
+          871.63,
+          659.17
+        ],
+        [
+          859.37,
+          665.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          478.57,
+          494.41
+        ],
+        [
+          494.68,
+          491.08
+        ],
+        [
+          507.44,
+          489.69
+        ],
+        [
+          502.72,
+          465.27
+        ],
+        [
+          499.1,
+          459.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          553.0,
+          397.66
+        ],
+        [
+          536.64,
+          403.12
+        ],
+        [
+          512.28,
+          427.67
+        ],
+        [
+          500.4,
+          455.14
+        ],
+        [
+          505.96,
+          465.69
+        ],
+        [
+          528.57,
+          459.07
+        ],
+        [
+          536.83,
+          442.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          737.59,
+          652.87
+        ],
+        [
+          746.03,
+          647.04
+        ],
+        [
+          775.05,
+          626.27
+        ],
+        [
+          792.72,
+          608.92
+        ],
+        [
+          821.3,
+          595.11
+        ],
+        [
+          832.87,
+          596.08
+        ],
+        [
+          833.79,
+          591.66
+        ],
+        [
+          827.53,
+          586.71
+        ],
+        [
+          809.79,
+          585.14
+        ],
+        [
+          788.14,
+          596.1
+        ],
+        [
+          776.01,
+          592.19
+        ],
+        [
+          760.4,
+          619.31
+        ],
+        [
+          728.46,
+          649.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          559.69,
+          453.24
+        ],
+        [
+          571.64,
+          452.23
+        ],
+        [
+          566.38,
+          446.86
+        ],
+        [
+          592.86,
+          418.49
+        ],
+        [
+          589.47,
+          409.47
+        ],
+        [
+          584.52,
+          401.36
+        ],
+        [
+          579.78,
+          397.07
+        ],
+        [
+          570.09,
+          410.15
+        ],
+        [
+          562.2,
+          403.16
+        ],
+        [
+          554.08,
+          412.18
+        ],
+        [
+          556.32,
+          442.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          788.14,
+          596.1
+        ],
+        [
+          809.79,
+          585.14
+        ],
+        [
+          827.53,
+          586.71
+        ],
+        [
+          833.79,
+          591.66
+        ],
+        [
+          832.74,
+          578.62
+        ],
+        [
+          827.53,
+          564.01
+        ],
+        [
+          816.57,
+          550.19
+        ],
+        [
+          791.79,
+          539.75
+        ],
+        [
+          782.14,
+          544.45
+        ],
+        [
+          772.3,
+          560.59
+        ],
+        [
+          781.22,
+          573.61
+        ],
+        [
+          776.01,
+          592.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "80. Unknown-Square Pipe",
+      "score": null,
+      "points": [
+        [
+          658.55,
+          606.27
+        ],
+        [
+          675.24,
+          622.97
+        ],
+        [
+          694.2,
+          638.39
+        ],
+        [
+          724.08,
+          659.92
+        ],
+        [
+          736.03,
+          660.35
+        ],
+        [
+          737.59,
+          652.87
+        ],
+        [
+          728.46,
+          649.81
+        ],
+        [
+          673.21,
+          601.23
+        ],
+        [
+          710.96,
+          554.32
+        ],
+        [
+          703.44,
+          550.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          556.32,
+          442.67
+        ],
+        [
+          546.57,
+          438.58
+        ],
+        [
+          536.83,
+          442.48
+        ],
+        [
+          528.57,
+          459.07
+        ],
+        [
+          532.09,
+          463.69
+        ],
+        [
+          553.47,
+          463.35
+        ],
+        [
+          559.69,
+          453.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          683.29,
+          652.59
+        ],
+        [
+          684.67,
+          657.86
+        ],
+        [
+          697.17,
+          668.96
+        ],
+        [
+          704.39,
+          671.74
+        ],
+        [
+          717.43,
+          667.02
+        ],
+        [
+          724.08,
+          659.92
+        ],
+        [
+          694.2,
+          638.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1358.01,
+          1294.31
+        ],
+        [
+          1358.81,
+          1308.38
+        ],
+        [
+          1362.05,
+          1316.47
+        ],
+        [
+          1366.46,
+          1319.71
+        ],
+        [
+          1373.87,
+          1318.94
+        ],
+        [
+          1376.38,
+          1306.77
+        ],
+        [
+          1381.58,
+          1296.01
+        ],
+        [
+          1385.73,
+          1274.88
+        ],
+        [
+          1358.46,
+          1283.32
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1281.24,
+          1335.48
+        ],
+        [
+          1286.51,
+          1338.83
+        ],
+        [
+          1292.61,
+          1343.55
+        ],
+        [
+          1301.22,
+          1354.92
+        ],
+        [
+          1298.72,
+          1372.42
+        ],
+        [
+          1296.21,
+          1381.86
+        ],
+        [
+          1301.77,
+          1383.53
+        ],
+        [
+          1311.5,
+          1382.41
+        ],
+        [
+          1318.98,
+          1366.58
+        ],
+        [
+          1322.84,
+          1367.06
+        ],
+        [
+          1327.98,
+          1377.66
+        ],
+        [
+          1334.4,
+          1376.05
+        ],
+        [
+          1342.43,
+          1343.61
+        ],
+        [
+          1345.96,
+          1330.12
+        ],
+        [
+          1318.02,
+          1331.73
+        ],
+        [
+          1304.85,
+          1322.41
+        ],
+        [
+          1301.64,
+          1318.56
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1234.02,
+          1535.11
+        ],
+        [
+          1243.89,
+          1526.11
+        ],
+        [
+          1254.17,
+          1508.35
+        ],
+        [
+          1248.35,
+          1507.26
+        ],
+        [
+          1221.72,
+          1532.45
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          1218.77,
+          1440.51
+        ],
+        [
+          1223.98,
+          1439.97
+        ],
+        [
+          1240.77,
+          1427.63
+        ],
+        [
+          1244.63,
+          1413.18
+        ],
+        [
+          1236.92,
+          1402.58
+        ],
+        [
+          1209.27,
+          1433.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1185.72,
+          1471.64
+        ],
+        [
+          1194.65,
+          1475.97
+        ],
+        [
+          1209.97,
+          1472.47
+        ],
+        [
+          1257.67,
+          1455.26
+        ],
+        [
+          1255.21,
+          1449.86
+        ],
+        [
+          1204.2,
+          1464.37
+        ],
+        [
+          1194.87,
+          1465.2
+        ],
+        [
+          1189.45,
+          1452.75
+        ],
+        [
+          1179.91,
+          1461.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          559.69,
+          453.24
+        ],
+        [
+          553.47,
+          463.35
+        ],
+        [
+          532.09,
+          463.69
+        ],
+        [
+          528.57,
+          459.07
+        ],
+        [
+          505.96,
+          465.69
+        ],
+        [
+          510.77,
+          487.21
+        ],
+        [
+          516.88,
+          492.35
+        ],
+        [
+          522.02,
+          500.06
+        ],
+        [
+          522.34,
+          479.51
+        ],
+        [
+          524.26,
+          481.11
+        ],
+        [
+          531.01,
+          498.14
+        ],
+        [
+          556.07,
+          496.85
+        ],
+        [
+          561.02,
+          474.51
+        ],
+        [
+          575.01,
+          496.49
+        ],
+        [
+          588.47,
+          488.27
+        ],
+        [
+          576.77,
+          461.57
+        ],
+        [
+          578.75,
+          458.33
+        ],
+        [
+          571.64,
+          452.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "3.Pipe_2",
+      "score": null,
+      "points": [
+        [
+          1189.93,
+          1521.63
+        ],
+        [
+          1231.19,
+          1477.22
+        ],
+        [
+          1224.2,
+          1472.94
+        ],
+        [
+          1179.79,
+          1518.93
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          633.49,
+          442.48
+        ],
+        [
+          618.89,
+          437.81
+        ],
+        [
+          600.79,
+          442.64
+        ],
+        [
+          578.75,
+          458.33
+        ],
+        [
+          576.77,
+          461.57
+        ],
+        [
+          588.47,
+          488.27
+        ],
+        [
+          599.65,
+          481.83
+        ],
+        [
+          632.28,
+          471.85
+        ],
+        [
+          633.84,
+          467.39
+        ],
+        [
+          651.88,
+          437.4
+        ],
+        [
+          651.61,
+          433.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          642.18,
+          476.63
+        ],
+        [
+          655.6,
+          483.84
+        ],
+        [
+          685.92,
+          477.53
+        ],
+        [
+          685.92,
+          454.09
+        ],
+        [
+          683.89,
+          447.32
+        ],
+        [
+          665.85,
+          443.49
+        ],
+        [
+          669.91,
+          431.09
+        ],
+        [
+          657.29,
+          429.97
+        ],
+        [
+          651.88,
+          437.4
+        ],
+        [
+          633.84,
+          467.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "79. Unknown-Panel",
+      "score": null,
+      "points": [
+        [
+          621.31,
+          403.4
+        ],
+        [
+          595.96,
+          414.87
+        ],
+        [
+          566.38,
+          446.86
+        ],
+        [
+          578.75,
+          458.33
+        ],
+        [
+          600.79,
+          442.64
+        ],
+        [
+          618.89,
+          437.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1752805345.jpg",
+  "imageData": null,
+  "imageWidth": 1734,
+  "imageHeight": 1727,
+  "text": "",
+  "description": ""
+}

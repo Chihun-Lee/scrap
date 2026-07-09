@@ -30,7 +30,10 @@ cd ~/scrap/Project/labeling/ver2_실험
 exp2/exp3 스크립트가 필요 변형을 자동 생성하므로 단독 실행은 선택.
 
 ### 2) 2순위 재검증 — `exp2_train_sweep.py` (목표: 7/24 공유)
-컷오프 {무필터, 6, 8, 10, 12}px × YOLO26x-seg @1280. 결과 → `exp2_results.csv`.
+컷오프 {무필터, 8, 10, 12, 16}px × YOLO26x-seg @1280. 결과 → `exp2_results.csv`.
+잠정 제안치는 10px(원본 30px, 0.011%) — 1024 스윕 최적점(원본 29px, 축소비 0.55)을 원본픽셀로 전사한 하한.
+입력픽셀 기준 전사 시나리오면 최적이 16px(원본 48px)까지 올라갈 수 있어 스윕 범위가 이 구간(24~48px)을 커버함.
+⚠️ 판독 주의: 과거 1024 스윕은 각 조건이 자기 필터 적용된 val로 평가됐을 가능성 → exp2에서는 **공통 val(무필터 base의 val 라벨) 기준 재평가를 병행**해 비교 왜곡을 제거할 것.
 ```bash
 # 스모크 테스트 (작은 모델, 짧게 — 파이프라인 검증용)
 python exp2_train_sweep.py --model yolo11s-seg.pt --cuts 8 --epochs 5

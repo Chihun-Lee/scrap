@@ -69,7 +69,7 @@ Code is written on MacBook and synced to GPU cluster via `sync-to-cluster.sh`. T
 학습 완료/오류/결정 필요 시 Telegram 알림 전송:
 ```python
 import sys, os
-sys.path.insert(0, os.path.expanduser("~/Code/cluster-notify"))
+sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
 from notify import training_complete, error, decision_needed, wait_for_decision
 
 # 학습 스크립트 끝에 추가

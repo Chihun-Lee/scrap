@@ -1,8 +1,8 @@
 # 철스크랩 데이터셋 인스턴스 크기 분포 — 1280 letterbox 기준 컷오프 분석
 
 - 데이터: `train_remapped`(LabelMe, 19클래스 리맵), `val_remapped`
-- train: 2096 파일, 138896 인스턴스 (/Users/chihun/Code/scrap/data/datasets/train_remapped)
-- val: 419 파일, 27658 인스턴스 (/Users/chihun/Code/scrap/data/datasets/val_remapped)
+- train: 2096 파일, 138896 인스턴스 (/Users/chihun/Code/철스크랩/scrap/data/datasets/train_remapped)
+- val: 419 파일, 27658 인스턴스 (/Users/chihun/Code/철스크랩/scrap/data/datasets/val_remapped)
 - 스케일: s = 1280 / max(W,H) (3840×2160 → s=0.3333, 즉 1280×720 유효해상도)
 - 제외 기준: 값 < 컷오프 (strict)
 

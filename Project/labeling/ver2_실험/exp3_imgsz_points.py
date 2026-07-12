@@ -76,7 +76,7 @@ def main():
             print(row)
 
     try:
-        sys.path.insert(0, os.path.expanduser("~/Code/cluster-notify"))
+        sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
         from notify import training_complete
         best = max(rows, key=lambda r: r["mask_map50"])
         training_complete("scrap", "exp3 그리드 완료 ({}런)".format(len(rows)),

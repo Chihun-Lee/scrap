@@ -22,7 +22,7 @@ import os
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SCRAP_ROOT = os.path.abspath(os.path.join(HERE, "..", "..", ".."))  # ~/Code/scrap
+SCRAP_ROOT = os.path.abspath(os.path.join(HERE, "..", "..", ".."))  # ~/Code/철스크랩/scrap
 RAW_DIRS = {
     "train": os.path.join(SCRAP_ROOT, "data", "datasets", "train_data"),
     "val": os.path.join(SCRAP_ROOT, "data", "datasets", "val_data"),

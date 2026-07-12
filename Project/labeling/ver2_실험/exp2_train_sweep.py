@@ -88,7 +88,7 @@ def main():
 
     # cluster-notify (있으면 사용)
     try:
-        sys.path.insert(0, os.path.expanduser("~/Code/cluster-notify"))
+        sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
         from notify import training_complete
         summary = " / ".join("{}: mask mAP50={}".format(r["variant"], r["mask_map50"]) for r in rows)
         training_complete("scrap", "exp2 컷오프 스윕 완료", summary)

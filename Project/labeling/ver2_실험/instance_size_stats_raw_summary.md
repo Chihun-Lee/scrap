@@ -1,8 +1,8 @@
 # 원본(미필터) 라벨 기준 인스턴스 크기 분포 — 1280 letterbox 환산
 
 - 데이터: `train_data`/`val_data` (89 raw 클래스 LabelMe, ver1 8px@640 필터 미적용, Cargo Area 제외)
-- train: 2096 파일, 417218 인스턴스 (/Users/chihun/Code/scrap/data/datasets/train_data)
-- val: 419 파일, 84159 인스턴스 (/Users/chihun/Code/scrap/data/datasets/val_data)
+- train: 2096 파일, 417218 인스턴스 (/Users/chihun/Code/철스크랩/scrap/data/datasets/train_data)
+- val: 419 파일, 84159 인스턴스 (/Users/chihun/Code/철스크랩/scrap/data/datasets/val_data)
 - 스케일: s = 1280 / max(W,H) (3840×2160 → s=0.3333)
 - 제외 기준: 값 < 컷오프
 

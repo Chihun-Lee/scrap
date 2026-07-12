@@ -1,4 +1,4 @@
-path: /Users/chihun/Code/scrap/Project/labeling/ver2_실험/datasets_exp/cut8
+path: /Users/chihun/Code/철스크랩/scrap/Project/labeling/ver2_실험/datasets_exp/cut8
 train: images/train
 val: images/val
 nc: 19

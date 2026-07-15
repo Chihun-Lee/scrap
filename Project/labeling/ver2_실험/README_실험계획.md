@@ -9,6 +9,7 @@
 |---|---|
 | `instance_size_stats.py` / `_summary.md`, `_train.csv` | remapped(ver1 필터 통과분 138,896개) 기준 크기 분포 |
 | `instance_size_stats_raw.py` / `_raw_summary.md` | **원본 미필터(417,218개) 기준** — 메일 회신 수치의 출처 |
+| `exp5_stride4_survival.py` / `exp5_survival_summary.md`, `exp5_instances.csv.gz`, `exp5_panels/` | **stride4 GT 생존 전수 시뮬레이션(50.1만 개, 2026-07-14)** — ITIV 확인요청 3번 대응. ultralytics polygon2mask(fillPoly@1280→resize 1/4) 재현. 결론: 완전 소실은 드묾, 문제는 형상 충실도(원본 18px 미만 IoU<0.5 과반)와 세장형 조각남(두께 2px@1280 미만 74.6% 분절). `--scale-factor 0.5`(증강 최악조건) 결과는 `_s0.5` 접미사 |
 
 핵심 수치(원본 train): sqrt(area)@1280 <8px = 48.0% / <10px = 59.2%, 면적비 <0.007%≈8px 컷.
 bbox 짧은변 <16px@1280 = 278,322개 → ver1의 8px@640 필터 제거 수와 정확히 일치(교차 검증 완료).
@@ -41,6 +42,15 @@ python exp2_train_sweep.py --model yolo11s-seg.pt --cuts 8 --epochs 5
 nohup python exp2_train_sweep.py --epochs 100 > exp2.log 2>&1 &
 ```
 판독: mask mAP50이 최고이면서 세장형 클래스(rebar/small pipe/pipe) AP가 유지되는 컷 채택.
+
+### 2b) 세장형 예외 정책 ablation — `exp6_exception_ablation.py` (ITIV 7/14 확인요청 대응, exp2와 함께 7/24 공유)
+컷오프 10px 고정, 예외 정책 3종 비교: `cut10_noexc`(예외 없음) / `cut10`(긴변≥24px, 현행) / `cut10_w2`(+shoelace 두께≥2px@1280=원본 6px, exp5 정책 C2).
+exp5 시뮬레이션 근거(두께 원본 6px 미만 세장형은 GT가 절반 이상 조각남 → 학습 노이즈 가능성)를 실제 학습으로 검증.
+데이터셋 변형 3종은 로컬에서 생성 완료(kept: noexc 204,135 / cut10 232,978 / w2 222,029 — exp5 정책표 예측과 ±0.1% 일치). 세장형 클래스별 mask AP50을 공통 val 기준으로 CSV에 기록.
+```bash
+nohup python exp6_exception_ablation.py --epochs 100 > exp6.log 2>&1 &
+```
+판독: cut10_w2 ≥ cut10 이면(특히 rebar/small pipe AP) "긴변 예외에 두께 조건 추가"를 라벨링 기준에 반영.
 
 ### 3) 3순위 그리드 — `exp3_imgsz_points.py` (목표: 스크리닝 7/31, 최종 8/4)
 imgsz {960,1280,1600,1920} × RDP eps {0, 4, 8}px@1280 (컷오프는 8px 고정). 결과 → `exp3_results.csv`.

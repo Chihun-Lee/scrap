@@ -91,6 +91,8 @@ def main():
     ap.add_argument("--out", required=True, help="변형 이름 (datasets_exp/<out>/)")
     ap.add_argument("--min-sqrt-area", type=float, default=0.0, help="sqrt(area)@1280 컷오프 px")
     ap.add_argument("--keep-elongated", type=float, default=24.0, help="bbox 긴변@1280 유지 기준 px (0=끔)")
+    ap.add_argument("--min-elongated-width", type=float, default=0.0,
+                    help="세장형 예외에 추가 요구하는 평균두께(면적/긴변)@1280 px (0=끔; exp5 근거 3 권장)")
     ap.add_argument("--rdp-eps", type=float, default=0.0, help="RDP epsilon px(@1280)")
     args = ap.parse_args()
 
@@ -129,7 +131,9 @@ def main():
                     sa = math.sqrt(shoelace(pts)) * s
                     ms = max(max(xs) - min(xs), max(ys) - min(ys)) * s
                     if sa < args.min_sqrt_area:
-                        if args.keep_elongated > 0 and ms >= args.keep_elongated:
+                        mw = (sa * sa) / ms if ms > 0 else 0.0  # 평균두께 = 면적/긴변 @1280
+                        if (args.keep_elongated > 0 and ms >= args.keep_elongated
+                                and (args.min_elongated_width <= 0 or mw >= args.min_elongated_width)):
                             stats["kept_elongated"] += 1
                         else:
                             stats["cut_small"] += 1

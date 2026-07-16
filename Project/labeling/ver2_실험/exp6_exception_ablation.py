@@ -123,13 +123,10 @@ def main():
         rows.append(row)
         print(row)
 
-    try:
-        sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
-        from notify import training_complete
-        summary = " / ".join("{}: mask mAP50={}".format(r["variant"], r["mask_map50"]) for r in rows)
-        training_complete("scrap", "exp6 세장형 예외 ablation 완료", summary)
-    except Exception:
-        pass
+    # 완료 마커 — 모니터링 세션이 이 파일을 폴링해 Claude 앱 푸시로 알림 (Telegram 폐기, 2026-07-15)
+    summary = " / ".join("{}: mask mAP50={}".format(r["variant"], r["mask_map50"]) for r in rows)
+    with open(os.path.join(HERE, "exp6_ablation.done"), "w") as f:
+        f.write(summary + "\n")
 
 
 if __name__ == "__main__":

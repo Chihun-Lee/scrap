@@ -1,0 +1,388 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          281.04,
+          227.98
+        ],
+        [
+          282.49,
+          243.33
+        ],
+        [
+          289.95,
+          251.21
+        ],
+        [
+          363.77,
+          218.86
+        ],
+        [
+          345.94,
+          202.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          108.7,
+          79.02
+        ],
+        [
+          107.66,
+          91.66
+        ],
+        [
+          114.51,
+          97.26
+        ],
+        [
+          166.55,
+          75.49
+        ],
+        [
+          149.96,
+          62.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1101.55,
+          630.91
+        ],
+        [
+          709.17,
+          733.87
+        ],
+        [
+          708.8,
+          748.73
+        ],
+        [
+          712.14,
+          756.91
+        ],
+        [
+          878.17,
+          717.47
+        ],
+        [
+          1098.16,
+          660.7
+        ],
+        [
+          1165.79,
+          630.61
+        ],
+        [
+          1157.35,
+          621.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1098.16,
+          660.7
+        ],
+        [
+          893.35,
+          756.22
+        ],
+        [
+          893.91,
+          768.16
+        ],
+        [
+          900.57,
+          780.37
+        ],
+        [
+          1153.74,
+          664.61
+        ],
+        [
+          1287.26,
+          604.37
+        ],
+        [
+          1287.26,
+          590.22
+        ],
+        [
+          1278.1,
+          581.89
+        ],
+        [
+          1165.79,
+          630.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1478.81,
+          664.24
+        ],
+        [
+          1367.94,
+          721.47
+        ],
+        [
+          1145.73,
+          838.44
+        ],
+        [
+          1085.01,
+          873.6
+        ],
+        [
+          1083.31,
+          889.39
+        ],
+        [
+          1088.74,
+          892.96
+        ],
+        [
+          1088.88,
+          889.25
+        ],
+        [
+          1094.32,
+          882.58
+        ],
+        [
+          1333.07,
+          758.37
+        ],
+        [
+          1488.41,
+          673.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1333.07,
+          758.37
+        ],
+        [
+          1094.32,
+          882.58
+        ],
+        [
+          1088.88,
+          889.25
+        ],
+        [
+          1088.74,
+          892.96
+        ],
+        [
+          1092.52,
+          902.6
+        ],
+        [
+          1104.3,
+          909.83
+        ],
+        [
+          1110.59,
+          905.41
+        ],
+        [
+          1217.29,
+          845.17
+        ],
+        [
+          1223.04,
+          850.53
+        ],
+        [
+          1370.57,
+          771.94
+        ],
+        [
+          1497.48,
+          698.58
+        ],
+        [
+          1501.37,
+          684.66
+        ],
+        [
+          1488.41,
+          673.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1217.29,
+          845.17
+        ],
+        [
+          1110.59,
+          905.41
+        ],
+        [
+          1109.75,
+          908.21
+        ],
+        [
+          1122.29,
+          918.43
+        ],
+        [
+          1227.13,
+          858.57
+        ],
+        [
+          1227.31,
+          856.06
+        ],
+        [
+          1223.04,
+          850.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "31.Square steel pipe",
+      "score": null,
+      "points": [
+        [
+          1112.48,
+          914.17
+        ],
+        [
+          1122.92,
+          922.87
+        ],
+        [
+          1229.69,
+          863.66
+        ],
+        [
+          1229.46,
+          861.0
+        ],
+        [
+          1227.13,
+          858.57
+        ],
+        [
+          1122.29,
+          918.43
+        ],
+        [
+          1113.82,
+          911.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753331055.jpg",
+  "imageData": null,
+  "imageWidth": 1550,
+  "imageHeight": 1062,
+  "text": "",
+  "description": ""
+}

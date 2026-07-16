@@ -1,0 +1,2 @@
+variant,mask_ratio,model,imgsz,epochs,box_map50,mask_map50,mask_map5095,mask_map50_commonval,peak_vram_gb,run,ap50_rebar,ap50_square_pipe,ap50_mesh,ap50_small_pipe,ap50_pipe
+cut10,2,yolo26x-seg.pt,1280,100,0.7477,0.6886,0.3972,0.4644,80.9,exp7_cut10_mr2_yolo26x-seg_e100,0.0866,0.3257,0.5383,0.0733,0.4784

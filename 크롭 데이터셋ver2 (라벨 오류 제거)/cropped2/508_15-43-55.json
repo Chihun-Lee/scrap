@@ -1,0 +1,9438 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1623.09,
+          1667.69
+        ],
+        [
+          1671.2,
+          1729.6
+        ],
+        [
+          1683.0,
+          1739.4
+        ],
+        [
+          1679.39,
+          1705.27
+        ],
+        [
+          1621.54,
+          1656.45
+        ],
+        [
+          1607.67,
+          1645.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          859.93,
+          946.92
+        ],
+        [
+          873.78,
+          957.6
+        ],
+        [
+          1018.94,
+          1088.43
+        ],
+        [
+          1032.92,
+          1096.31
+        ],
+        [
+          1017.95,
+          1080.19
+        ],
+        [
+          886.29,
+          948.53
+        ],
+        [
+          884.89,
+          944.97
+        ],
+        [
+          874.05,
+          934.12
+        ],
+        [
+          870.18,
+          934.59
+        ],
+        [
+          863.74,
+          928.21
+        ],
+        [
+          859.62,
+          938.96
+        ],
+        [
+          863.01,
+          943.17
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          870.18,
+          934.59
+        ],
+        [
+          874.05,
+          934.12
+        ],
+        [
+          884.89,
+          944.97
+        ],
+        [
+          886.29,
+          948.53
+        ],
+        [
+          1017.95,
+          1080.19
+        ],
+        [
+          1091.52,
+          1139.36
+        ],
+        [
+          1107.16,
+          1135.95
+        ],
+        [
+          1001.22,
+          1037.13
+        ],
+        [
+          946.23,
+          987.1
+        ],
+        [
+          868.16,
+          918.01
+        ],
+        [
+          840.59,
+          889.98
+        ],
+        [
+          822.47,
+          870.77
+        ],
+        [
+          822.93,
+          863.03
+        ],
+        [
+          813.33,
+          853.73
+        ],
+        [
+          809.17,
+          855.79
+        ],
+        [
+          805.33,
+          856.24
+        ],
+        [
+          800.8,
+          853.52
+        ],
+        [
+          799.67,
+          856.24
+        ],
+        [
+          797.53,
+          861.48
+        ],
+        [
+          833.9,
+          897.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          959.55,
+          970.62
+        ],
+        [
+          994.84,
+          1003.24
+        ],
+        [
+          1045.25,
+          1051.56
+        ],
+        [
+          1050.27,
+          1048.88
+        ],
+        [
+          1054.94,
+          1050.74
+        ],
+        [
+          1042.65,
+          1039.16
+        ],
+        [
+          1007.13,
+          1003.85
+        ],
+        [
+          969.38,
+          966.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1410.38,
+          1469.17
+        ],
+        [
+          1464.37,
+          1539.71
+        ],
+        [
+          1508.37,
+          1598.42
+        ],
+        [
+          1591.61,
+          1712.06
+        ],
+        [
+          1598.53,
+          1712.25
+        ],
+        [
+          1609.83,
+          1715.27
+        ],
+        [
+          1608.32,
+          1719.28
+        ],
+        [
+          1597.28,
+          1716.02
+        ],
+        [
+          1594.42,
+          1716.19
+        ],
+        [
+          1627.1,
+          1756.5
+        ],
+        [
+          1634.41,
+          1763.03
+        ],
+        [
+          1673.66,
+          1796.65
+        ],
+        [
+          1585.35,
+          1670.8
+        ],
+        [
+          1500.63,
+          1556.05
+        ],
+        [
+          1434.1,
+          1466.29
+        ],
+        [
+          1432.4,
+          1460.72
+        ],
+        [
+          1410.66,
+          1431.03
+        ],
+        [
+          1392.89,
+          1424.92
+        ],
+        [
+          1371.79,
+          1413.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1360.94,
+          1417.53
+        ],
+        [
+          1352.85,
+          1417.53
+        ],
+        [
+          1348.29,
+          1418.56
+        ],
+        [
+          1345.36,
+          1421.67
+        ],
+        [
+          1342.68,
+          1424.12
+        ],
+        [
+          1362.97,
+          1445.34
+        ],
+        [
+          1392.4,
+          1488.24
+        ],
+        [
+          1400.52,
+          1501.35
+        ],
+        [
+          1464.82,
+          1588.09
+        ],
+        [
+          1525.16,
+          1667.68
+        ],
+        [
+          1574.7,
+          1711.1
+        ],
+        [
+          1591.6,
+          1711.8
+        ],
+        [
+          1508.37,
+          1598.42
+        ],
+        [
+          1464.37,
+          1539.71
+        ],
+        [
+          1410.38,
+          1469.17
+        ],
+        [
+          1367.01,
+          1413.93
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "78. Unknown-Rebar",
+      "score": null,
+      "points": [
+        [
+          1516.87,
+          1711.73
+        ],
+        [
+          1500.28,
+          1710.75
+        ],
+        [
+          1498.86,
+          1713.15
+        ],
+        [
+          1497.55,
+          1714.89
+        ],
+        [
+          1496.03,
+          1716.2
+        ],
+        [
+          1493.17,
+          1715.57
+        ],
+        [
+          1484.43,
+          1713.71
+        ],
+        [
+          1482.91,
+          1716.22
+        ],
+        [
+          1493.38,
+          1721.22
+        ],
+        [
+          1496.76,
+          1719.7
+        ],
+        [
+          1501.81,
+          1715.11
+        ],
+        [
+          1544.69,
+          1717.4
+        ],
+        [
+          1541.2,
+          1714.24
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1707.6,
+          1736.53
+        ],
+        [
+          1709.9,
+          1757.2
+        ],
+        [
+          1734.4,
+          1776.9
+        ],
+        [
+          1749.99,
+          1789.99
+        ],
+        [
+          1756.16,
+          1784.53
+        ],
+        [
+          1790.44,
+          1813.47
+        ],
+        [
+          1794.03,
+          1813.31
+        ],
+        [
+          1800.2,
+          1797.71
+        ],
+        [
+          1704.6,
+          1707.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1054.94,
+          1050.74
+        ],
+        [
+          1129.57,
+          1121.09
+        ],
+        [
+          1133.03,
+          1119.38
+        ],
+        [
+          1066.89,
+          1058.5
+        ],
+        [
+          1061.94,
+          1048.28
+        ],
+        [
+          1062.58,
+          1045.77
+        ],
+        [
+          1053.09,
+          1033.04
+        ],
+        [
+          1042.65,
+          1039.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1061.94,
+          1048.28
+        ],
+        [
+          1066.89,
+          1058.5
+        ],
+        [
+          1133.03,
+          1119.38
+        ],
+        [
+          1143.56,
+          1111.01
+        ],
+        [
+          1142.63,
+          1103.77
+        ],
+        [
+          1112.26,
+          1072.09
+        ],
+        [
+          1072.21,
+          1039.89
+        ],
+        [
+          1064.3,
+          1041.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          934.74,
+          1183.32
+        ],
+        [
+          969.43,
+          1211.35
+        ],
+        [
+          986.68,
+          1203.0
+        ],
+        [
+          953.25,
+          1173.96
+        ],
+        [
+          887.77,
+          1118.16
+        ],
+        [
+          839.82,
+          1073.97
+        ],
+        [
+          832.79,
+          1075.23
+        ],
+        [
+          843.08,
+          1087.78
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          715.32,
+          889.08
+        ],
+        [
+          717.25,
+          895.5
+        ],
+        [
+          732.67,
+          908.03
+        ],
+        [
+          729.07,
+          914.92
+        ],
+        [
+          768.72,
+          948.84
+        ],
+        [
+          821.69,
+          993.14
+        ],
+        [
+          897.13,
+          1055.87
+        ],
+        [
+          898.68,
+          1050.45
+        ],
+        [
+          726.56,
+          883.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1705.08,
+          1704.31
+        ],
+        [
+          1800.2,
+          1797.71
+        ],
+        [
+          1807.06,
+          1780.84
+        ],
+        [
+          1748.62,
+          1725.97
+        ],
+        [
+          1702.25,
+          1680.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          508.23,
+          733.72
+        ],
+        [
+          548.15,
+          759.63
+        ],
+        [
+          545.74,
+          755.88
+        ],
+        [
+          485.76,
+          703.14
+        ],
+        [
+          447.88,
+          664.71
+        ],
+        [
+          443.47,
+          664.63
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          394.33,
+          604.87
+        ],
+        [
+          389.24,
+          606.75
+        ],
+        [
+          413.6,
+          632.32
+        ],
+        [
+          438.5,
+          657.89
+        ],
+        [
+          447.88,
+          664.71
+        ],
+        [
+          485.76,
+          703.14
+        ],
+        [
+          545.74,
+          755.88
+        ],
+        [
+          548.15,
+          759.63
+        ],
+        [
+          609.32,
+          802.47
+        ],
+        [
+          655.24,
+          836.74
+        ],
+        [
+          635.83,
+          816.26
+        ],
+        [
+          642.74,
+          808.12
+        ],
+        [
+          594.63,
+          769.59
+        ],
+        [
+          532.75,
+          719.76
+        ],
+        [
+          468.21,
+          666.11
+        ],
+        [
+          399.35,
+          608.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          376.42,
+          584.04
+        ],
+        [
+          379.92,
+          591.93
+        ],
+        [
+          399.35,
+          608.72
+        ],
+        [
+          468.21,
+          666.11
+        ],
+        [
+          532.75,
+          719.76
+        ],
+        [
+          594.63,
+          769.59
+        ],
+        [
+          642.74,
+          808.12
+        ],
+        [
+          646.98,
+          804.06
+        ],
+        [
+          692.92,
+          844.18
+        ],
+        [
+          698.04,
+          838.62
+        ],
+        [
+          640.52,
+          791.02
+        ],
+        [
+          507.35,
+          683.51
+        ],
+        [
+          414.59,
+          607.18
+        ],
+        [
+          382.85,
+          580.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          569.46,
+          718.84
+        ],
+        [
+          576.99,
+          709.42
+        ],
+        [
+          512.86,
+          653.34
+        ],
+        [
+          453.53,
+          617.14
+        ],
+        [
+          421.4,
+          598.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          376.58,
+          575.51
+        ],
+        [
+          414.59,
+          607.18
+        ],
+        [
+          482.02,
+          660.51
+        ],
+        [
+          527.88,
+          697.23
+        ],
+        [
+          647.02,
+          794.99
+        ],
+        [
+          663.56,
+          801.44
+        ],
+        [
+          679.99,
+          810.83
+        ],
+        [
+          681.93,
+          810.06
+        ],
+        [
+          661.59,
+          792.46
+        ],
+        [
+          624.06,
+          762.14
+        ],
+        [
+          569.46,
+          718.84
+        ],
+        [
+          421.4,
+          598.61
+        ],
+        [
+          404.21,
+          587.79
+        ],
+        [
+          378.85,
+          572.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          603.41,
+          719.57
+        ],
+        [
+          679.8,
+          772.3
+        ],
+        [
+          679.97,
+          775.85
+        ],
+        [
+          684.7,
+          776.19
+        ],
+        [
+          759.4,
+          826.83
+        ],
+        [
+          763.7,
+          819.59
+        ],
+        [
+          673.91,
+          754.77
+        ],
+        [
+          607.94,
+          709.22
+        ],
+        [
+          604.0,
+          713.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          351.84,
+          541.53
+        ],
+        [
+          347.36,
+          545.13
+        ],
+        [
+          346.05,
+          551.02
+        ],
+        [
+          404.21,
+          587.79
+        ],
+        [
+          453.53,
+          617.14
+        ],
+        [
+          520.96,
+          657.84
+        ],
+        [
+          522.7,
+          656.53
+        ],
+        [
+          497.63,
+          638.43
+        ],
+        [
+          368.81,
+          551.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          676.05,
+          751.7
+        ],
+        [
+          673.91,
+          754.77
+        ],
+        [
+          763.7,
+          819.59
+        ],
+        [
+          759.4,
+          826.83
+        ],
+        [
+          799.67,
+          856.24
+        ],
+        [
+          800.8,
+          853.52
+        ],
+        [
+          805.33,
+          856.24
+        ],
+        [
+          809.17,
+          855.79
+        ],
+        [
+          811.89,
+          847.41
+        ],
+        [
+          782.56,
+          825.11
+        ],
+        [
+          779.85,
+          827.38
+        ],
+        [
+          775.54,
+          819.47
+        ],
+        [
+          724.15,
+          781.34
+        ],
+        [
+          677.81,
+          747.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          807.06,
+          1034.34
+        ],
+        [
+          915.58,
+          1141.7
+        ],
+        [
+          953.25,
+          1173.96
+        ],
+        [
+          986.68,
+          1203.0
+        ],
+        [
+          994.72,
+          1196.17
+        ],
+        [
+          802.33,
+          1004.42
+        ],
+        [
+          761.81,
+          961.51
+        ],
+        [
+          734.36,
+          933.4
+        ],
+        [
+          731.48,
+          934.67
+        ],
+        [
+          720.25,
+          945.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          802.33,
+          1004.42
+        ],
+        [
+          994.72,
+          1196.17
+        ],
+        [
+          1016.79,
+          1184.67
+        ],
+        [
+          987.25,
+          1153.08
+        ],
+        [
+          897.95,
+          1078.38
+        ],
+        [
+          805.72,
+          1002.47
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          722.27,
+          926.83
+        ],
+        [
+          731.48,
+          934.67
+        ],
+        [
+          734.36,
+          933.4
+        ],
+        [
+          761.81,
+          961.51
+        ],
+        [
+          805.72,
+          1002.47
+        ],
+        [
+          897.95,
+          1078.38
+        ],
+        [
+          987.25,
+          1153.08
+        ],
+        [
+          897.13,
+          1055.87
+        ],
+        [
+          821.69,
+          993.14
+        ],
+        [
+          768.72,
+          948.84
+        ],
+        [
+          729.07,
+          914.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1016.79,
+          1184.67
+        ],
+        [
+          1041.17,
+          1173.2
+        ],
+        [
+          1002.23,
+          1129.03
+        ],
+        [
+          995.84,
+          1127.09
+        ],
+        [
+          911.45,
+          1041.31
+        ],
+        [
+          902.29,
+          1041.31
+        ],
+        [
+          898.68,
+          1050.45
+        ],
+        [
+          897.13,
+          1055.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1039.44,
+          1128.73
+        ],
+        [
+          1030.75,
+          1111.53
+        ],
+        [
+          1022.02,
+          1119.69
+        ],
+        [
+          1029.61,
+          1128.82
+        ],
+        [
+          1043.71,
+          1140.44
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          991.93,
+          1072.22
+        ],
+        [
+          1034.81,
+          1107.78
+        ],
+        [
+          1030.75,
+          1111.53
+        ],
+        [
+          1039.44,
+          1128.73
+        ],
+        [
+          1071.37,
+          1156.13
+        ],
+        [
+          1093.83,
+          1143.75
+        ],
+        [
+          1091.52,
+          1139.36
+        ],
+        [
+          1032.92,
+          1096.31
+        ],
+        [
+          1018.94,
+          1088.43
+        ],
+        [
+          994.47,
+          1068.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          898.68,
+          1050.45
+        ],
+        [
+          902.29,
+          1041.31
+        ],
+        [
+          911.45,
+          1041.31
+        ],
+        [
+          995.84,
+          1127.09
+        ],
+        [
+          1002.23,
+          1129.03
+        ],
+        [
+          1043.31,
+          1169.28
+        ],
+        [
+          1064.13,
+          1159.29
+        ],
+        [
+          1019.46,
+          1120.84
+        ],
+        [
+          967.0,
+          1070.66
+        ],
+        [
+          874.52,
+          993.73
+        ],
+        [
+          867.85,
+          996.01
+        ],
+        [
+          865.31,
+          1018.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          862.21,
+          969.81
+        ],
+        [
+          814.82,
+          922.42
+        ],
+        [
+          810.94,
+          927.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          784.96,
+          916.41
+        ],
+        [
+          776.7,
+          919.3
+        ],
+        [
+          867.85,
+          996.01
+        ],
+        [
+          874.52,
+          993.73
+        ],
+        [
+          967.0,
+          1070.66
+        ],
+        [
+          1019.46,
+          1120.84
+        ],
+        [
+          1034.81,
+          1107.78
+        ],
+        [
+          991.93,
+          1072.22
+        ],
+        [
+          965.56,
+          1054.01
+        ],
+        [
+          913.62,
+          1012.11
+        ],
+        [
+          862.21,
+          969.81
+        ],
+        [
+          810.94,
+          927.64
+        ],
+        [
+          787.46,
+          910.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          770.76,
+          919.71
+        ],
+        [
+          770.1,
+          925.7
+        ],
+        [
+          865.31,
+          1018.23
+        ],
+        [
+          867.85,
+          996.01
+        ],
+        [
+          776.7,
+          919.3
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          738.45,
+          885.22
+        ],
+        [
+          759.8,
+          905.6
+        ],
+        [
+          761.06,
+          904.31
+        ],
+        [
+          764.56,
+          905.11
+        ],
+        [
+          771.36,
+          905.71
+        ],
+        [
+          775.66,
+          906.71
+        ],
+        [
+          778.66,
+          903.01
+        ],
+        [
+          748.08,
+          878.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          280.57,
+          416.15
+        ],
+        [
+          369.57,
+          472.11
+        ],
+        [
+          433.17,
+          512.59
+        ],
+        [
+          533.35,
+          587.51
+        ],
+        [
+          533.77,
+          585.4
+        ],
+        [
+          518.11,
+          569.91
+        ],
+        [
+          521.36,
+          563.03
+        ],
+        [
+          479.05,
+          534.54
+        ],
+        [
+          478.1,
+          529.34
+        ],
+        [
+          432.8,
+          502.78
+        ],
+        [
+          432.22,
+          494.38
+        ],
+        [
+          385.12,
+          465.53
+        ],
+        [
+          292.79,
+          406.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          381.6,
+          454.07
+        ],
+        [
+          380.16,
+          457.67
+        ],
+        [
+          386.16,
+          464.63
+        ],
+        [
+          432.22,
+          494.38
+        ],
+        [
+          432.17,
+          489.92
+        ],
+        [
+          437.15,
+          483.91
+        ],
+        [
+          464.11,
+          500.29
+        ],
+        [
+          553.21,
+          552.46
+        ],
+        [
+          599.98,
+          577.66
+        ],
+        [
+          601.22,
+          574.32
+        ],
+        [
+          461.25,
+          492.22
+        ],
+        [
+          386.4,
+          447.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          432.17,
+          489.92
+        ],
+        [
+          432.8,
+          502.78
+        ],
+        [
+          478.1,
+          529.34
+        ],
+        [
+          479.06,
+          523.35
+        ],
+        [
+          485.3,
+          521.19
+        ],
+        [
+          518.97,
+          545.54
+        ],
+        [
+          567.12,
+          578.01
+        ],
+        [
+          648.78,
+          625.14
+        ],
+        [
+          726.85,
+          670.66
+        ],
+        [
+          810.38,
+          717.15
+        ],
+        [
+          929.11,
+          785.31
+        ],
+        [
+          1117.77,
+          891.31
+        ],
+        [
+          1185.93,
+          929.38
+        ],
+        [
+          1136.32,
+          882.82
+        ],
+        [
+          1037.0,
+          826.19
+        ],
+        [
+          893.7,
+          745.16
+        ],
+        [
+          784.22,
+          686.33
+        ],
+        [
+          647.2,
+          610.5
+        ],
+        [
+          648.08,
+          604.01
+        ],
+        [
+          553.21,
+          552.46
+        ],
+        [
+          464.11,
+          500.29
+        ],
+        [
+          437.15,
+          483.91
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          784.22,
+          686.33
+        ],
+        [
+          893.7,
+          745.16
+        ],
+        [
+          1037.0,
+          826.19
+        ],
+        [
+          1136.32,
+          882.82
+        ],
+        [
+          1100.12,
+          848.27
+        ],
+        [
+          1092.45,
+          844.63
+        ],
+        [
+          978.05,
+          778.63
+        ],
+        [
+          865.25,
+          716.52
+        ],
+        [
+          784.46,
+          671.84
+        ],
+        [
+          655.94,
+          599.12
+        ],
+        [
+          648.34,
+          600.98
+        ],
+        [
+          647.2,
+          610.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          341.53,
+          404.41
+        ],
+        [
+          333.13,
+          405.37
+        ],
+        [
+          330.26,
+          411.61
+        ],
+        [
+          388.08,
+          446.87
+        ],
+        [
+          461.25,
+          492.22
+        ],
+        [
+          548.42,
+          542.68
+        ],
+        [
+          648.34,
+          600.98
+        ],
+        [
+          655.94,
+          599.12
+        ],
+        [
+          579.44,
+          554.72
+        ],
+        [
+          466.72,
+          488.88
+        ],
+        [
+          461.1,
+          482.73
+        ],
+        [
+          464.49,
+          480.94
+        ],
+        [
+          360.49,
+          411.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          461.1,
+          482.73
+        ],
+        [
+          466.72,
+          488.88
+        ],
+        [
+          579.44,
+          554.72
+        ],
+        [
+          655.94,
+          599.12
+        ],
+        [
+          784.46,
+          671.84
+        ],
+        [
+          865.25,
+          716.52
+        ],
+        [
+          978.05,
+          778.63
+        ],
+        [
+          1092.45,
+          844.63
+        ],
+        [
+          1084.15,
+          836.52
+        ],
+        [
+          947.55,
+          753.45
+        ],
+        [
+          912.85,
+          732.06
+        ],
+        [
+          888.9,
+          716.79
+        ],
+        [
+          740.79,
+          632.31
+        ],
+        [
+          606.56,
+          554.53
+        ],
+        [
+          473.13,
+          478.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          412.6,
+          423.3
+        ],
+        [
+          411.39,
+          425.5
+        ],
+        [
+          406.37,
+          433.92
+        ],
+        [
+          606.56,
+          554.53
+        ],
+        [
+          740.79,
+          632.31
+        ],
+        [
+          743.74,
+          628.1
+        ],
+        [
+          553.73,
+          509.9
+        ],
+        [
+          425.85,
+          431.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          726.56,
+          883.3
+        ],
+        [
+          756.56,
+          912.31
+        ],
+        [
+          757.36,
+          908.71
+        ],
+        [
+          759.8,
+          905.6
+        ],
+        [
+          738.45,
+          885.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1117.8,
+          1128.73
+        ],
+        [
+          1129.57,
+          1121.09
+        ],
+        [
+          1054.94,
+          1050.74
+        ],
+        [
+          1050.27,
+          1048.88
+        ],
+        [
+          1045.25,
+          1051.56
+        ],
+        [
+          1041.02,
+          1055.32
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1041.02,
+          1055.32
+        ],
+        [
+          1030.54,
+          1064.35
+        ],
+        [
+          1107.16,
+          1135.95
+        ],
+        [
+          1117.8,
+          1128.73
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          840.59,
+          889.98
+        ],
+        [
+          868.16,
+          918.01
+        ],
+        [
+          946.23,
+          987.1
+        ],
+        [
+          1001.22,
+          1037.13
+        ],
+        [
+          1030.54,
+          1064.35
+        ],
+        [
+          1045.25,
+          1051.56
+        ],
+        [
+          994.84,
+          1003.24
+        ],
+        [
+          959.55,
+          970.62
+        ],
+        [
+          917.94,
+          935.0
+        ],
+        [
+          851.03,
+          877.25
+        ],
+        [
+          839.29,
+          885.91
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          807.62,
+          798.68
+        ],
+        [
+          902.59,
+          876.86
+        ],
+        [
+          1005.23,
+          964.78
+        ],
+        [
+          969.43,
+          920.0
+        ],
+        [
+          848.76,
+          824.25
+        ],
+        [
+          753.32,
+          746.38
+        ],
+        [
+          752.1,
+          747.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          311.59,
+          459.03
+        ],
+        [
+          380.09,
+          506.42
+        ],
+        [
+          381.78,
+          496.28
+        ],
+        [
+          318.69,
+          450.75
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          382.35,
+          494.69
+        ],
+        [
+          380.09,
+          506.42
+        ],
+        [
+          458.68,
+          562.33
+        ],
+        [
+          712.21,
+          747.69
+        ],
+        [
+          784.08,
+          801.26
+        ],
+        [
+          784.6,
+          799.43
+        ],
+        [
+          726.96,
+          748.91
+        ],
+        [
+          601.3,
+          636.94
+        ],
+        [
+          533.35,
+          587.51
+        ],
+        [
+          393.45,
+          488.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1071.42,
+          1018.16
+        ],
+        [
+          1112.26,
+          1072.09
+        ],
+        [
+          1142.63,
+          1103.77
+        ],
+        [
+          1143.15,
+          1098.79
+        ],
+        [
+          1142.37,
+          1092.77
+        ],
+        [
+          1141.58,
+          1086.75
+        ],
+        [
+          1144.62,
+          1080.8
+        ],
+        [
+          1071.93,
+          1015.98
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1071.93,
+          1015.98
+        ],
+        [
+          1144.62,
+          1080.8
+        ],
+        [
+          1148.91,
+          1072.35
+        ],
+        [
+          1076.66,
+          993.03
+        ],
+        [
+          993.16,
+          900.42
+        ],
+        [
+          987.36,
+          904.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1624.65,
+          1148.93
+        ],
+        [
+          1625.13,
+          1156.6
+        ],
+        [
+          1619.85,
+          1164.28
+        ],
+        [
+          1622.25,
+          1176.28
+        ],
+        [
+          1630.4,
+          1177.48
+        ],
+        [
+          1636.16,
+          1181.55
+        ],
+        [
+          1639.04,
+          1188.27
+        ],
+        [
+          1640.96,
+          1197.15
+        ],
+        [
+          1641.44,
+          1206.02
+        ],
+        [
+          1641.19,
+          1214.67
+        ],
+        [
+          1652.22,
+          1223.29
+        ],
+        [
+          1649.31,
+          1198.2
+        ],
+        [
+          1643.07,
+          1128.58
+        ],
+        [
+          1638.27,
+          1126.25
+        ],
+        [
+          1635.01,
+          1126.41
+        ],
+        [
+          1634.84,
+          1129.82
+        ],
+        [
+          1621.85,
+          1132.45
+        ],
+        [
+          1622.78,
+          1140.97
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1663.24,
+          1236.72
+        ],
+        [
+          1674.93,
+          1250.61
+        ],
+        [
+          1713.57,
+          1277.45
+        ],
+        [
+          1727.0,
+          1264.72
+        ],
+        [
+          1726.76,
+          1258.71
+        ],
+        [
+          1684.76,
+          1229.67
+        ],
+        [
+          1678.35,
+          1233.66
+        ],
+        [
+          1675.23,
+          1239.26
+        ],
+        [
+          1652.22,
+          1223.29
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1652.22,
+          1223.29
+        ],
+        [
+          1675.23,
+          1239.26
+        ],
+        [
+          1678.35,
+          1233.66
+        ],
+        [
+          1689.34,
+          1227.02
+        ],
+        [
+          1649.31,
+          1198.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          425.85,
+          431.49
+        ],
+        [
+          553.73,
+          509.9
+        ],
+        [
+          743.74,
+          628.1
+        ],
+        [
+          888.9,
+          716.79
+        ],
+        [
+          912.85,
+          732.06
+        ],
+        [
+          947.55,
+          753.45
+        ],
+        [
+          1084.15,
+          836.52
+        ],
+        [
+          1083.51,
+          830.72
+        ],
+        [
+          1059.26,
+          808.74
+        ],
+        [
+          1019.06,
+          783.64
+        ],
+        [
+          920.31,
+          724.91
+        ],
+        [
+          837.87,
+          675.45
+        ],
+        [
+          707.48,
+          592.28
+        ],
+        [
+          603.4,
+          526.74
+        ],
+        [
+          478.85,
+          447.77
+        ],
+        [
+          430.8,
+          417.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          420.06,
+          410.14
+        ],
+        [
+          478.85,
+          447.77
+        ],
+        [
+          603.4,
+          526.74
+        ],
+        [
+          707.48,
+          592.28
+        ],
+        [
+          837.87,
+          675.45
+        ],
+        [
+          920.31,
+          724.91
+        ],
+        [
+          921.35,
+          722.72
+        ],
+        [
+          750.85,
+          612.38
+        ],
+        [
+          597.87,
+          511.87
+        ],
+        [
+          542.93,
+          475.88
+        ],
+        [
+          442.56,
+          410.75
+        ],
+        [
+          426.16,
+          401.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          380.91,
+          369.86
+        ],
+        [
+          442.56,
+          410.75
+        ],
+        [
+          542.93,
+          475.88
+        ],
+        [
+          597.87,
+          511.87
+        ],
+        [
+          750.85,
+          612.38
+        ],
+        [
+          921.35,
+          722.72
+        ],
+        [
+          1019.06,
+          783.64
+        ],
+        [
+          1021.09,
+          780.27
+        ],
+        [
+          831.31,
+          648.79
+        ],
+        [
+          733.66,
+          585.69
+        ],
+        [
+          652.57,
+          531.95
+        ],
+        [
+          550.12,
+          465.97
+        ],
+        [
+          453.67,
+          403.59
+        ],
+        [
+          387.42,
+          363.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1164.82,
+          1190.92
+        ],
+        [
+          1137.47,
+          1165.01
+        ],
+        [
+          1128.12,
+          1170.29
+        ],
+        [
+          1164.34,
+          1197.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1149.23,
+          1158.05
+        ],
+        [
+          1144.19,
+          1159.49
+        ],
+        [
+          1137.47,
+          1165.01
+        ],
+        [
+          1164.82,
+          1190.92
+        ],
+        [
+          1164.34,
+          1197.16
+        ],
+        [
+          1172.5,
+          1203.4
+        ],
+        [
+          1182.58,
+          1202.68
+        ],
+        [
+          1188.34,
+          1195.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1128.12,
+          1170.29
+        ],
+        [
+          1120.92,
+          1172.45
+        ],
+        [
+          1115.88,
+          1178.2
+        ],
+        [
+          1153.07,
+          1205.55
+        ],
+        [
+          1162.18,
+          1205.07
+        ],
+        [
+          1172.5,
+          1203.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1115.88,
+          1178.2
+        ],
+        [
+          1110.6,
+          1179.64
+        ],
+        [
+          1143.23,
+          1209.39
+        ],
+        [
+          1153.07,
+          1205.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1110.6,
+          1179.64
+        ],
+        [
+          1103.4,
+          1184.92
+        ],
+        [
+          1101.24,
+          1187.56
+        ],
+        [
+          1131.95,
+          1215.87
+        ],
+        [
+          1143.23,
+          1209.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1101.43,
+          1191.31
+        ],
+        [
+          1099.42,
+          1191.93
+        ],
+        [
+          1123.75,
+          1221.27
+        ],
+        [
+          1129.31,
+          1216.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1095.92,
+          1187.68
+        ],
+        [
+          1082.96,
+          1194.64
+        ],
+        [
+          1109.11,
+          1226.55
+        ],
+        [
+          1123.75,
+          1221.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1077.92,
+          1199.44
+        ],
+        [
+          1065.6,
+          1204.03
+        ],
+        [
+          1094.22,
+          1231.82
+        ],
+        [
+          1105.75,
+          1227.75
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1065.6,
+          1204.03
+        ],
+        [
+          1048.6,
+          1214.19
+        ],
+        [
+          1046.81,
+          1216.71
+        ],
+        [
+          1072.24,
+          1242.14
+        ],
+        [
+          1094.22,
+          1231.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1068.1,
+          1272.13
+        ],
+        [
+          1075.27,
+          1278.37
+        ],
+        [
+          1095.67,
+          1265.6
+        ],
+        [
+          1090.12,
+          1260.16
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          753.32,
+          746.38
+        ],
+        [
+          848.76,
+          824.25
+        ],
+        [
+          969.43,
+          920.0
+        ],
+        [
+          927.0,
+          864.94
+        ],
+        [
+          875.92,
+          828.56
+        ],
+        [
+          762.3,
+          747.37
+        ],
+        [
+          756.03,
+          742.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          991.61,
+          1244.53
+        ],
+        [
+          1023.06,
+          1275.51
+        ],
+        [
+          1035.12,
+          1267.66
+        ],
+        [
+          1004.45,
+          1240.39
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1004.45,
+          1240.39
+        ],
+        [
+          1035.12,
+          1267.66
+        ],
+        [
+          1050.61,
+          1256.97
+        ],
+        [
+          1018.71,
+          1229.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1090.12,
+          1260.16
+        ],
+        [
+          1095.67,
+          1265.6
+        ],
+        [
+          1115.25,
+          1253.9
+        ],
+        [
+          1109.81,
+          1247.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1109.81,
+          1247.31
+        ],
+        [
+          1115.25,
+          1253.9
+        ],
+        [
+          1125.78,
+          1248.23
+        ],
+        [
+          1119.07,
+          1240.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1121.38,
+          1240.13
+        ],
+        [
+          1127.28,
+          1247.54
+        ],
+        [
+          1137.81,
+          1241.41
+        ],
+        [
+          1131.56,
+          1233.66
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1133.88,
+          1232.61
+        ],
+        [
+          1140.36,
+          1238.98
+        ],
+        [
+          1144.52,
+          1236.55
+        ],
+        [
+          1147.88,
+          1231.92
+        ],
+        [
+          1145.22,
+          1229.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1050.98,
+          1282.19
+        ],
+        [
+          1058.03,
+          1287.52
+        ],
+        [
+          1075.27,
+          1278.37
+        ],
+        [
+          1068.1,
+          1272.13
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1036.63,
+          1290.06
+        ],
+        [
+          1043.34,
+          1296.08
+        ],
+        [
+          1058.03,
+          1287.52
+        ],
+        [
+          1050.98,
+          1282.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1162.58,
+          1243.35
+        ],
+        [
+          1173.23,
+          1253.88
+        ],
+        [
+          1182.95,
+          1252.14
+        ],
+        [
+          1170.22,
+          1241.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1155.32,
+          1258.74
+        ],
+        [
+          1160.32,
+          1256.34
+        ],
+        [
+          1171.43,
+          1254.54
+        ],
+        [
+          1161.02,
+          1243.84
+        ],
+        [
+          1148.82,
+          1251.04
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1701.04,
+          1673.57
+        ],
+        [
+          1767.53,
+          1735.4
+        ],
+        [
+          1809.29,
+          1775.37
+        ],
+        [
+          1810.8,
+          1771.46
+        ],
+        [
+          1815.9,
+          1765.9
+        ],
+        [
+          1752.48,
+          1703.32
+        ],
+        [
+          1697.5,
+          1649.8
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1697.5,
+          1649.8
+        ],
+        [
+          1749.4,
+          1698.6
+        ],
+        [
+          1815.9,
+          1765.9
+        ],
+        [
+          1823.0,
+          1756.9
+        ],
+        [
+          1747.25,
+          1683.85
+        ],
+        [
+          1695.41,
+          1632.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1767.14,
+          1644.19
+        ],
+        [
+          1806.02,
+          1681.44
+        ],
+        [
+          1806.48,
+          1673.23
+        ],
+        [
+          1800.39,
+          1668.66
+        ],
+        [
+          1808.28,
+          1663.46
+        ],
+        [
+          1807.84,
+          1654.85
+        ],
+        [
+          1713.9,
+          1574.94
+        ],
+        [
+          1697.54,
+          1569.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1695.41,
+          1632.61
+        ],
+        [
+          1739.24,
+          1671.95
+        ],
+        [
+          1746.01,
+          1681.21
+        ],
+        [
+          1747.25,
+          1683.85
+        ],
+        [
+          1749.3,
+          1684.71
+        ],
+        [
+          1776.01,
+          1710.01
+        ],
+        [
+          1824.18,
+          1755.27
+        ],
+        [
+          1826.22,
+          1753.22
+        ],
+        [
+          1830.78,
+          1740.97
+        ],
+        [
+          1817.43,
+          1729.3
+        ],
+        [
+          1778.3,
+          1692.32
+        ],
+        [
+          1777.09,
+          1683.68
+        ],
+        [
+          1768.0,
+          1680.7
+        ],
+        [
+          1767.0,
+          1682.6
+        ],
+        [
+          1726.71,
+          1646.24
+        ],
+        [
+          1694.61,
+          1609.02
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1694.75,
+          1606.62
+        ],
+        [
+          1718.35,
+          1634.39
+        ],
+        [
+          1767.0,
+          1682.6
+        ],
+        [
+          1768.0,
+          1680.7
+        ],
+        [
+          1777.09,
+          1683.68
+        ],
+        [
+          1778.3,
+          1692.32
+        ],
+        [
+          1817.43,
+          1729.3
+        ],
+        [
+          1818.15,
+          1726.89
+        ],
+        [
+          1833.93,
+          1732.1
+        ],
+        [
+          1837.05,
+          1716.61
+        ],
+        [
+          1767.14,
+          1644.19
+        ],
+        [
+          1690.21,
+          1565.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          295.73,
+          453.15
+        ],
+        [
+          413.01,
+          537.69
+        ],
+        [
+          574.82,
+          656.94
+        ],
+        [
+          708.47,
+          753.68
+        ],
+        [
+          838.34,
+          848.29
+        ],
+        [
+          839.32,
+          847.12
+        ],
+        [
+          784.08,
+          801.26
+        ],
+        [
+          712.21,
+          747.69
+        ],
+        [
+          458.68,
+          562.33
+        ],
+        [
+          380.09,
+          506.42
+        ],
+        [
+          311.59,
+          459.03
+        ],
+        [
+          299.82,
+          449.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1018.71,
+          1229.86
+        ],
+        [
+          1050.61,
+          1256.97
+        ],
+        [
+          1072.24,
+          1242.14
+        ],
+        [
+          1046.81,
+          1216.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1132.32,
+          1257.94
+        ],
+        [
+          1138.82,
+          1265.94
+        ],
+        [
+          1152.32,
+          1259.44
+        ],
+        [
+          1146.23,
+          1250.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1107.44,
+          1278.14
+        ],
+        [
+          1109.34,
+          1281.74
+        ],
+        [
+          1130.84,
+          1269.84
+        ],
+        [
+          1124.84,
+          1262.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "78. Unknown-Rebar",
+      "score": null,
+      "points": [
+        [
+          770.1,
+          925.7
+        ],
+        [
+          770.76,
+          919.71
+        ],
+        [
+          776.7,
+          919.3
+        ],
+        [
+          784.96,
+          916.41
+        ],
+        [
+          787.46,
+          910.21
+        ],
+        [
+          778.66,
+          903.01
+        ],
+        [
+          775.66,
+          906.71
+        ],
+        [
+          771.36,
+          905.71
+        ],
+        [
+          764.56,
+          905.11
+        ],
+        [
+          761.06,
+          904.31
+        ],
+        [
+          757.36,
+          908.71
+        ],
+        [
+          756.56,
+          912.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1840.9,
+          1702.55
+        ],
+        [
+          1845.19,
+          1685.53
+        ],
+        [
+          1830.63,
+          1664.15
+        ],
+        [
+          1827.44,
+          1668.99
+        ],
+        [
+          1807.84,
+          1654.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1713.9,
+          1574.94
+        ],
+        [
+          1807.84,
+          1654.85
+        ],
+        [
+          1827.44,
+          1668.99
+        ],
+        [
+          1830.63,
+          1664.15
+        ],
+        [
+          1832.18,
+          1659.05
+        ],
+        [
+          1816.85,
+          1645.41
+        ],
+        [
+          1751.32,
+          1589.65
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1816.85,
+          1645.41
+        ],
+        [
+          1832.18,
+          1659.05
+        ],
+        [
+          1830.63,
+          1664.15
+        ],
+        [
+          1845.19,
+          1685.53
+        ],
+        [
+          1847.28,
+          1678.2
+        ],
+        [
+          1831.6,
+          1646.0
+        ],
+        [
+          1812.55,
+          1621.46
+        ],
+        [
+          1793.81,
+          1615.57
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1812.55,
+          1621.46
+        ],
+        [
+          1831.6,
+          1646.0
+        ],
+        [
+          1840.27,
+          1639.26
+        ],
+        [
+          1831.16,
+          1628.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1327.11,
+          1432.26
+        ],
+        [
+          1367.62,
+          1469.19
+        ],
+        [
+          1392.4,
+          1488.24
+        ],
+        [
+          1362.97,
+          1445.34
+        ],
+        [
+          1342.68,
+          1424.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1309.74,
+          1442.98
+        ],
+        [
+          1464.82,
+          1588.09
+        ],
+        [
+          1400.52,
+          1501.35
+        ],
+        [
+          1327.11,
+          1432.26
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1305.31,
+          1445.77
+        ],
+        [
+          1331.82,
+          1478.25
+        ],
+        [
+          1426.2,
+          1577.49
+        ],
+        [
+          1432.31,
+          1586.93
+        ],
+        [
+          1525.16,
+          1667.68
+        ],
+        [
+          1464.82,
+          1588.09
+        ],
+        [
+          1309.74,
+          1442.98
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1286.18,
+          1459.62
+        ],
+        [
+          1400.73,
+          1560.31
+        ],
+        [
+          1432.31,
+          1586.93
+        ],
+        [
+          1426.2,
+          1577.49
+        ],
+        [
+          1331.82,
+          1478.25
+        ],
+        [
+          1305.31,
+          1445.77
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1278.54,
+          1463.79
+        ],
+        [
+          1269.52,
+          1469.69
+        ],
+        [
+          1265.23,
+          1470.5
+        ],
+        [
+          1263.23,
+          1471.63
+        ],
+        [
+          1541.2,
+          1714.24
+        ],
+        [
+          1544.69,
+          1717.4
+        ],
+        [
+          1553.37,
+          1722.46
+        ],
+        [
+          1582.29,
+          1748.78
+        ],
+        [
+          1639.24,
+          1800.27
+        ],
+        [
+          1694.04,
+          1849.07
+        ],
+        [
+          1718.03,
+          1837.19
+        ],
+        [
+          1634.41,
+          1763.03
+        ],
+        [
+          1525.16,
+          1667.68
+        ],
+        [
+          1400.73,
+          1560.31
+        ],
+        [
+          1286.18,
+          1459.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1636.87,
+          1802.87
+        ],
+        [
+          1582.29,
+          1748.68
+        ],
+        [
+          1553.37,
+          1722.46
+        ],
+        [
+          1544.69,
+          1717.4
+        ],
+        [
+          1501.81,
+          1715.11
+        ],
+        [
+          1496.76,
+          1719.7
+        ],
+        [
+          1557.39,
+          1770.59
+        ],
+        [
+          1604.59,
+          1811.33
+        ],
+        [
+          1663.23,
+          1861.56
+        ],
+        [
+          1670.27,
+          1857.82
+        ],
+        [
+          1681.12,
+          1856.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1245.85,
+          1483.1
+        ],
+        [
+          1235.51,
+          1486.22
+        ],
+        [
+          1319.17,
+          1559.94
+        ],
+        [
+          1320.19,
+          1539.2
+        ],
+        [
+          1322.97,
+          1539.2
+        ],
+        [
+          1321.94,
+          1562.72
+        ],
+        [
+          1332.36,
+          1571.82
+        ],
+        [
+          1399.96,
+          1623.5
+        ],
+        [
+          1422.08,
+          1645.18
+        ],
+        [
+          1451.6,
+          1679.6
+        ],
+        [
+          1458.93,
+          1698.32
+        ],
+        [
+          1475.09,
+          1700.28
+        ],
+        [
+          1493.17,
+          1715.57
+        ],
+        [
+          1496.03,
+          1716.2
+        ],
+        [
+          1497.55,
+          1714.89
+        ],
+        [
+          1498.86,
+          1713.15
+        ],
+        [
+          1500.28,
+          1710.75
+        ],
+        [
+          1516.87,
+          1711.73
+        ],
+        [
+          1541.2,
+          1714.24
+        ],
+        [
+          1263.23,
+          1471.63
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1396.71,
+          1698.79
+        ],
+        [
+          1481.94,
+          1759.34
+        ],
+        [
+          1530.48,
+          1796.13
+        ],
+        [
+          1629.6,
+          1881.12
+        ],
+        [
+          1633.9,
+          1877.36
+        ],
+        [
+          1641.52,
+          1873.11
+        ],
+        [
+          1490.16,
+          1741.77
+        ],
+        [
+          1378.73,
+          1653.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1227.18,
+          1490.83
+        ],
+        [
+          1378.02,
+          1649.0
+        ],
+        [
+          1378.73,
+          1653.55
+        ],
+        [
+          1490.16,
+          1741.77
+        ],
+        [
+          1641.52,
+          1873.11
+        ],
+        [
+          1663.23,
+          1861.56
+        ],
+        [
+          1604.59,
+          1811.33
+        ],
+        [
+          1557.39,
+          1770.59
+        ],
+        [
+          1496.76,
+          1719.7
+        ],
+        [
+          1493.38,
+          1721.22
+        ],
+        [
+          1482.91,
+          1716.22
+        ],
+        [
+          1484.43,
+          1713.71
+        ],
+        [
+          1493.17,
+          1715.57
+        ],
+        [
+          1475.09,
+          1700.28
+        ],
+        [
+          1458.93,
+          1698.32
+        ],
+        [
+          1451.6,
+          1679.6
+        ],
+        [
+          1422.08,
+          1645.18
+        ],
+        [
+          1399.96,
+          1623.5
+        ],
+        [
+          1332.36,
+          1571.82
+        ],
+        [
+          1235.51,
+          1486.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          497.63,
+          638.43
+        ],
+        [
+          579.38,
+          696.13
+        ],
+        [
+          578.86,
+          699.56
+        ],
+        [
+          587.25,
+          705.31
+        ],
+        [
+          590.92,
+          704.25
+        ],
+        [
+          604.0,
+          713.43
+        ],
+        [
+          607.94,
+          709.22
+        ],
+        [
+          673.91,
+          754.77
+        ],
+        [
+          676.05,
+          751.7
+        ],
+        [
+          627.75,
+          716.93
+        ],
+        [
+          524.9,
+          643.37
+        ],
+        [
+          425.37,
+          576.82
+        ],
+        [
+          374.19,
+          543.19
+        ],
+        [
+          369.99,
+          548.08
+        ],
+        [
+          368.81,
+          551.08
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          717.23,
+          522.84
+        ],
+        [
+          801.39,
+          573.52
+        ],
+        [
+          791.36,
+          557.38
+        ],
+        [
+          718.36,
+          519.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          274.48,
+          473.01
+        ],
+        [
+          268.23,
+          472.03
+        ],
+        [
+          266.08,
+          475.75
+        ],
+        [
+          294.29,
+          502.87
+        ],
+        [
+          369.99,
+          548.08
+        ],
+        [
+          374.19,
+          543.19
+        ],
+        [
+          425.37,
+          576.82
+        ],
+        [
+          524.9,
+          643.37
+        ],
+        [
+          627.75,
+          716.93
+        ],
+        [
+          676.05,
+          751.7
+        ],
+        [
+          677.81,
+          747.85
+        ],
+        [
+          623.22,
+          707.74
+        ],
+        [
+          621.87,
+          709.43
+        ],
+        [
+          614.77,
+          701.66
+        ],
+        [
+          563.29,
+          665.13
+        ],
+        [
+          472.53,
+          599.12
+        ],
+        [
+          472.87,
+          604.36
+        ],
+        [
+          464.25,
+          598.44
+        ],
+        [
+          464.42,
+          594.22
+        ],
+        [
+          363.07,
+          524.91
+        ],
+        [
+          279.57,
+          469.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          268.66,
+          443.67
+        ],
+        [
+          274.75,
+          448.57
+        ],
+        [
+          273.23,
+          455.84
+        ],
+        [
+          367.16,
+          524.1
+        ],
+        [
+          464.42,
+          594.22
+        ],
+        [
+          464.25,
+          598.44
+        ],
+        [
+          472.87,
+          604.36
+        ],
+        [
+          472.53,
+          599.12
+        ],
+        [
+          563.29,
+          665.13
+        ],
+        [
+          614.77,
+          701.66
+        ],
+        [
+          621.87,
+          709.43
+        ],
+        [
+          623.22,
+          707.74
+        ],
+        [
+          724.15,
+          781.34
+        ],
+        [
+          775.54,
+          819.47
+        ],
+        [
+          779.85,
+          827.38
+        ],
+        [
+          782.56,
+          825.11
+        ],
+        [
+          833.02,
+          863.34
+        ],
+        [
+          841.61,
+          856.11
+        ],
+        [
+          885.31,
+          901.0
+        ],
+        [
+          949.96,
+          949.77
+        ],
+        [
+          954.67,
+          955.01
+        ],
+        [
+          969.68,
+          965.34
+        ],
+        [
+          1008.26,
+          1002.04
+        ],
+        [
+          1007.13,
+          1003.85
+        ],
+        [
+          1042.65,
+          1039.16
+        ],
+        [
+          1053.74,
+          1032.36
+        ],
+        [
+          918.56,
+          916.25
+        ],
+        [
+          870.44,
+          874.12
+        ],
+        [
+          838.34,
+          848.29
+        ],
+        [
+          708.47,
+          753.68
+        ],
+        [
+          574.82,
+          656.94
+        ],
+        [
+          397.94,
+          527.31
+        ],
+        [
+          294.2,
+          453.35
+        ],
+        [
+          280.83,
+          442.83
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          723.1,
+          683.36
+        ],
+        [
+          749.39,
+          707.05
+        ],
+        [
+          806.56,
+          757.77
+        ],
+        [
+          918.4,
+          853.83
+        ],
+        [
+          887.96,
+          806.75
+        ],
+        [
+          885.42,
+          810.08
+        ],
+        [
+          878.58,
+          802.64
+        ],
+        [
+          880.34,
+          799.71
+        ],
+        [
+          740.62,
+          678.49
+        ],
+        [
+          726.85,
+          670.66
+        ],
+        [
+          675.33,
+          640.42
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          763.32,
+          693.57
+        ],
+        [
+          762.45,
+          696.19
+        ],
+        [
+          766.38,
+          700.77
+        ],
+        [
+          769.1,
+          698.81
+        ],
+        [
+          825.22,
+          745.93
+        ],
+        [
+          886.19,
+          797.5
+        ],
+        [
+          888.09,
+          795.45
+        ],
+        [
+          897.0,
+          795.3
+        ],
+        [
+          935.16,
+          837.88
+        ],
+        [
+          1003.53,
+          894.48
+        ],
+        [
+          1050.5,
+          933.99
+        ],
+        [
+          1065.98,
+          935.02
+        ],
+        [
+          1067.03,
+          925.44
+        ],
+        [
+          975.08,
+          854.44
+        ],
+        [
+          892.09,
+          786.59
+        ],
+        [
+          800.36,
+          711.65
+        ],
+        [
+          756.78,
+          687.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          975.08,
+          854.44
+        ],
+        [
+          1067.03,
+          925.44
+        ],
+        [
+          1191.59,
+          1050.64
+        ],
+        [
+          1210.21,
+          1044.86
+        ],
+        [
+          1242.18,
+          1038.99
+        ],
+        [
+          1168.4,
+          978.4
+        ],
+        [
+          1136.49,
+          952.75
+        ],
+        [
+          1081.31,
+          908.84
+        ],
+        [
+          929.11,
+          785.31
+        ],
+        [
+          821.47,
+          723.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1081.31,
+          908.84
+        ],
+        [
+          1063.55,
+          883.41
+        ],
+        [
+          1069.84,
+          876.04
+        ],
+        [
+          1000.99,
+          825.52
+        ],
+        [
+          929.11,
+          785.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1136.49,
+          952.75
+        ],
+        [
+          1168.4,
+          978.4
+        ],
+        [
+          1126.63,
+          929.93
+        ],
+        [
+          1077.33,
+          871.6
+        ],
+        [
+          1069.84,
+          876.04
+        ],
+        [
+          1063.55,
+          883.41
+        ],
+        [
+          1081.31,
+          908.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1248.34,
+          1037.09
+        ],
+        [
+          1256.37,
+          1038.05
+        ],
+        [
+          1261.51,
+          1036.12
+        ],
+        [
+          1267.26,
+          1033.3
+        ],
+        [
+          1189.24,
+          976.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1069.84,
+          876.04
+        ],
+        [
+          1077.33,
+          871.6
+        ],
+        [
+          1126.63,
+          929.93
+        ],
+        [
+          1267.26,
+          1033.3
+        ],
+        [
+          1295.65,
+          1028.38
+        ],
+        [
+          1269.3,
+          1009.39
+        ],
+        [
+          1161.78,
+          928.65
+        ],
+        [
+          1092.29,
+          877.13
+        ],
+        [
+          1000.99,
+          825.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          601.3,
+          636.94
+        ],
+        [
+          726.96,
+          748.91
+        ],
+        [
+          918.56,
+          916.25
+        ],
+        [
+          1059.98,
+          1036.73
+        ],
+        [
+          1005.23,
+          964.78
+        ],
+        [
+          902.59,
+          876.86
+        ],
+        [
+          807.62,
+          798.68
+        ],
+        [
+          704.77,
+          704.54
+        ],
+        [
+          675.74,
+          680.34
+        ],
+        [
+          633.44,
+          643.42
+        ],
+        [
+          599.57,
+          614.57
+        ],
+        [
+          597.96,
+          616.0
+        ],
+        [
+          554.41,
+          579.27
+        ],
+        [
+          531.29,
+          559.37
+        ],
+        [
+          521.36,
+          563.03
+        ],
+        [
+          518.11,
+          569.91
+        ],
+        [
+          533.77,
+          585.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          479.05,
+          534.54
+        ],
+        [
+          521.36,
+          563.03
+        ],
+        [
+          531.29,
+          559.37
+        ],
+        [
+          554.41,
+          579.27
+        ],
+        [
+          597.96,
+          616.0
+        ],
+        [
+          599.57,
+          614.57
+        ],
+        [
+          633.44,
+          643.42
+        ],
+        [
+          666.24,
+          669.41
+        ],
+        [
+          666.24,
+          671.2
+        ],
+        [
+          675.74,
+          680.34
+        ],
+        [
+          704.77,
+          704.54
+        ],
+        [
+          762.3,
+          747.37
+        ],
+        [
+          875.92,
+          828.56
+        ],
+        [
+          927.0,
+          864.94
+        ],
+        [
+          918.4,
+          853.83
+        ],
+        [
+          806.56,
+          757.77
+        ],
+        [
+          749.39,
+          707.05
+        ],
+        [
+          630.04,
+          619.77
+        ],
+        [
+          567.12,
+          578.01
+        ],
+        [
+          518.97,
+          545.54
+        ],
+        [
+          485.3,
+          521.19
+        ],
+        [
+          479.06,
+          523.35
+        ],
+        [
+          478.1,
+          529.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          970.91,
+          722.82
+        ],
+        [
+          1023.96,
+          774.61
+        ],
+        [
+          1100.12,
+          848.27
+        ],
+        [
+          1215.0,
+          956.7
+        ],
+        [
+          1269.3,
+          1009.39
+        ],
+        [
+          1295.65,
+          1028.38
+        ],
+        [
+          1307.65,
+          1029.17
+        ],
+        [
+          1208.9,
+          929.9
+        ],
+        [
+          1151.07,
+          876.44
+        ],
+        [
+          1107.24,
+          831.63
+        ],
+        [
+          996.52,
+          727.35
+        ],
+        [
+          943.23,
+          676.13
+        ],
+        [
+          933.9,
+          680.9
+        ],
+        [
+          954.02,
+          703.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          933.49,
+          688.99
+        ],
+        [
+          941.57,
+          696.66
+        ],
+        [
+          954.02,
+          703.92
+        ],
+        [
+          933.9,
+          680.9
+        ],
+        [
+          943.23,
+          676.13
+        ],
+        [
+          996.52,
+          727.35
+        ],
+        [
+          1038.83,
+          752.44
+        ],
+        [
+          994.46,
+          702.06
+        ],
+        [
+          858.18,
+          625.28
+        ],
+        [
+          873.26,
+          647.04
+        ],
+        [
+          861.32,
+          647.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          858.18,
+          625.28
+        ],
+        [
+          994.46,
+          702.06
+        ],
+        [
+          979.33,
+          685.34
+        ],
+        [
+          846.9,
+          609.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          846.9,
+          609.21
+        ],
+        [
+          979.33,
+          685.34
+        ],
+        [
+          946.1,
+          645.52
+        ],
+        [
+          818.14,
+          568.63
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          452.62,
+          380.1
+        ],
+        [
+          820.29,
+          604.26
+        ],
+        [
+          808.24,
+          584.08
+        ],
+        [
+          640.07,
+          478.48
+        ],
+        [
+          475.02,
+          383.86
+        ],
+        [
+          463.82,
+          376.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          640.07,
+          478.48
+        ],
+        [
+          791.36,
+          557.38
+        ],
+        [
+          857.16,
+          659.25
+        ],
+        [
+          861.32,
+          647.6
+        ],
+        [
+          873.26,
+          647.04
+        ],
+        [
+          818.14,
+          568.63
+        ],
+        [
+          794.18,
+          541.78
+        ],
+        [
+          612.58,
+          449.28
+        ],
+        [
+          482.92,
+          380.06
+        ],
+        [
+          475.82,
+          381.06
+        ],
+        [
+          475.02,
+          383.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          635.27,
+          445.28
+        ],
+        [
+          640.2,
+          441.7
+        ],
+        [
+          621.2,
+          429.9
+        ],
+        [
+          614.44,
+          433.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1365.78,
+          1043.15
+        ],
+        [
+          1407.12,
+          1054.02
+        ],
+        [
+          1418.4,
+          1061.46
+        ],
+        [
+          1427.99,
+          1069.62
+        ],
+        [
+          1483.91,
+          1087.28
+        ],
+        [
+          1336.24,
+          1002.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1336.24,
+          1002.76
+        ],
+        [
+          1483.91,
+          1087.28
+        ],
+        [
+          1567.32,
+          1114.9
+        ],
+        [
+          1439.03,
+          1037.78
+        ],
+        [
+          1388.05,
+          1008.8
+        ],
+        [
+          1306.51,
+          964.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1255.07,
+          956.36
+        ],
+        [
+          1264.19,
+          961.4
+        ],
+        [
+          1285.61,
+          986.63
+        ],
+        [
+          1312.5,
+          997.92
+        ],
+        [
+          1293.72,
+          970.74
+        ],
+        [
+          1252.19,
+          949.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1231.8,
+          932.84
+        ],
+        [
+          1241.4,
+          938.36
+        ],
+        [
+          1252.19,
+          949.64
+        ],
+        [
+          1293.72,
+          970.74
+        ],
+        [
+          1272.5,
+          940.69
+        ],
+        [
+          1270.33,
+          943.32
+        ],
+        [
+          1221.48,
+          914.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1349.82,
+          1039.75
+        ],
+        [
+          1365.78,
+          1043.15
+        ],
+        [
+          1280.8,
+          929.86
+        ],
+        [
+          1270.05,
+          936.57
+        ],
+        [
+          1339.91,
+          1037.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1304.07,
+          958.89
+        ],
+        [
+          1388.05,
+          1008.8
+        ],
+        [
+          1439.03,
+          1037.78
+        ],
+        [
+          1450.55,
+          1025.3
+        ],
+        [
+          1439.27,
+          1018.58
+        ],
+        [
+          1436.15,
+          1011.87
+        ],
+        [
+          1406.88,
+          994.04
+        ],
+        [
+          1394.65,
+          1003.4
+        ],
+        [
+          1280.8,
+          929.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1277.94,
+          926.78
+        ],
+        [
+          1394.65,
+          1003.4
+        ],
+        [
+          1406.88,
+          994.04
+        ],
+        [
+          1410.24,
+          987.32
+        ],
+        [
+          1340.72,
+          956.19
+        ],
+        [
+          1286.03,
+          921.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1132.5,
+          813.0
+        ],
+        [
+          1176.46,
+          838.31
+        ],
+        [
+          1177.18,
+          840.15
+        ],
+        [
+          1270.95,
+          898.82
+        ],
+        [
+          1269.53,
+          902.59
+        ],
+        [
+          1288.33,
+          916.2
+        ],
+        [
+          1286.03,
+          921.49
+        ],
+        [
+          1340.72,
+          956.19
+        ],
+        [
+          1414.28,
+          988.67
+        ],
+        [
+          1415.11,
+          980.62
+        ],
+        [
+          1429.27,
+          971.45
+        ],
+        [
+          1407.84,
+          959.49
+        ],
+        [
+          1398.48,
+          961.17
+        ],
+        [
+          1381.69,
+          949.41
+        ],
+        [
+          1378.81,
+          948.93
+        ],
+        [
+          1370.65,
+          943.18
+        ],
+        [
+          1307.79,
+          905.51
+        ],
+        [
+          1181.83,
+          832.57
+        ],
+        [
+          1118.26,
+          794.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1166.8,
+          851.16
+        ],
+        [
+          1176.4,
+          860.6
+        ],
+        [
+          1277.94,
+          926.78
+        ],
+        [
+          1288.33,
+          916.2
+        ],
+        [
+          1269.53,
+          902.59
+        ],
+        [
+          1270.95,
+          898.82
+        ],
+        [
+          1177.18,
+          840.15
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1154.78,
+          838.62
+        ],
+        [
+          1167.79,
+          848.06
+        ],
+        [
+          1176.46,
+          838.31
+        ],
+        [
+          1132.5,
+          813.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1118.26,
+          794.19
+        ],
+        [
+          1181.83,
+          832.57
+        ],
+        [
+          1307.79,
+          905.51
+        ],
+        [
+          1370.65,
+          943.18
+        ],
+        [
+          1378.81,
+          948.93
+        ],
+        [
+          1381.69,
+          949.41
+        ],
+        [
+          1398.48,
+          961.17
+        ],
+        [
+          1407.84,
+          959.49
+        ],
+        [
+          1419.36,
+          965.25
+        ],
+        [
+          1420.32,
+          948.69
+        ],
+        [
+          1407.16,
+          940.55
+        ],
+        [
+          1380.06,
+          924.24
+        ],
+        [
+          1380.06,
+          922.07
+        ],
+        [
+          1213.01,
+          827.68
+        ],
+        [
+          1080.9,
+          753.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          893.28,
+          550.62
+        ],
+        [
+          891.38,
+          553.62
+        ],
+        [
+          885.98,
+          563.42
+        ],
+        [
+          896.95,
+          575.44
+        ],
+        [
+          923.43,
+          605.26
+        ],
+        [
+          983.97,
+          673.17
+        ],
+        [
+          1156.99,
+          870.7
+        ],
+        [
+          1208.9,
+          929.9
+        ],
+        [
+          1307.65,
+          1029.17
+        ],
+        [
+          1320.56,
+          1031.15
+        ],
+        [
+          1302.1,
+          1009.38
+        ],
+        [
+          1294.42,
+          997.14
+        ],
+        [
+          1264.19,
+          961.4
+        ],
+        [
+          1255.07,
+          956.36
+        ],
+        [
+          1252.19,
+          949.64
+        ],
+        [
+          1241.4,
+          938.36
+        ],
+        [
+          1231.8,
+          932.84
+        ],
+        [
+          1221.48,
+          914.85
+        ],
+        [
+          1132.5,
+          813.0
+        ],
+        [
+          1080.9,
+          753.6
+        ],
+        [
+          1069.2,
+          740.0
+        ],
+        [
+          1055.14,
+          723.36
+        ],
+        [
+          1033.27,
+          698.55
+        ],
+        [
+          993.64,
+          654.86
+        ],
+        [
+          900.38,
+          548.52
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          437.43,
+          365.83
+        ],
+        [
+          422.25,
+          376.52
+        ],
+        [
+          457.43,
+          394.44
+        ],
+        [
+          460.22,
+          391.34
+        ],
+        [
+          551.59,
+          447.09
+        ],
+        [
+          610.78,
+          484.31
+        ],
+        [
+          711.5,
+          541.61
+        ],
+        [
+          712.94,
+          538.96
+        ],
+        [
+          452.62,
+          380.1
+        ],
+        [
+          456.8,
+          378.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1214.19,
+          1235.19
+        ],
+        [
+          1214.42,
+          1242.6
+        ],
+        [
+          1214.65,
+          1244.1
+        ],
+        [
+          1231.43,
+          1241.91
+        ],
+        [
+          1221.48,
+          1231.14
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1232.84,
+          1341.53
+        ],
+        [
+          1242.87,
+          1350.68
+        ],
+        [
+          1253.79,
+          1349.42
+        ],
+        [
+          1240.72,
+          1338.67
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1243.23,
+          1337.95
+        ],
+        [
+          1256.67,
+          1348.35
+        ],
+        [
+          1284.27,
+          1343.33
+        ],
+        [
+          1265.28,
+          1326.3
+        ],
+        [
+          1264.72,
+          1323.25
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1276.91,
+          1366.98
+        ],
+        [
+          1295.19,
+          1363.58
+        ],
+        [
+          1289.99,
+          1353.36
+        ],
+        [
+          1267.79,
+          1358.92
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1245.56,
+          1361.79
+        ],
+        [
+          1245.01,
+          1365.19
+        ],
+        [
+          1248.95,
+          1372.36
+        ],
+        [
+          1258.99,
+          1371.29
+        ],
+        [
+          1250.4,
+          1361.61
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1253.43,
+          1359.82
+        ],
+        [
+          1264.18,
+          1369.85
+        ],
+        [
+          1274.04,
+          1367.34
+        ],
+        [
+          1264.18,
+          1358.38
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1051.82,
+          779.77
+        ],
+        [
+          1076.43,
+          793.88
+        ],
+        [
+          1048.22,
+          762.25
+        ],
+        [
+          1014.87,
+          743.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          453.67,
+          403.59
+        ],
+        [
+          550.12,
+          465.97
+        ],
+        [
+          652.57,
+          531.95
+        ],
+        [
+          733.66,
+          585.69
+        ],
+        [
+          831.31,
+          648.79
+        ],
+        [
+          1021.09,
+          780.27
+        ],
+        [
+          1023.96,
+          774.61
+        ],
+        [
+          1011.49,
+          762.28
+        ],
+        [
+          970.91,
+          722.82
+        ],
+        [
+          959.43,
+          710.21
+        ],
+        [
+          861.32,
+          647.6
+        ],
+        [
+          857.16,
+          659.25
+        ],
+        [
+          839.4,
+          633.06
+        ],
+        [
+          623.6,
+          495.37
+        ],
+        [
+          460.22,
+          391.34
+        ],
+        [
+          457.43,
+          394.44
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          820.29,
+          604.26
+        ],
+        [
+          711.5,
+          541.61
+        ],
+        [
+          623.92,
+          493.12
+        ],
+        [
+          623.6,
+          495.37
+        ],
+        [
+          839.4,
+          633.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1408.64,
+          1732.65
+        ],
+        [
+          1509.58,
+          1803.12
+        ],
+        [
+          1627.19,
+          1883.72
+        ],
+        [
+          1629.6,
+          1881.12
+        ],
+        [
+          1530.48,
+          1796.13
+        ],
+        [
+          1481.94,
+          1759.34
+        ],
+        [
+          1396.71,
+          1698.79
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1594.42,
+          1716.19
+        ],
+        [
+          1579.2,
+          1714.76
+        ],
+        [
+          1627.1,
+          1756.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "78. Unknown-Rebar",
+      "score": null,
+      "points": [
+        [
+          1579.2,
+          1714.76
+        ],
+        [
+          1597.28,
+          1716.02
+        ],
+        [
+          1608.32,
+          1719.28
+        ],
+        [
+          1609.83,
+          1715.27
+        ],
+        [
+          1598.53,
+          1712.25
+        ],
+        [
+          1574.93,
+          1711.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1429.64,
+          1782.82
+        ],
+        [
+          1430.06,
+          1791.63
+        ],
+        [
+          1535.85,
+          1892.28
+        ],
+        [
+          1543.79,
+          1900.99
+        ],
+        [
+          1600.3,
+          1970.78
+        ],
+        [
+          1602.74,
+          1939.57
+        ],
+        [
+          1603.1,
+          1930.33
+        ],
+        [
+          1469.64,
+          1798.37
+        ],
+        [
+          1418.86,
+          1758.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1427.14,
+          1816.3
+        ],
+        [
+          1479.71,
+          1876.3
+        ],
+        [
+          1490.15,
+          1872.95
+        ],
+        [
+          1489.88,
+          1866.79
+        ],
+        [
+          1427.94,
+          1805.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1407.61,
+          1889.13
+        ],
+        [
+          1426.07,
+          1911.12
+        ],
+        [
+          1431.03,
+          1910.91
+        ],
+        [
+          1450.53,
+          1928.11
+        ],
+        [
+          1466.91,
+          1918.58
+        ],
+        [
+          1464.42,
+          1912.36
+        ],
+        [
+          1413.74,
+          1858.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1397.56,
+          1926.31
+        ],
+        [
+          1420.97,
+          1955.77
+        ],
+        [
+          1425.97,
+          1952.07
+        ],
+        [
+          1399.0,
+          1920.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1390.13,
+          1952.19
+        ],
+        [
+          1394.91,
+          1971.67
+        ],
+        [
+          1444.45,
+          2035.32
+        ],
+        [
+          1448.6,
+          2033.67
+        ],
+        [
+          1450.26,
+          2028.89
+        ],
+        [
+          1455.25,
+          2023.52
+        ],
+        [
+          1391.57,
+          1944.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1514.51,
+          1523.06
+        ],
+        [
+          1584.45,
+          1593.25
+        ],
+        [
+          1677.76,
+          1686.96
+        ],
+        [
+          1677.0,
+          1678.93
+        ],
+        [
+          1576.22,
+          1578.61
+        ],
+        [
+          1512.94,
+          1516.67
+        ],
+        [
+          1506.61,
+          1510.36
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1584.05,
+          1614.27
+        ],
+        [
+          1603.06,
+          1633.81
+        ],
+        [
+          1679.39,
+          1705.27
+        ],
+        [
+          1677.76,
+          1686.96
+        ],
+        [
+          1589.67,
+          1603.96
+        ],
+        [
+          1546.26,
+          1564.96
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1468.47,
+          1477.91
+        ],
+        [
+          1475.13,
+          1488.46
+        ],
+        [
+          1525.21,
+          1555.73
+        ],
+        [
+          1685.93,
+          1766.18
+        ],
+        [
+          1683.55,
+          1745.63
+        ],
+        [
+          1660.79,
+          1714.45
+        ],
+        [
+          1623.09,
+          1667.69
+        ],
+        [
+          1607.67,
+          1645.47
+        ],
+        [
+          1546.26,
+          1564.96
+        ],
+        [
+          1514.51,
+          1523.06
+        ],
+        [
+          1506.61,
+          1510.36
+        ],
+        [
+          1478.64,
+          1474.86
+        ],
+        [
+          1471.38,
+          1474.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1448.97,
+          1457.62
+        ],
+        [
+          1437.51,
+          1454.52
+        ],
+        [
+          1432.4,
+          1460.72
+        ],
+        [
+          1434.1,
+          1466.29
+        ],
+        [
+          1500.63,
+          1556.05
+        ],
+        [
+          1585.35,
+          1670.8
+        ],
+        [
+          1673.66,
+          1796.65
+        ],
+        [
+          1690.28,
+          1811.73
+        ],
+        [
+          1685.93,
+          1766.18
+        ],
+        [
+          1525.21,
+          1555.73
+        ],
+        [
+          1475.13,
+          1488.46
+        ],
+        [
+          1468.47,
+          1477.91
+        ],
+        [
+          1471.38,
+          1474.86
+        ],
+        [
+          1467.86,
+          1469.47
+        ],
+        [
+          1460.9,
+          1459.63
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1472.21,
+          1460.97
+        ],
+        [
+          1467.86,
+          1469.47
+        ],
+        [
+          1471.38,
+          1474.86
+        ],
+        [
+          1478.64,
+          1474.86
+        ],
+        [
+          1512.94,
+          1516.67
+        ],
+        [
+          1576.22,
+          1578.61
+        ],
+        [
+          1677.0,
+          1678.93
+        ],
+        [
+          1674.31,
+          1653.42
+        ],
+        [
+          1670.16,
+          1649.48
+        ],
+        [
+          1673.27,
+          1646.79
+        ],
+        [
+          1672.84,
+          1639.0
+        ],
+        [
+          1664.28,
+          1634.45
+        ],
+        [
+          1663.75,
+          1638.6
+        ],
+        [
+          1662.69,
+          1642.43
+        ],
+        [
+          1614.46,
+          1596.25
+        ],
+        [
+          1610.41,
+          1589.72
+        ],
+        [
+          1612.71,
+          1585.13
+        ],
+        [
+          1491.71,
+          1467.81
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1619.78,
+          1578.5
+        ],
+        [
+          1671.78,
+          1627.09
+        ],
+        [
+          1669.81,
+          1608.03
+        ],
+        [
+          1618.3,
+          1557.46
+        ],
+        [
+          1557.13,
+          1499.4
+        ],
+        [
+          1531.2,
+          1489.07
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1612.71,
+          1585.13
+        ],
+        [
+          1616.66,
+          1579.42
+        ],
+        [
+          1619.78,
+          1578.5
+        ],
+        [
+          1531.2,
+          1489.07
+        ],
+        [
+          1504.78,
+          1472.31
+        ],
+        [
+          1498.87,
+          1472.85
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1616.66,
+          1579.42
+        ],
+        [
+          1610.41,
+          1589.72
+        ],
+        [
+          1638.33,
+          1615.05
+        ],
+        [
+          1663.75,
+          1638.6
+        ],
+        [
+          1664.28,
+          1634.45
+        ],
+        [
+          1672.84,
+          1639.0
+        ],
+        [
+          1671.78,
+          1627.09
+        ],
+        [
+          1619.78,
+          1578.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1618.3,
+          1557.46
+        ],
+        [
+          1669.81,
+          1608.03
+        ],
+        [
+          1668.07,
+          1594.54
+        ],
+        [
+          1620.04,
+          1551.17
+        ],
+        [
+          1593.87,
+          1518.55
+        ],
+        [
+          1593.51,
+          1516.4
+        ],
+        [
+          1557.13,
+          1499.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1640.11,
+          1535.93
+        ],
+        [
+          1593.51,
+          1516.4
+        ],
+        [
+          1593.87,
+          1518.55
+        ],
+        [
+          1620.04,
+          1551.17
+        ],
+        [
+          1668.07,
+          1594.54
+        ],
+        [
+          1665.87,
+          1568.92
+        ],
+        [
+          1643.47,
+          1539.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1665.87,
+          1568.92
+        ],
+        [
+          1663.66,
+          1547.37
+        ],
+        [
+          1643.47,
+          1539.12
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1690.28,
+          1811.73
+        ],
+        [
+          1718.03,
+          1837.19
+        ],
+        [
+          1715.73,
+          1809.41
+        ],
+        [
+          1713.25,
+          1784.32
+        ],
+        [
+          1707.7,
+          1736.8
+        ],
+        [
+          1704.6,
+          1707.0
+        ],
+        [
+          1705.08,
+          1704.31
+        ],
+        [
+          1702.25,
+          1680.48
+        ],
+        [
+          1701.04,
+          1673.57
+        ],
+        [
+          1697.5,
+          1649.8
+        ],
+        [
+          1695.41,
+          1632.61
+        ],
+        [
+          1694.61,
+          1609.02
+        ],
+        [
+          1694.75,
+          1606.62
+        ],
+        [
+          1690.21,
+          1565.61
+        ],
+        [
+          1690.31,
+          1559.31
+        ],
+        [
+          1680.59,
+          1556.25
+        ],
+        [
+          1663.66,
+          1547.37
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1639.24,
+          1800.27
+        ],
+        [
+          1681.12,
+          1856.19
+        ],
+        [
+          1686.37,
+          1852.99
+        ],
+        [
+          1672.57,
+          1829.51
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          382.35,
+          494.69
+        ],
+        [
+          385.01,
+          493.01
+        ],
+        [
+          359.45,
+          468.32
+        ],
+        [
+          355.38,
+          470.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "41.Coiled reinforcing bar",
+      "score": null,
+      "points": [
+        [
+          1321.94,
+          1562.72
+        ],
+        [
+          1322.97,
+          1539.2
+        ],
+        [
+          1320.19,
+          1539.2
+        ],
+        [
+          1319.17,
+          1559.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1418.86,
+          1758.55
+        ],
+        [
+          1469.64,
+          1798.37
+        ],
+        [
+          1603.1,
+          1930.33
+        ],
+        [
+          1603.55,
+          1916.88
+        ],
+        [
+          1617.07,
+          1892.02
+        ],
+        [
+          1627.19,
+          1883.72
+        ],
+        [
+          1509.58,
+          1803.12
+        ],
+        [
+          1408.64,
+          1732.65
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          764.78,
+          867.5
+        ],
+        [
+          771.59,
+          873.96
+        ],
+        [
+          763.77,
+          876.69
+        ],
+        [
+          814.82,
+          922.42
+        ],
+        [
+          862.21,
+          969.81
+        ],
+        [
+          913.62,
+          1012.11
+        ],
+        [
+          965.56,
+          1054.01
+        ],
+        [
+          991.93,
+          1072.22
+        ],
+        [
+          994.47,
+          1068.87
+        ],
+        [
+          859.93,
+          946.92
+        ],
+        [
+          863.01,
+          943.17
+        ],
+        [
+          805.18,
+          890.02
+        ],
+        [
+          774.9,
+          862.3
+        ],
+        [
+          771.71,
+          861.51
+        ],
+        [
+          765.86,
+          863.21
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          753.71,
+          847.75
+        ],
+        [
+          774.9,
+          862.3
+        ],
+        [
+          845.57,
+          923.23
+        ],
+        [
+          852.0,
+          914.72
+        ],
+        [
+          833.9,
+          897.55
+        ],
+        [
+          767.08,
+          842.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          520.96,
+          657.84
+        ],
+        [
+          519.82,
+          659.2
+        ],
+        [
+          576.99,
+          709.42
+        ],
+        [
+          586.01,
+          712.49
+        ],
+        [
+          747.97,
+          845.59
+        ],
+        [
+          759.61,
+          837.88
+        ],
+        [
+          759.4,
+          826.83
+        ],
+        [
+          684.7,
+          776.19
+        ],
+        [
+          679.97,
+          775.85
+        ],
+        [
+          679.8,
+          772.3
+        ],
+        [
+          603.41,
+          719.57
+        ],
+        [
+          604.0,
+          713.43
+        ],
+        [
+          590.92,
+          704.25
+        ],
+        [
+          587.25,
+          705.31
+        ],
+        [
+          578.86,
+          699.56
+        ],
+        [
+          579.38,
+          696.13
+        ],
+        [
+          522.7,
+          656.53
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          890.55,
+          580.64
+        ],
+        [
+          885.25,
+          575.64
+        ],
+        [
+          883.15,
+          577.74
+        ],
+        [
+          915.2,
+          609.17
+        ],
+        [
+          946.1,
+          645.52
+        ],
+        [
+          979.33,
+          685.34
+        ],
+        [
+          1076.43,
+          793.88
+        ],
+        [
+          1107.24,
+          831.63
+        ],
+        [
+          1151.07,
+          876.44
+        ],
+        [
+          1156.99,
+          870.7
+        ],
+        [
+          983.97,
+          673.17
+        ],
+        [
+          923.43,
+          605.26
+        ],
+        [
+          896.95,
+          575.44
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1144.39,
+          764.58
+        ],
+        [
+          1139.55,
+          771.74
+        ],
+        [
+          1181.67,
+          800.1
+        ],
+        [
+          1251.76,
+          835.98
+        ],
+        [
+          1148.7,
+          767.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1080.9,
+          753.6
+        ],
+        [
+          1213.01,
+          827.68
+        ],
+        [
+          1380.06,
+          922.07
+        ],
+        [
+          1380.06,
+          924.24
+        ],
+        [
+          1407.16,
+          940.55
+        ],
+        [
+          1415.08,
+          924.47
+        ],
+        [
+          1251.76,
+          835.98
+        ],
+        [
+          1181.67,
+          800.1
+        ],
+        [
+          1141.47,
+          775.2
+        ],
+        [
+          1137.4,
+          774.61
+        ],
+        [
+          1069.2,
+          740.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1055.14,
+          723.36
+        ],
+        [
+          1137.4,
+          774.61
+        ],
+        [
+          1144.39,
+          764.58
+        ],
+        [
+          1033.27,
+          698.55
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1033.27,
+          698.55
+        ],
+        [
+          1148.7,
+          767.2
+        ],
+        [
+          1158.27,
+          752.49
+        ],
+        [
+          993.64,
+          654.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          772.56,
+          525.18
+        ],
+        [
+          915.2,
+          609.17
+        ],
+        [
+          809.59,
+          542.07
+        ],
+        [
+          644.23,
+          438.86
+        ],
+        [
+          635.27,
+          445.28
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "78. Unknown-Rebar",
+      "score": null,
+      "points": [
+        [
+          725.92,
+          858.56
+        ],
+        [
+          713.39,
+          848.61
+        ],
+        [
+          703.76,
+          839.61
+        ],
+        [
+          698.04,
+          838.62
+        ],
+        [
+          692.92,
+          844.18
+        ],
+        [
+          696.6,
+          847.75
+        ],
+        [
+          696.6,
+          855.42
+        ],
+        [
+          697.43,
+          857.49
+        ],
+        [
+          702.82,
+          862.47
+        ],
+        [
+          695.45,
+          870.86
+        ],
+        [
+          693.66,
+          877.13
+        ],
+        [
+          680.63,
+          881.37
+        ],
+        [
+          673.57,
+          882.65
+        ],
+        [
+          672.92,
+          886.51
+        ],
+        [
+          685.13,
+          896.14
+        ],
+        [
+          687.38,
+          904.49
+        ],
+        [
+          693.8,
+          909.63
+        ],
+        [
+          720.78,
+          928.9
+        ],
+        [
+          732.67,
+          908.03
+        ],
+        [
+          717.25,
+          895.5
+        ],
+        [
+          715.32,
+          889.08
+        ],
+        [
+          726.56,
+          883.3
+        ],
+        [
+          738.45,
+          885.22
+        ],
+        [
+          748.08,
+          878.8
+        ],
+        [
+          734.59,
+          865.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          470.0,
+          367.15
+        ],
+        [
+          612.58,
+          449.28
+        ],
+        [
+          794.18,
+          541.78
+        ],
+        [
+          818.14,
+          568.63
+        ],
+        [
+          946.1,
+          645.52
+        ],
+        [
+          915.2,
+          609.17
+        ],
+        [
+          772.56,
+          525.18
+        ],
+        [
+          614.44,
+          433.48
+        ],
+        [
+          478.61,
+          355.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          698.04,
+          838.62
+        ],
+        [
+          703.76,
+          839.61
+        ],
+        [
+          713.39,
+          848.61
+        ],
+        [
+          725.92,
+          858.56
+        ],
+        [
+          734.59,
+          865.31
+        ],
+        [
+          748.08,
+          878.8
+        ],
+        [
+          810.94,
+          927.64
+        ],
+        [
+          814.82,
+          922.42
+        ],
+        [
+          763.77,
+          876.69
+        ],
+        [
+          681.93,
+          810.06
+        ],
+        [
+          679.99,
+          810.83
+        ],
+        [
+          663.56,
+          801.44
+        ],
+        [
+          647.02,
+          794.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          576.99,
+          709.42
+        ],
+        [
+          569.46,
+          718.84
+        ],
+        [
+          624.06,
+          762.14
+        ],
+        [
+          661.59,
+          792.46
+        ],
+        [
+          681.93,
+          810.06
+        ],
+        [
+          763.77,
+          876.69
+        ],
+        [
+          771.59,
+          873.96
+        ],
+        [
+          764.78,
+          867.5
+        ],
+        [
+          765.86,
+          863.21
+        ],
+        [
+          711.47,
+          815.92
+        ],
+        [
+          586.01,
+          712.49
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          960.42,
+          869.72
+        ],
+        [
+          987.36,
+          904.21
+        ],
+        [
+          993.16,
+          900.42
+        ],
+        [
+          1076.66,
+          993.03
+        ],
+        [
+          1083.92,
+          987.7
+        ],
+        [
+          1089.24,
+          981.83
+        ],
+        [
+          1045.25,
+          938.54
+        ],
+        [
+          965.97,
+          863.03
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1076.66,
+          993.03
+        ],
+        [
+          1148.91,
+          1072.35
+        ],
+        [
+          1155.72,
+          1065.28
+        ],
+        [
+          1083.92,
+          987.7
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1065.98,
+          935.02
+        ],
+        [
+          1050.5,
+          933.99
+        ],
+        [
+          1049.19,
+          938.91
+        ],
+        [
+          1089.24,
+          981.83
+        ],
+        [
+          1083.92,
+          987.7
+        ],
+        [
+          1157.99,
+          1063.81
+        ],
+        [
+          1167.45,
+          1058.57
+        ],
+        [
+          1185.7,
+          1052.47
+        ],
+        [
+          1066.36,
+          931.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          1005.23,
+          964.78
+        ],
+        [
+          1059.98,
+          1036.73
+        ],
+        [
+          1064.3,
+          1041.5
+        ],
+        [
+          1072.21,
+          1039.89
+        ],
+        [
+          1112.26,
+          1072.09
+        ],
+        [
+          1021.69,
+          952.2
+        ],
+        [
+          935.16,
+          837.88
+        ],
+        [
+          897.0,
+          795.3
+        ],
+        [
+          888.09,
+          795.45
+        ],
+        [
+          886.19,
+          797.5
+        ],
+        [
+          880.34,
+          799.71
+        ],
+        [
+          878.58,
+          802.64
+        ],
+        [
+          885.42,
+          810.08
+        ],
+        [
+          887.96,
+          806.75
+        ],
+        [
+          918.4,
+          853.83
+        ],
+        [
+          927.0,
+          864.94
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          673.57,
+          882.65
+        ],
+        [
+          680.63,
+          881.37
+        ],
+        [
+          693.66,
+          877.13
+        ],
+        [
+          587.78,
+          803.67
+        ],
+        [
+          586.18,
+          806.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          588.41,
+          817.91
+        ],
+        [
+          718.85,
+          945.08
+        ],
+        [
+          731.48,
+          934.67
+        ],
+        [
+          722.27,
+          926.83
+        ],
+        [
+          720.78,
+          928.9
+        ],
+        [
+          693.8,
+          909.63
+        ],
+        [
+          687.38,
+          904.49
+        ],
+        [
+          685.13,
+          896.14
+        ],
+        [
+          672.92,
+          886.51
+        ],
+        [
+          673.57,
+          882.65
+        ],
+        [
+          586.18,
+          806.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          695.45,
+          870.86
+        ],
+        [
+          702.82,
+          862.47
+        ],
+        [
+          697.43,
+          857.49
+        ],
+        [
+          696.6,
+          855.42
+        ],
+        [
+          696.6,
+          847.75
+        ],
+        [
+          692.92,
+          844.18
+        ],
+        [
+          646.98,
+          804.06
+        ],
+        [
+          642.74,
+          808.12
+        ],
+        [
+          635.83,
+          816.26
+        ],
+        [
+          655.24,
+          836.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          557.82,
+          782.68
+        ],
+        [
+          693.66,
+          877.13
+        ],
+        [
+          695.45,
+          870.86
+        ],
+        [
+          655.24,
+          836.74
+        ],
+        [
+          609.32,
+          802.47
+        ],
+        [
+          548.15,
+          759.63
+        ],
+        [
+          508.23,
+          733.72
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "35.Base plates, I-beams, H-beams",
+      "score": null,
+      "points": [
+        [
+          851.03,
+          877.25
+        ],
+        [
+          917.94,
+          935.0
+        ],
+        [
+          885.31,
+          901.0
+        ],
+        [
+          841.61,
+          856.11
+        ],
+        [
+          833.02,
+          863.34
+        ],
+        [
+          821.19,
+          854.55
+        ],
+        [
+          817.07,
+          856.7
+        ],
+        [
+          822.93,
+          863.03
+        ],
+        [
+          822.99,
+          868.17
+        ],
+        [
+          839.29,
+          885.91
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "508_15-43-55.jpg",
+  "imageData": null,
+  "imageWidth": 1976,
+  "imageHeight": 2087,
+  "text": "",
+  "description": ""
+}

@@ -75,14 +75,11 @@ def main():
             rows.append(row)
             print(row)
 
-    try:
-        sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
-        from notify import training_complete
+    # 완료 마커 — 모니터링 세션이 폴링해 Claude 앱 푸시로 알림 (Telegram 폐기, 2026-07-15)
+    if rows:
         best = max(rows, key=lambda r: r["mask_map50"])
-        training_complete("scrap", "exp3 그리드 완료 ({}런)".format(len(rows)),
-                          "best: {} mask mAP50={}".format(best["run"], best["mask_map50"]))
-    except Exception:
-        pass
+        with open(os.path.join(HERE, "exp3_grid.done"), "w") as f:
+            f.write("best: {} mask mAP50={} ({}런)\n".format(best["run"], best["mask_map50"], len(rows)))
 
 
 if __name__ == "__main__":

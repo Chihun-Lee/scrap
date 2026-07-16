@@ -1,0 +1,123 @@
+- 사이트 주소: https://github.com/IDEA-Research/MaskDINO
+
+[사용 PC환경]
+- GPU 4090 기준
+- 파이썬 버전 Python 3.10.12
+- venv 가상환경 이용
+
+
+[1. 가상환경 설치] (개인 폴더 경로)
+cd /mnt/c/Users/varde/Desktop/steel_project/project31
+deactivate
+
+가상환경 생성
+python3 -m venv mask_dino4
+
+가상환경 활성화
+source mask_dino4/bin/activate
+
+
++) 접속(개인 폴더 경로)
+cd /mnt/c/Users/varde/Desktop/steel_project/project31
+deactivate
+source mask_dino4/bin/activate
+cd detectron2/projects/MaskDINO
+
+
+
+[2.파이토치 설치]  
+버전은 GPU환경에 따라 다르며, CUDA버전 에 의존
+pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --index-url https://download.pytorch.org/whl/cu117
+
+
+[3. detectron2 설치]
+git clone https://github.com/facebookresearch/detectron2.git
+cd detectron2
+pip install -e . --no-build-isolation
+
+
+[4. 마스크디노 클론] 
+- detectron2 클론 후, projects 폴더에 MaskDINO 추가
+
+cd projects
+git clone https://github.com/IDEA-Research/MaskDINO.git
+
+
+[5. CUDA 연산 컴파일]
+cd /mnt/c/Users/varde/Desktop/steel_project/project31/detectron2/projects/MaskDINO/maskdino/modeling/pixel_decoder/ops
+sh make.sh
+cd ../../../..
+
+
+[6. 필수 패키지 설치]
+pip install -r requirements.txt
+pip install numpy==1.26.4
+
+
+[7. 변경 유의사항]
+
+1. 데이터셋
+- coco dataset 포맷에 맞게 데이터셋 가공
+- 반드시 thing, stuff 인 클래스 둘 다 존재해야 panoptic 학습 가능 ( 카테고리 등록시 isthing=1 ,isthing=0 으로 구분)
+
+1-1. coco데이터셋 구조
+annotations/
+	instances_train.json
+	instances_val.json
+	panoptic_train.json
+	panoptic_val.json
+panoptic_train/
+	학습데이터 마스크 png파일
+panoptic_val/
+	평가데이터 마스크 png파일
+polygons_train/
+	학습데이터 각 객체 polygon 위치를 저장한 json파일
+polygons_val/
+	평가데이터 각 객체 polygon 위치를 저장한 json파일
+train/
+	원본 학습데이터 jpg 또는 png (설정 필요)
+val/
+	원본 평가데이터 jpg 또는 png (설정 필요)
+
+
+1-2 참고 사이트 주소: 
+https://github.com/IDEA-Research/MaskDINO/blob/main/datasets/README.md
+https://detectron2.readthedocs.io/en/latest/tutorials/datasets.html
+
+
+2. 등록
+- maskDINO 자체 내장된 등록 파일은 coco 데이터셋에 지나치게 특화되어 사용이 어려움.
+- 새로 register 파일을 만들고, train_net.py 에서 등록 옵션 추가 / 내장된 등록파일 수정
+- detectron2에 내재된 detectron2/data/coco_panoptic.py 의 register_coco_panoptic 함수 이용
+
+
+3. config 파일
+- config 파일에서 클래스 수, 학습률, 학습 횟수 등 조정
+- semantic, instance 평가도 진행할 것인지 옵션 조정 가능 
+MaskDINO/configs/coco/panoptic-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml 
+
+
+4. 사전학습 가중치
+- 깃허브에서 사전학습 가중치 다운로드
+- 유의점: Backbone 선택 필수 ( R50 : 성능 약간 낮음, 파인튜닝 빠름 Swin-L : 성능 우수, 파인튜닝 느림)
+
+
+[8. 학습]
+python train_net.py --num-gpus 1 --config-file configs/coco/panoptic-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml MODEL.WEIGHTS pretrained/maskdino_swinl_50ep_300q_hid2048_3sd1_panoptic_58.3pq.pth
+
+
+[9. 평가모드]
+python train_net.py --eval-only --num-gpus 1 --config-file configs/coco/panoptic-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml MODEL.WEIGHTS output/model_final.pth
+
+
+
+[10. 시각화]
+- detectron2/detectron2/utils/visualizer.py 이용.
+- Visualizer 클래스의 draw_panoptic_seg 함수에서 세부 설정 변경
+
+
+
+
+
+
+

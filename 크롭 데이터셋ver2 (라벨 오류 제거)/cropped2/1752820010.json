@@ -1,0 +1,4307 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "74. Handler",
+      "text": "",
+      "points": [
+        [
+          961.82,
+          520.23
+        ],
+        [
+          936.73,
+          526.26
+        ],
+        [
+          933.96,
+          539.02
+        ],
+        [
+          930.07,
+          556.52
+        ],
+        [
+          931.46,
+          566.23
+        ],
+        [
+          925.64,
+          569.84
+        ],
+        [
+          898.19,
+          586.62
+        ],
+        [
+          882.36,
+          601.5
+        ],
+        [
+          876.85,
+          610.86
+        ],
+        [
+          1202.27,
+          724.19
+        ],
+        [
+          1206.82,
+          714.39
+        ],
+        [
+          1207.46,
+          693.84
+        ],
+        [
+          1206.43,
+          653.54
+        ],
+        [
+          1200.44,
+          631.44
+        ],
+        [
+          1193.94,
+          620.89
+        ],
+        [
+          1182.2,
+          620.42
+        ],
+        [
+          1167.21,
+          602.93
+        ],
+        [
+          1146.09,
+          582.64
+        ],
+        [
+          1133.7,
+          571.73
+        ],
+        [
+          1134.43,
+          570.09
+        ],
+        [
+          1144.56,
+          565.93
+        ],
+        [
+          1190.95,
+          565.54
+        ],
+        [
+          1215.46,
+          586.61
+        ],
+        [
+          1233.08,
+          584.47
+        ],
+        [
+          1258.23,
+          572.59
+        ],
+        [
+          1249.06,
+          543.53
+        ],
+        [
+          1218.16,
+          516.57
+        ],
+        [
+          1181.04,
+          506.82
+        ],
+        [
+          1151.6,
+          506.2
+        ],
+        [
+          1141.85,
+          486.5
+        ],
+        [
+          1128.17,
+          477.17
+        ],
+        [
+          1088.35,
+          476.76
+        ],
+        [
+          1074.46,
+          479.45
+        ],
+        [
+          964.45,
+          519.02
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1591.96,
+          828.78
+        ],
+        [
+          1595.88,
+          823.59
+        ],
+        [
+          1597.46,
+          824.59
+        ],
+        [
+          1594.13,
+          829.51
+        ],
+        [
+          1600.74,
+          833.92
+        ],
+        [
+          1605.42,
+          811.68
+        ],
+        [
+          1576.3,
+          817.26
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1335.2,
+          719.79
+        ],
+        [
+          1334.51,
+          725.34
+        ],
+        [
+          1365.75,
+          729.74
+        ],
+        [
+          1374.77,
+          731.36
+        ],
+        [
+          1373.73,
+          722.33
+        ],
+        [
+          1352.56,
+          713.08
+        ],
+        [
+          1339.6,
+          708.91
+        ],
+        [
+          1337.75,
+          710.42
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "3.Pipe_2",
+      "text": "",
+      "points": [
+        [
+          1421.25,
+          890.24
+        ],
+        [
+          1426.05,
+          896.0
+        ],
+        [
+          1430.85,
+          900.55
+        ],
+        [
+          1433.73,
+          900.31
+        ],
+        [
+          1436.61,
+          899.35
+        ],
+        [
+          1439.01,
+          895.52
+        ],
+        [
+          1440.21,
+          891.68
+        ],
+        [
+          1430.85,
+          883.52
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1277.59,
+          690.09
+        ],
+        [
+          1310.58,
+          693.5
+        ],
+        [
+          1315.85,
+          681.1
+        ],
+        [
+          1283.78,
+          676.77
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1315.74,
+          665.8
+        ],
+        [
+          1321.47,
+          672.62
+        ],
+        [
+          1334.64,
+          662.55
+        ],
+        [
+          1331.69,
+          661.15
+        ],
+        [
+          1326.58,
+          663.17
+        ],
+        [
+          1322.4,
+          663.48
+        ],
+        [
+          1322.71,
+          658.37
+        ],
+        [
+          1315.74,
+          657.28
+        ],
+        [
+          1312.95,
+          659.14
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1265.76,
+          668.55
+        ],
+        [
+          1259.17,
+          670.87
+        ],
+        [
+          1256.85,
+          674.57
+        ],
+        [
+          1255.92,
+          679.43
+        ],
+        [
+          1259.17,
+          682.79
+        ],
+        [
+          1262.4,
+          684.29
+        ],
+        [
+          1267.55,
+          680.76
+        ],
+        [
+          1276.07,
+          678.16
+        ],
+        [
+          1275.71,
+          674.8
+        ],
+        [
+          1270.85,
+          666.82
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "55.Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          602.31,
+          511.25
+        ],
+        [
+          600.11,
+          514.36
+        ],
+        [
+          598.72,
+          519.12
+        ],
+        [
+          598.95,
+          527.45
+        ],
+        [
+          598.36,
+          562.28
+        ],
+        [
+          598.3,
+          572.66
+        ],
+        [
+          601.79,
+          572.93
+        ],
+        [
+          601.38,
+          558.2
+        ],
+        [
+          602.05,
+          540.12
+        ],
+        [
+          601.12,
+          526.07
+        ],
+        [
+          601.52,
+          519.24
+        ],
+        [
+          603.26,
+          515.35
+        ],
+        [
+          606.46,
+          513.07
+        ],
+        [
+          759.96,
+          570.01
+        ],
+        [
+          876.85,
+          610.86
+        ],
+        [
+          872.58,
+          602.01
+        ],
+        [
+          865.53,
+          598.9
+        ],
+        [
+          855.57,
+          593.3
+        ],
+        [
+          847.48,
+          584.81
+        ],
+        [
+          841.27,
+          573.19
+        ],
+        [
+          836.85,
+          552.23
+        ],
+        [
+          836.15,
+          541.35
+        ],
+        [
+          838.7,
+          537.76
+        ],
+        [
+          847.95,
+          531.64
+        ],
+        [
+          853.7,
+          533.17
+        ],
+        [
+          846.1,
+          515.4
+        ],
+        [
+          845.61,
+          504.28
+        ],
+        [
+          841.11,
+          498.82
+        ],
+        [
+          834.61,
+          496.81
+        ],
+        [
+          828.64,
+          492.88
+        ],
+        [
+          825.55,
+          488.07
+        ],
+        [
+          828.02,
+          479.71
+        ],
+        [
+          824.45,
+          478.63
+        ],
+        [
+          821.97,
+          482.34
+        ],
+        [
+          819.49,
+          481.41
+        ],
+        [
+          819.18,
+          476.15
+        ],
+        [
+          823.67,
+          471.19
+        ],
+        [
+          833.58,
+          464.07
+        ],
+        [
+          831.88,
+          461.59
+        ],
+        [
+          807.1,
+          471.5
+        ],
+        [
+          795.7,
+          471.8
+        ],
+        [
+          780.35,
+          471.18
+        ],
+        [
+          775.58,
+          465.79
+        ],
+        [
+          772.06,
+          462.46
+        ],
+        [
+          767.91,
+          463.91
+        ],
+        [
+          762.52,
+          458.94
+        ],
+        [
+          756.51,
+          448.56
+        ],
+        [
+          750.31,
+          445.05
+        ],
+        [
+          739.04,
+          446.49
+        ],
+        [
+          732.04,
+          439.31
+        ],
+        [
+          726.66,
+          437.52
+        ],
+        [
+          722.9,
+          439.48
+        ],
+        [
+          722.9,
+          445.4
+        ],
+        [
+          723.98,
+          453.64
+        ],
+        [
+          715.37,
+          452.76
+        ],
+        [
+          708.28,
+          452.73
+        ],
+        [
+          701.17,
+          455.5
+        ],
+        [
+          697.7,
+          449.96
+        ],
+        [
+          684.51,
+          450.84
+        ],
+        [
+          674.2,
+          455.67
+        ],
+        [
+          670.85,
+          446.3
+        ],
+        [
+          666.17,
+          445.76
+        ],
+        [
+          659.75,
+          449.91
+        ],
+        [
+          645.22,
+          445.97
+        ],
+        [
+          636.22,
+          453.18
+        ],
+        [
+          631.51,
+          453.18
+        ],
+        [
+          630.21,
+          445.18
+        ],
+        [
+          625.42,
+          442.18
+        ],
+        [
+          621.5,
+          401.8
+        ],
+        [
+          617.48,
+          402.48
+        ],
+        [
+          617.35,
+          420.94
+        ],
+        [
+          614.41,
+          421.49
+        ],
+        [
+          602.89,
+          430.05
+        ],
+        [
+          598.61,
+          426.3
+        ],
+        [
+          587.71,
+          421.46
+        ],
+        [
+          581.68,
+          425.08
+        ],
+        [
+          582.36,
+          429.9
+        ],
+        [
+          575.13,
+          424.94
+        ],
+        [
+          571.91,
+          426.55
+        ],
+        [
+          581.82,
+          433.65
+        ],
+        [
+          582.89,
+          436.19
+        ],
+        [
+          573.11,
+          436.73
+        ],
+        [
+          564.81,
+          431.37
+        ],
+        [
+          559.47,
+          428.16
+        ],
+        [
+          551.79,
+          409.84
+        ],
+        [
+          549.11,
+          411.19
+        ],
+        [
+          548.98,
+          415.06
+        ],
+        [
+          544.97,
+          419.49
+        ],
+        [
+          535.99,
+          419.61
+        ],
+        [
+          509.36,
+          423.36
+        ],
+        [
+          499.77,
+          427.68
+        ],
+        [
+          500.73,
+          416.89
+        ],
+        [
+          496.66,
+          416.65
+        ],
+        [
+          497.85,
+          388.09
+        ],
+        [
+          494.49,
+          389.78
+        ],
+        [
+          492.09,
+          412.33
+        ],
+        [
+          491.61,
+          416.65
+        ],
+        [
+          484.65,
+          417.13
+        ],
+        [
+          481.29,
+          415.69
+        ],
+        [
+          457.76,
+          346.83
+        ],
+        [
+          454.88,
+          347.37
+        ],
+        [
+          469.94,
+          398.81
+        ],
+        [
+          463.26,
+          402.23
+        ],
+        [
+          456.2,
+          405.55
+        ],
+        [
+          463.76,
+          433.61
+        ],
+        [
+          447.7,
+          431.46
+        ],
+        [
+          444.34,
+          435.77
+        ],
+        [
+          433.06,
+          440.09
+        ],
+        [
+          433.77,
+          444.64
+        ],
+        [
+          437.04,
+          449.71
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1059.26,
+          673.79
+        ],
+        [
+          1103.01,
+          661.14
+        ],
+        [
+          1101.98,
+          653.47
+        ],
+        [
+          1095.13,
+          650.56
+        ],
+        [
+          1058.85,
+          664.04
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1045.37,
+          666.78
+        ],
+        [
+          1049.72,
+          670.31
+        ],
+        [
+          1057.81,
+          666.57
+        ],
+        [
+          1066.52,
+          616.81
+        ],
+        [
+          1059.88,
+          619.09
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1297.46,
+          589.33
+        ],
+        [
+          1303.65,
+          596.6
+        ],
+        [
+          1305.07,
+          605.4
+        ],
+        [
+          1300.96,
+          610.93
+        ],
+        [
+          1303.87,
+          613.42
+        ],
+        [
+          1305.26,
+          617.81
+        ],
+        [
+          1307.95,
+          613.51
+        ],
+        [
+          1317.36,
+          602.82
+        ],
+        [
+          1317.97,
+          602.9
+        ],
+        [
+          1311.37,
+          613.81
+        ],
+        [
+          1314.25,
+          614.12
+        ],
+        [
+          1317.25,
+          618.62
+        ],
+        [
+          1320.58,
+          622.78
+        ],
+        [
+          1373.66,
+          613.45
+        ],
+        [
+          1391.48,
+          568.9
+        ],
+        [
+          1377.39,
+          559.76
+        ],
+        [
+          1374.6,
+          554.49
+        ],
+        [
+          1366.85,
+          552.17
+        ],
+        [
+          1362.52,
+          552.94
+        ],
+        [
+          1360.04,
+          562.24
+        ],
+        [
+          1311.67,
+          574.23
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1252.68,
+          584.8
+        ],
+        [
+          1240.63,
+          605.37
+        ],
+        [
+          1272.78,
+          598.29
+        ],
+        [
+          1278.94,
+          600.24
+        ],
+        [
+          1288.71,
+          592.19
+        ],
+        [
+          1304.22,
+          575.04
+        ],
+        [
+          1277.39,
+          579.81
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1498.91,
+          678.16
+        ],
+        [
+          1500.5,
+          691.5
+        ],
+        [
+          1517.4,
+          707.0
+        ],
+        [
+          1525.0,
+          706.7
+        ],
+        [
+          1531.1,
+          692.6
+        ],
+        [
+          1531.5,
+          690.3
+        ],
+        [
+          1516.0,
+          683.2
+        ],
+        [
+          1495.52,
+          675.27
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1482.09,
+          761.77
+        ],
+        [
+          1496.97,
+          768.43
+        ],
+        [
+          1519.18,
+          779.68
+        ],
+        [
+          1524.53,
+          776.98
+        ],
+        [
+          1528.25,
+          778.59
+        ],
+        [
+          1544.23,
+          793.16
+        ],
+        [
+          1542.91,
+          778.2
+        ],
+        [
+          1503.78,
+          763.45
+        ],
+        [
+          1478.7,
+          752.94
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1478.42,
+          711.47
+        ],
+        [
+          1472.32,
+          729.15
+        ],
+        [
+          1477.45,
+          748.75
+        ],
+        [
+          1490.0,
+          744.73
+        ],
+        [
+          1490.78,
+          745.98
+        ],
+        [
+          1486.45,
+          747.67
+        ],
+        [
+          1478.7,
+          752.94
+        ],
+        [
+          1503.78,
+          763.45
+        ],
+        [
+          1542.91,
+          778.2
+        ],
+        [
+          1536.43,
+          743.6
+        ],
+        [
+          1534.0,
+          720.23
+        ],
+        [
+          1538.32,
+          720.23
+        ],
+        [
+          1532.13,
+          717.13
+        ],
+        [
+          1519.9,
+          712.9
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "3.Pipe_2",
+      "text": "",
+      "points": [
+        [
+          1518.82,
+          788.81
+        ],
+        [
+          1586.47,
+          837.28
+        ],
+        [
+          1591.96,
+          828.78
+        ],
+        [
+          1576.3,
+          817.26
+        ],
+        [
+          1571.04,
+          812.3
+        ],
+        [
+          1551.43,
+          798.44
+        ],
+        [
+          1548.55,
+          796.28
+        ],
+        [
+          1544.23,
+          793.16
+        ],
+        [
+          1528.25,
+          778.59
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "3.Pipe_2",
+      "text": "",
+      "points": [
+        [
+          1548.55,
+          796.28
+        ],
+        [
+          1550.78,
+          778.66
+        ],
+        [
+          1545.29,
+          760.04
+        ],
+        [
+          1541.57,
+          742.69
+        ],
+        [
+          1538.32,
+          720.23
+        ],
+        [
+          1534.0,
+          720.23
+        ],
+        [
+          1536.43,
+          743.6
+        ],
+        [
+          1542.91,
+          778.2
+        ],
+        [
+          1544.23,
+          793.16
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "31.Square steel pipe",
+      "text": "",
+      "points": [
+        [
+          1633.49,
+          797.54
+        ],
+        [
+          1631.83,
+          787.02
+        ],
+        [
+          1632.9,
+          772.15
+        ],
+        [
+          1629.32,
+          732.36
+        ],
+        [
+          1615.7,
+          734.33
+        ],
+        [
+          1617.31,
+          766.23
+        ],
+        [
+          1613.19,
+          781.82
+        ],
+        [
+          1613.82,
+          793.98
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "31.Square steel pipe",
+      "text": "",
+      "points": [
+        [
+          1612.73,
+          805.13
+        ],
+        [
+          1633.18,
+          804.51
+        ],
+        [
+          1630.55,
+          801.1
+        ],
+        [
+          1611.96,
+          799.55
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "31.Square steel pipe",
+      "text": "",
+      "points": [
+        [
+          1609.88,
+          840.27
+        ],
+        [
+          1613.28,
+          843.46
+        ],
+        [
+          1618.28,
+          835.97
+        ],
+        [
+          1623.68,
+          827.76
+        ],
+        [
+          1631.6,
+          820.56
+        ],
+        [
+          1632.37,
+          810.91
+        ],
+        [
+          1613.32,
+          811.06
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "31.Square steel pipe",
+      "text": "",
+      "points": [
+        [
+          1624.49,
+          831.66
+        ],
+        [
+          1618.79,
+          839.36
+        ],
+        [
+          1616.78,
+          844.56
+        ],
+        [
+          1630.33,
+          853.28
+        ],
+        [
+          1632.78,
+          824.77
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1376.87,
+          875.6
+        ],
+        [
+          1386.46,
+          875.36
+        ],
+        [
+          1403.02,
+          878.24
+        ],
+        [
+          1403.02,
+          875.84
+        ],
+        [
+          1397.26,
+          870.8
+        ],
+        [
+          1397.74,
+          867.2
+        ],
+        [
+          1399.42,
+          866.72
+        ],
+        [
+          1397.74,
+          860.73
+        ],
+        [
+          1394.38,
+          857.61
+        ],
+        [
+          1388.14,
+          857.61
+        ],
+        [
+          1383.58,
+          859.77
+        ],
+        [
+          1381.42,
+          860.49
+        ],
+        [
+          1369.43,
+          858.81
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1374.02,
+          850.46
+        ],
+        [
+          1411.02,
+          861.21
+        ],
+        [
+          1431.65,
+          856.49
+        ],
+        [
+          1464.77,
+          834.56
+        ],
+        [
+          1491.42,
+          797.58
+        ],
+        [
+          1482.39,
+          790.7
+        ],
+        [
+          1464.21,
+          782.65
+        ],
+        [
+          1442.7,
+          782.98
+        ],
+        [
+          1415.94,
+          789.59
+        ],
+        [
+          1415.33,
+          794.01
+        ],
+        [
+          1394.19,
+          807.81
+        ],
+        [
+          1385.94,
+          796.16
+        ],
+        [
+          1331.46,
+          822.95
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1318.46,
+          869.69
+        ],
+        [
+          1335.43,
+          890.27
+        ],
+        [
+          1338.77,
+          888.8
+        ],
+        [
+          1332.71,
+          845.41
+        ],
+        [
+          1314.45,
+          842.52
+        ],
+        [
+          1316.06,
+          855.99
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1318.46,
+          869.69
+        ],
+        [
+          1316.06,
+          855.99
+        ],
+        [
+          1306.01,
+          847.55
+        ],
+        [
+          1302.26,
+          848.44
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1290.99,
+          835.93
+        ],
+        [
+          1303.93,
+          832.94
+        ],
+        [
+          1311.98,
+          822.93
+        ],
+        [
+          1334.1,
+          780.04
+        ],
+        [
+          1305.23,
+          773.65
+        ],
+        [
+          1267.76,
+          769.49
+        ],
+        [
+          1238.36,
+          768.32
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1261.21,
+          668.88
+        ],
+        [
+          1269.27,
+          666.37
+        ],
+        [
+          1277.87,
+          661.0
+        ],
+        [
+          1287.09,
+          656.35
+        ],
+        [
+          1288.47,
+          650.12
+        ],
+        [
+          1285.24,
+          643.52
+        ],
+        [
+          1256.55,
+          653.47
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1252.29,
+          642.75
+        ],
+        [
+          1259.96,
+          645.86
+        ],
+        [
+          1266.39,
+          644.82
+        ],
+        [
+          1273.03,
+          605.84
+        ],
+        [
+          1259.55,
+          605.84
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1206.01,
+          647.08
+        ],
+        [
+          1223.63,
+          640.86
+        ],
+        [
+          1217.0,
+          628.42
+        ],
+        [
+          1202.69,
+          633.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          981.45,
+          482.13
+        ],
+        [
+          976.61,
+          485.72
+        ],
+        [
+          972.31,
+          489.65
+        ],
+        [
+          969.8,
+          496.47
+        ],
+        [
+          969.26,
+          504.71
+        ],
+        [
+          969.44,
+          513.49
+        ],
+        [
+          970.87,
+          516.54
+        ],
+        [
+          982.16,
+          508.29
+        ],
+        [
+          998.22,
+          505.38
+        ],
+        [
+          987.84,
+          481.37
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1456.0,
+          1037.66
+        ],
+        [
+          1463.26,
+          1046.58
+        ],
+        [
+          1497.27,
+          1056.53
+        ],
+        [
+          1506.46,
+          1042.92
+        ],
+        [
+          1490.53,
+          1036.82
+        ],
+        [
+          1484.95,
+          1024.63
+        ],
+        [
+          1477.79,
+          1021.38
+        ],
+        [
+          1457.88,
+          1023.07
+        ],
+        [
+          1448.53,
+          1029.29
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          960.57,
+          468.22
+        ],
+        [
+          967.23,
+          471.01
+        ],
+        [
+          977.91,
+          467.6
+        ],
+        [
+          972.54,
+          460.23
+        ],
+        [
+          955.5,
+          465.34
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          923.28,
+          477.17
+        ],
+        [
+          929.17,
+          486.93
+        ],
+        [
+          947.45,
+          475.47
+        ],
+        [
+          940.79,
+          469.89
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          898.79,
+          466.27
+        ],
+        [
+          908.86,
+          471.38
+        ],
+        [
+          919.55,
+          466.11
+        ],
+        [
+          910.26,
+          458.06
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          903.36,
+          504.18
+        ],
+        [
+          907.55,
+          502.64
+        ],
+        [
+          907.55,
+          494.58
+        ],
+        [
+          902.28,
+          490.09
+        ],
+        [
+          895.46,
+          493.81
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          931.46,
+          457.73
+        ],
+        [
+          925.56,
+          460.93
+        ],
+        [
+          926.16,
+          463.73
+        ],
+        [
+          932.26,
+          460.73
+        ],
+        [
+          938.86,
+          455.03
+        ],
+        [
+          938.16,
+          452.53
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          860.32,
+          532.04
+        ],
+        [
+          884.79,
+          535.56
+        ],
+        [
+          883.13,
+          526.23
+        ],
+        [
+          860.32,
+          522.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          813.46,
+          545.46
+        ],
+        [
+          828.16,
+          549.56
+        ],
+        [
+          828.16,
+          545.56
+        ],
+        [
+          813.96,
+          542.36
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          775.88,
+          548.45
+        ],
+        [
+          785.58,
+          549.85
+        ],
+        [
+          779.98,
+          536.35
+        ],
+        [
+          769.08,
+          536.35
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          720.55,
+          532.34
+        ],
+        [
+          715.73,
+          539.84
+        ],
+        [
+          715.59,
+          548.14
+        ],
+        [
+          729.38,
+          552.69
+        ],
+        [
+          741.56,
+          556.17
+        ],
+        [
+          746.25,
+          548.41
+        ],
+        [
+          745.18,
+          542.25
+        ],
+        [
+          739.96,
+          535.55
+        ],
+        [
+          725.77,
+          529.13
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          740.39,
+          512.13
+        ],
+        [
+          741.86,
+          516.95
+        ],
+        [
+          757.52,
+          514.54
+        ],
+        [
+          756.97,
+          509.45
+        ],
+        [
+          754.84,
+          506.24
+        ],
+        [
+          750.02,
+          501.68
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          681.69,
+          515.82
+        ],
+        [
+          720.29,
+          510.62
+        ],
+        [
+          730.49,
+          506.92
+        ],
+        [
+          731.39,
+          502.82
+        ],
+        [
+          728.49,
+          496.82
+        ],
+        [
+          706.49,
+          498.22
+        ],
+        [
+          679.39,
+          502.72
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "3.Pipe_2",
+      "text": "",
+      "points": [
+        [
+          1589.6,
+          837.81
+        ],
+        [
+          1621.86,
+          861.23
+        ],
+        [
+          1625.8,
+          862.26
+        ],
+        [
+          1630.33,
+          853.28
+        ],
+        [
+          1616.78,
+          844.56
+        ],
+        [
+          1613.28,
+          843.46
+        ],
+        [
+          1609.88,
+          840.27
+        ],
+        [
+          1594.13,
+          829.51
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1457.3,
+          997.78
+        ],
+        [
+          1480.34,
+          1008.58
+        ],
+        [
+          1501.22,
+          996.34
+        ],
+        [
+          1504.07,
+          988.65
+        ],
+        [
+          1516.57,
+          975.72
+        ],
+        [
+          1515.59,
+          963.22
+        ],
+        [
+          1513.26,
+          932.8
+        ],
+        [
+          1498.38,
+          913.12
+        ],
+        [
+          1490.22,
+          910.73
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1431.33,
+          1007.26
+        ],
+        [
+          1448.53,
+          1029.29
+        ],
+        [
+          1457.3,
+          997.78
+        ],
+        [
+          1490.22,
+          910.73
+        ],
+        [
+          1463.77,
+          908.15
+        ],
+        [
+          1452.3,
+          937.74
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1571.04,
+          812.3
+        ],
+        [
+          1591.48,
+          806.72
+        ],
+        [
+          1606.51,
+          805.64
+        ],
+        [
+          1607.62,
+          799.86
+        ],
+        [
+          1609.02,
+          795.37
+        ],
+        [
+          1613.19,
+          781.82
+        ],
+        [
+          1617.31,
+          766.23
+        ],
+        [
+          1615.7,
+          734.33
+        ],
+        [
+          1623.98,
+          698.24
+        ],
+        [
+          1613.91,
+          692.19
+        ],
+        [
+          1601.67,
+          690.8
+        ],
+        [
+          1598.89,
+          689.25
+        ],
+        [
+          1593.77,
+          688.32
+        ],
+        [
+          1587.58,
+          684.6
+        ],
+        [
+          1586.18,
+          684.29
+        ],
+        [
+          1585.1,
+          685.38
+        ],
+        [
+          1585.1,
+          690.18
+        ],
+        [
+          1583.4,
+          695.29
+        ],
+        [
+          1578.9,
+          692.04
+        ],
+        [
+          1572.24,
+          691.42
+        ],
+        [
+          1566.67,
+          699.78
+        ],
+        [
+          1562.02,
+          700.25
+        ],
+        [
+          1557.37,
+          696.69
+        ],
+        [
+          1556.29,
+          697.15
+        ],
+        [
+          1555.21,
+          705.05
+        ],
+        [
+          1551.8,
+          710.47
+        ],
+        [
+          1550.87,
+          716.82
+        ],
+        [
+          1546.69,
+          717.6
+        ],
+        [
+          1545.45,
+          719.15
+        ],
+        [
+          1538.32,
+          720.23
+        ],
+        [
+          1541.57,
+          742.69
+        ],
+        [
+          1545.29,
+          760.04
+        ],
+        [
+          1566.05,
+          775.99
+        ],
+        [
+          1570.54,
+          781.41
+        ],
+        [
+          1574.41,
+          783.74
+        ],
+        [
+          1579.52,
+          785.44
+        ],
+        [
+          1578.9,
+          787.92
+        ],
+        [
+          1575.5,
+          791.33
+        ],
+        [
+          1574.41,
+          786.22
+        ],
+        [
+          1572.24,
+          785.6
+        ],
+        [
+          1567.91,
+          789.62
+        ],
+        [
+          1564.81,
+          795.04
+        ],
+        [
+          1555.82,
+          790.86
+        ],
+        [
+          1553.81,
+          791.48
+        ],
+        [
+          1551.43,
+          798.44
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1078.99,
+          621.71
+        ],
+        [
+          1072.97,
+          626.33
+        ],
+        [
+          1070.08,
+          630.5
+        ],
+        [
+          1072.63,
+          641.38
+        ],
+        [
+          1075.63,
+          646.12
+        ],
+        [
+          1085.82,
+          648.55
+        ],
+        [
+          1102.91,
+          651.08
+        ],
+        [
+          1116.7,
+          655.36
+        ],
+        [
+          1118.44,
+          645.07
+        ],
+        [
+          1097.56,
+          635.7
+        ],
+        [
+          1087.92,
+          632.74
+        ],
+        [
+          1084.03,
+          629.0
+        ],
+        [
+          1084.03,
+          623.91
+        ],
+        [
+          1081.88,
+          621.48
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1083.11,
+          682.5
+        ],
+        [
+          1098.04,
+          669.23
+        ],
+        [
+          1091.4,
+          664.66
+        ],
+        [
+          1063.41,
+          673.17
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1246.82,
+          716.77
+        ],
+        [
+          1257.62,
+          726.37
+        ],
+        [
+          1261.22,
+          724.69
+        ],
+        [
+          1265.3,
+          717.49
+        ],
+        [
+          1259.3,
+          717.25
+        ],
+        [
+          1266.98,
+          698.05
+        ],
+        [
+          1259.54,
+          693.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1406.42,
+          976.47
+        ],
+        [
+          1401.42,
+          946.07
+        ],
+        [
+          1387.01,
+          912.45
+        ],
+        [
+          1377.71,
+          908.26
+        ],
+        [
+          1377.88,
+          926.08
+        ],
+        [
+          1373.69,
+          936.94
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1266.98,
+          698.05
+        ],
+        [
+          1259.3,
+          717.25
+        ],
+        [
+          1271.78,
+          715.81
+        ],
+        [
+          1272.98,
+          698.29
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1431.33,
+          1007.26
+        ],
+        [
+          1452.3,
+          937.74
+        ],
+        [
+          1427.93,
+          945.26
+        ],
+        [
+          1417.16,
+          989.15
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "31.Square steel pipe",
+      "text": "",
+      "points": [
+        [
+          1296.35,
+          841.47
+        ],
+        [
+          1331.46,
+          822.95
+        ],
+        [
+          1385.94,
+          796.16
+        ],
+        [
+          1394.19,
+          807.81
+        ],
+        [
+          1415.33,
+          794.01
+        ],
+        [
+          1415.94,
+          789.59
+        ],
+        [
+          1404.5,
+          781.62
+        ],
+        [
+          1387.1,
+          779.65
+        ],
+        [
+          1311.98,
+          822.93
+        ],
+        [
+          1303.93,
+          832.94
+        ],
+        [
+          1290.99,
+          835.93
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "55.Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          846.81,
+          497.56
+        ],
+        [
+          845.61,
+          504.28
+        ],
+        [
+          846.1,
+          515.4
+        ],
+        [
+          853.66,
+          533.02
+        ],
+        [
+          847.95,
+          531.64
+        ],
+        [
+          838.7,
+          537.76
+        ],
+        [
+          836.15,
+          541.35
+        ],
+        [
+          836.85,
+          552.23
+        ],
+        [
+          841.27,
+          573.19
+        ],
+        [
+          847.48,
+          584.81
+        ],
+        [
+          855.57,
+          593.3
+        ],
+        [
+          865.53,
+          598.9
+        ],
+        [
+          872.58,
+          602.01
+        ],
+        [
+          876.85,
+          610.86
+        ],
+        [
+          882.36,
+          601.5
+        ],
+        [
+          898.19,
+          586.62
+        ],
+        [
+          925.64,
+          569.84
+        ],
+        [
+          931.46,
+          566.23
+        ],
+        [
+          930.07,
+          556.52
+        ],
+        [
+          933.96,
+          539.02
+        ],
+        [
+          936.73,
+          526.26
+        ],
+        [
+          961.82,
+          520.23
+        ],
+        [
+          964.45,
+          519.02
+        ],
+        [
+          970.87,
+          516.54
+        ],
+        [
+          969.44,
+          513.49
+        ],
+        [
+          969.26,
+          504.71
+        ],
+        [
+          969.8,
+          496.47
+        ],
+        [
+          972.31,
+          489.65
+        ],
+        [
+          976.61,
+          485.72
+        ],
+        [
+          981.45,
+          482.13
+        ],
+        [
+          987.84,
+          481.37
+        ],
+        [
+          983.83,
+          460.13
+        ],
+        [
+          972.55,
+          446.93
+        ],
+        [
+          967.03,
+          443.57
+        ],
+        [
+          955.28,
+          442.13
+        ],
+        [
+          946.4,
+          441.89
+        ],
+        [
+          937.28,
+          439.74
+        ],
+        [
+          933.2,
+          442.37
+        ],
+        [
+          929.6,
+          447.17
+        ],
+        [
+          928.4,
+          452.45
+        ],
+        [
+          921.69,
+          454.13
+        ],
+        [
+          916.89,
+          455.57
+        ],
+        [
+          910.26,
+          458.06
+        ],
+        [
+          898.79,
+          466.27
+        ],
+        [
+          896.64,
+          469.02
+        ],
+        [
+          892.64,
+          471.02
+        ],
+        [
+          892.66,
+          467.81
+        ],
+        [
+          890.26,
+          468.77
+        ],
+        [
+          887.38,
+          475.0
+        ],
+        [
+          888.1,
+          484.12
+        ],
+        [
+          881.62,
+          479.56
+        ],
+        [
+          880.9,
+          481.96
+        ],
+        [
+          886.18,
+          488.2
+        ],
+        [
+          875.62,
+          490.36
+        ],
+        [
+          876.34,
+          493.48
+        ],
+        [
+          878.5,
+          497.56
+        ],
+        [
+          880.66,
+          501.64
+        ],
+        [
+          878.19,
+          503.0
+        ],
+        [
+          877.88,
+          505.95
+        ],
+        [
+          881.91,
+          506.72
+        ],
+        [
+          881.91,
+          509.96
+        ],
+        [
+          881.28,
+          512.46
+        ],
+        [
+          879.27,
+          513.08
+        ],
+        [
+          866.1,
+          511.69
+        ],
+        [
+          861.15,
+          509.19
+        ],
+        [
+          859.76,
+          510.9
+        ],
+        [
+          858.37,
+          520.66
+        ],
+        [
+          856.67,
+          530.57
+        ],
+        [
+          854.03,
+          526.08
+        ],
+        [
+          850.62,
+          518.33
+        ],
+        [
+          848.61,
+          510.27
+        ],
+        [
+          849.06,
+          499.91
+        ],
+        [
+          855.42,
+          484.89
+        ],
+        [
+          851.37,
+          484.12
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "79. Unknown-Panel",
+      "text": "",
+      "points": [
+        [
+          1625.8,
+          862.26
+        ],
+        [
+          1621.86,
+          861.23
+        ],
+        [
+          1594.4,
+          868.34
+        ],
+        [
+          1565.01,
+          878.14
+        ],
+        [
+          1533.83,
+          895.43
+        ],
+        [
+          1539.66,
+          922.81
+        ],
+        [
+          1550.63,
+          947.71
+        ],
+        [
+          1589.44,
+          924.97
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "41.Coiled reinforcing bar",
+      "text": "",
+      "points": [
+        [
+          1207.82,
+          730.29
+        ],
+        [
+          1238.36,
+          768.32
+        ],
+        [
+          1267.76,
+          769.49
+        ],
+        [
+          1305.23,
+          773.65
+        ],
+        [
+          1334.1,
+          780.04
+        ],
+        [
+          1311.98,
+          822.93
+        ],
+        [
+          1387.1,
+          779.65
+        ],
+        [
+          1404.5,
+          781.62
+        ],
+        [
+          1415.94,
+          789.59
+        ],
+        [
+          1442.7,
+          782.98
+        ],
+        [
+          1464.21,
+          782.65
+        ],
+        [
+          1482.39,
+          790.7
+        ],
+        [
+          1491.42,
+          797.58
+        ],
+        [
+          1464.77,
+          834.56
+        ],
+        [
+          1431.65,
+          856.49
+        ],
+        [
+          1411.02,
+          861.21
+        ],
+        [
+          1374.02,
+          850.46
+        ],
+        [
+          1331.46,
+          822.95
+        ],
+        [
+          1296.35,
+          841.47
+        ],
+        [
+          1302.26,
+          848.44
+        ],
+        [
+          1306.01,
+          847.55
+        ],
+        [
+          1316.06,
+          855.99
+        ],
+        [
+          1314.45,
+          842.52
+        ],
+        [
+          1332.71,
+          845.41
+        ],
+        [
+          1338.77,
+          888.8
+        ],
+        [
+          1335.43,
+          890.27
+        ],
+        [
+          1373.69,
+          936.94
+        ],
+        [
+          1377.88,
+          926.08
+        ],
+        [
+          1377.71,
+          908.26
+        ],
+        [
+          1387.01,
+          912.45
+        ],
+        [
+          1401.42,
+          946.07
+        ],
+        [
+          1406.42,
+          976.47
+        ],
+        [
+          1417.16,
+          989.15
+        ],
+        [
+          1427.93,
+          945.26
+        ],
+        [
+          1452.3,
+          937.74
+        ],
+        [
+          1463.77,
+          908.15
+        ],
+        [
+          1490.22,
+          910.73
+        ],
+        [
+          1498.38,
+          913.12
+        ],
+        [
+          1513.26,
+          932.8
+        ],
+        [
+          1515.59,
+          963.22
+        ],
+        [
+          1516.57,
+          975.72
+        ],
+        [
+          1504.07,
+          988.65
+        ],
+        [
+          1501.22,
+          996.34
+        ],
+        [
+          1480.34,
+          1008.58
+        ],
+        [
+          1457.3,
+          997.78
+        ],
+        [
+          1448.53,
+          1029.29
+        ],
+        [
+          1457.88,
+          1023.07
+        ],
+        [
+          1477.79,
+          1021.38
+        ],
+        [
+          1484.95,
+          1024.63
+        ],
+        [
+          1490.53,
+          1036.82
+        ],
+        [
+          1506.46,
+          1042.92
+        ],
+        [
+          1589.44,
+          924.97
+        ],
+        [
+          1550.63,
+          947.71
+        ],
+        [
+          1539.66,
+          922.81
+        ],
+        [
+          1533.83,
+          895.43
+        ],
+        [
+          1565.01,
+          878.14
+        ],
+        [
+          1594.4,
+          868.34
+        ],
+        [
+          1621.86,
+          861.23
+        ],
+        [
+          1589.6,
+          837.81
+        ],
+        [
+          1594.13,
+          829.51
+        ],
+        [
+          1597.46,
+          824.59
+        ],
+        [
+          1595.88,
+          823.59
+        ],
+        [
+          1591.96,
+          828.78
+        ],
+        [
+          1586.47,
+          837.28
+        ],
+        [
+          1518.82,
+          788.81
+        ],
+        [
+          1528.25,
+          778.59
+        ],
+        [
+          1524.53,
+          776.98
+        ],
+        [
+          1519.18,
+          779.68
+        ],
+        [
+          1496.97,
+          768.43
+        ],
+        [
+          1482.09,
+          761.77
+        ],
+        [
+          1478.7,
+          752.94
+        ],
+        [
+          1486.45,
+          747.67
+        ],
+        [
+          1490.78,
+          745.98
+        ],
+        [
+          1490.0,
+          744.73
+        ],
+        [
+          1477.45,
+          748.75
+        ],
+        [
+          1472.32,
+          729.15
+        ],
+        [
+          1478.42,
+          711.47
+        ],
+        [
+          1519.9,
+          712.9
+        ],
+        [
+          1544.6,
+          712.78
+        ],
+        [
+          1542.99,
+          707.95
+        ],
+        [
+          1502.85,
+          708.25
+        ],
+        [
+          1498.91,
+          678.16
+        ],
+        [
+          1495.52,
+          675.27
+        ],
+        [
+          1486.31,
+          666.17
+        ],
+        [
+          1495.0,
+          665.25
+        ],
+        [
+          1494.05,
+          663.39
+        ],
+        [
+          1484.0,
+          664.0
+        ],
+        [
+          1480.28,
+          653.79
+        ],
+        [
+          1476.76,
+          647.12
+        ],
+        [
+          1471.79,
+          640.43
+        ],
+        [
+          1483.56,
+          633.88
+        ],
+        [
+          1481.98,
+          631.33
+        ],
+        [
+          1469.93,
+          636.44
+        ],
+        [
+          1458.35,
+          623.2
+        ],
+        [
+          1434.31,
+          605.15
+        ],
+        [
+          1408.39,
+          586.5
+        ],
+        [
+          1405.06,
+          588.36
+        ],
+        [
+          1414.61,
+          596.85
+        ],
+        [
+          1412.11,
+          601.02
+        ],
+        [
+          1410.47,
+          605.76
+        ],
+        [
+          1404.45,
+          608.48
+        ],
+        [
+          1397.14,
+          611.54
+        ],
+        [
+          1386.62,
+          613.04
+        ],
+        [
+          1382.46,
+          617.31
+        ],
+        [
+          1374.71,
+          620.09
+        ],
+        [
+          1373.66,
+          613.45
+        ],
+        [
+          1320.58,
+          622.78
+        ],
+        [
+          1317.25,
+          618.62
+        ],
+        [
+          1314.25,
+          614.12
+        ],
+        [
+          1311.37,
+          613.81
+        ],
+        [
+          1317.97,
+          602.9
+        ],
+        [
+          1317.36,
+          602.82
+        ],
+        [
+          1307.95,
+          613.51
+        ],
+        [
+          1305.26,
+          617.81
+        ],
+        [
+          1303.87,
+          613.42
+        ],
+        [
+          1300.96,
+          610.93
+        ],
+        [
+          1305.07,
+          605.4
+        ],
+        [
+          1303.65,
+          596.6
+        ],
+        [
+          1297.46,
+          589.33
+        ],
+        [
+          1311.67,
+          574.23
+        ],
+        [
+          1309.06,
+          571.17
+        ],
+        [
+          1288.71,
+          592.19
+        ],
+        [
+          1278.94,
+          600.24
+        ],
+        [
+          1272.78,
+          598.29
+        ],
+        [
+          1240.63,
+          605.37
+        ],
+        [
+          1252.68,
+          584.8
+        ],
+        [
+          1277.39,
+          579.81
+        ],
+        [
+          1277.39,
+          574.81
+        ],
+        [
+          1276.0,
+          566.76
+        ],
+        [
+          1266.28,
+          567.32
+        ],
+        [
+          1258.23,
+          572.59
+        ],
+        [
+          1233.08,
+          584.47
+        ],
+        [
+          1215.46,
+          586.61
+        ],
+        [
+          1190.95,
+          565.54
+        ],
+        [
+          1144.56,
+          565.93
+        ],
+        [
+          1134.43,
+          570.09
+        ],
+        [
+          1133.7,
+          571.73
+        ],
+        [
+          1146.09,
+          582.64
+        ],
+        [
+          1167.21,
+          602.93
+        ],
+        [
+          1182.2,
+          620.42
+        ],
+        [
+          1193.94,
+          620.89
+        ],
+        [
+          1200.44,
+          631.44
+        ],
+        [
+          1206.43,
+          653.54
+        ],
+        [
+          1207.46,
+          693.84
+        ],
+        [
+          1206.82,
+          714.39
+        ],
+        [
+          1202.27,
+          724.19
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "41.Coiled reinforcing bar",
+      "text": "",
+      "points": [
+        [
+          1681.12,
+          741.1
+        ],
+        [
+          1669.82,
+          751.6
+        ],
+        [
+          1661.78,
+          758.06
+        ],
+        [
+          1658.66,
+          766.27
+        ],
+        [
+          1658.08,
+          771.36
+        ],
+        [
+          1661.78,
+          775.3
+        ],
+        [
+          1667.68,
+          778.77
+        ],
+        [
+          1669.42,
+          776.69
+        ],
+        [
+          1664.33,
+          773.91
+        ],
+        [
+          1661.44,
+          770.56
+        ],
+        [
+          1661.9,
+          764.65
+        ],
+        [
+          1665.49,
+          757.71
+        ],
+        [
+          1676.59,
+          748.92
+        ],
+        [
+          1684.32,
+          742.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "41.Coiled reinforcing bar",
+      "text": "",
+      "points": [
+        [
+          1633.49,
+          797.54
+        ],
+        [
+          1613.82,
+          793.98
+        ],
+        [
+          1609.02,
+          795.37
+        ],
+        [
+          1607.62,
+          799.86
+        ],
+        [
+          1611.96,
+          799.55
+        ],
+        [
+          1630.55,
+          801.1
+        ],
+        [
+          1633.18,
+          804.51
+        ],
+        [
+          1612.73,
+          805.13
+        ],
+        [
+          1606.51,
+          805.64
+        ],
+        [
+          1591.48,
+          806.72
+        ],
+        [
+          1571.04,
+          812.3
+        ],
+        [
+          1576.3,
+          817.26
+        ],
+        [
+          1605.42,
+          811.68
+        ],
+        [
+          1613.32,
+          811.06
+        ],
+        [
+          1632.37,
+          810.91
+        ],
+        [
+          1649.3,
+          810.36
+        ],
+        [
+          1639.2,
+          817.16
+        ],
+        [
+          1631.6,
+          820.56
+        ],
+        [
+          1623.68,
+          827.76
+        ],
+        [
+          1618.28,
+          835.97
+        ],
+        [
+          1613.28,
+          843.46
+        ],
+        [
+          1616.78,
+          844.56
+        ],
+        [
+          1618.79,
+          839.36
+        ],
+        [
+          1624.49,
+          831.66
+        ],
+        [
+          1632.78,
+          824.77
+        ],
+        [
+          1640.68,
+          821.56
+        ],
+        [
+          1649.49,
+          818.96
+        ],
+        [
+          1655.95,
+          802.65
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "80. Unknown-Square Pipe",
+      "text": "",
+      "points": [
+        [
+          1364.28,
+          677.7
+        ],
+        [
+          1378.74,
+          679.2
+        ],
+        [
+          1375.85,
+          657.22
+        ],
+        [
+          1360.92,
+          655.48
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "85. Unknown-Sorting Scrap Metal",
+      "text": "",
+      "points": [
+        [
+          1264.33,
+          688.65
+        ],
+        [
+          1263.61,
+          694.74
+        ],
+        [
+          1270.06,
+          697.97
+        ],
+        [
+          1273.29,
+          684.53
+        ],
+        [
+          1267.55,
+          680.76
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "mask": null,
+      "score": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {},
+      "kie_linking": [],
+      "label": "80. Unknown-Square Pipe",
+      "text": "",
+      "points": [
+        [
+          1373.05,
+          698.19
+        ],
+        [
+          1368.25,
+          704.69
+        ],
+        [
+          1370.56,
+          715.63
+        ],
+        [
+          1376.56,
+          722.63
+        ],
+        [
+          1381.06,
+          723.43
+        ],
+        [
+          1386.36,
+          722.83
+        ],
+        [
+          1389.86,
+          721.43
+        ],
+        [
+          1390.66,
+          717.03
+        ],
+        [
+          1388.36,
+          709.13
+        ],
+        [
+          1383.36,
+          702.53
+        ],
+        [
+          1376.95,
+          697.39
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1752820010.jpg",
+  "imageData": null,
+  "imageHeight": 1260,
+  "imageWidth": 1744,
+  "text": "",
+  "description": ""
+}

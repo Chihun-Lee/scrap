@@ -1,0 +1,2936 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "text": "",
+      "mask": null,
+      "label": "74. Handler",
+      "score": null,
+      "points": [
+        [
+          531.71,
+          12.42
+        ],
+        [
+          519.8,
+          15.65
+        ],
+        [
+          489.6,
+          0.0
+        ],
+        [
+          418.54,
+          0.0
+        ],
+        [
+          393.9,
+          20.46
+        ],
+        [
+          383.32,
+          44.84
+        ],
+        [
+          388.14,
+          71.85
+        ],
+        [
+          411.14,
+          99.32
+        ],
+        [
+          385.86,
+          111.23
+        ],
+        [
+          365.87,
+          129.29
+        ],
+        [
+          347.55,
+          157.03
+        ],
+        [
+          337.27,
+          186.18
+        ],
+        [
+          340.07,
+          203.68
+        ],
+        [
+          358.94,
+          244.49
+        ],
+        [
+          367.85,
+          250.89
+        ],
+        [
+          372.83,
+          238.38
+        ],
+        [
+          381.43,
+          223.93
+        ],
+        [
+          398.63,
+          210.09
+        ],
+        [
+          427.23,
+          192.29
+        ],
+        [
+          440.51,
+          158.62
+        ],
+        [
+          495.68,
+          135.01
+        ],
+        [
+          525.52,
+          132.9
+        ],
+        [
+          528.23,
+          138.71
+        ],
+        [
+          519.8,
+          175.04
+        ],
+        [
+          514.81,
+          208.11
+        ],
+        [
+          482.95,
+          221.35
+        ],
+        [
+          478.22,
+          228.58
+        ],
+        [
+          480.76,
+          268.56
+        ],
+        [
+          490.99,
+          304.64
+        ],
+        [
+          504.32,
+          332.67
+        ],
+        [
+          524.62,
+          356.54
+        ],
+        [
+          532.92,
+          357.4
+        ],
+        [
+          550.16,
+          335.47
+        ],
+        [
+          577.89,
+          298.23
+        ],
+        [
+          600.68,
+          249.13
+        ],
+        [
+          596.77,
+          239.97
+        ],
+        [
+          574.58,
+          214.13
+        ],
+        [
+          584.0,
+          165.28
+        ],
+        [
+          605.37,
+          164.72
+        ],
+        [
+          618.44,
+          155.82
+        ],
+        [
+          628.97,
+          168.59
+        ],
+        [
+          671.71,
+          193.58
+        ],
+        [
+          671.71,
+          228.83
+        ],
+        [
+          693.08,
+          253.3
+        ],
+        [
+          718.93,
+          278.28
+        ],
+        [
+          739.18,
+          307.69
+        ],
+        [
+          746.96,
+          307.13
+        ],
+        [
+          769.71,
+          274.67
+        ],
+        [
+          773.62,
+          252.44
+        ],
+        [
+          770.27,
+          229.13
+        ],
+        [
+          758.91,
+          178.87
+        ],
+        [
+          750.83,
+          170.01
+        ],
+        [
+          737.8,
+          167.78
+        ],
+        [
+          726.49,
+          153.67
+        ],
+        [
+          695.79,
+          128.48
+        ],
+        [
+          668.45,
+          110.24
+        ],
+        [
+          716.43,
+          98.33
+        ],
+        [
+          672.4,
+          37.62
+        ],
+        [
+          647.87,
+          0.0
+        ],
+        [
+          536.82,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          477.16,
+          709.59
+        ],
+        [
+          498.58,
+          708.65
+        ],
+        [
+          521.34,
+          702.76
+        ],
+        [
+          534.34,
+          703.16
+        ],
+        [
+          545.54,
+          707.17
+        ],
+        [
+          565.06,
+          709.49
+        ],
+        [
+          666.06,
+          736.14
+        ],
+        [
+          683.57,
+          727.62
+        ],
+        [
+          654.29,
+          718.64
+        ],
+        [
+          593.26,
+          702.37
+        ],
+        [
+          538.89,
+          687.34
+        ],
+        [
+          528.82,
+          687.19
+        ],
+        [
+          519.68,
+          694.01
+        ],
+        [
+          480.52,
+          700.89
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          769.66,
+          1161.31
+        ],
+        [
+          918.66,
+          1113.78
+        ],
+        [
+          944.05,
+          1102.07
+        ],
+        [
+          936.46,
+          1098.38
+        ],
+        [
+          934.29,
+          1090.35
+        ],
+        [
+          935.59,
+          1079.72
+        ],
+        [
+          944.27,
+          1072.78
+        ],
+        [
+          953.6,
+          1071.47
+        ],
+        [
+          962.06,
+          1086.88
+        ],
+        [
+          962.71,
+          1099.46
+        ],
+        [
+          1040.17,
+          1075.16
+        ],
+        [
+          1039.12,
+          1029.37
+        ],
+        [
+          817.57,
+          1097.43
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          673.74,
+          459.23
+        ],
+        [
+          524.39,
+          511.25
+        ],
+        [
+          465.26,
+          532.49
+        ],
+        [
+          441.42,
+          537.65
+        ],
+        [
+          384.81,
+          561.91
+        ],
+        [
+          475.1,
+          544.46
+        ],
+        [
+          707.98,
+          500.02
+        ],
+        [
+          711.93,
+          504.14
+        ],
+        [
+          712.48,
+          515.21
+        ],
+        [
+          685.84,
+          519.88
+        ],
+        [
+          686.97,
+          525.0
+        ],
+        [
+          709.01,
+          521.27
+        ],
+        [
+          712.25,
+          528.08
+        ],
+        [
+          711.12,
+          538.94
+        ],
+        [
+          689.08,
+          541.53
+        ],
+        [
+          694.29,
+          568.66
+        ],
+        [
+          701.41,
+          600.35
+        ],
+        [
+          704.6,
+          611.3
+        ],
+        [
+          739.38,
+          646.64
+        ],
+        [
+          825.04,
+          625.15
+        ],
+        [
+          822.54,
+          621.2
+        ],
+        [
+          831.76,
+          617.09
+        ],
+        [
+          847.2,
+          644.9
+        ],
+        [
+          859.15,
+          638.47
+        ],
+        [
+          868.32,
+          633.9
+        ],
+        [
+          867.01,
+          629.19
+        ],
+        [
+          685.07,
+          441.29
+        ],
+        [
+          671.88,
+          441.35
+        ],
+        [
+          672.72,
+          450.05
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          1155.73,
+          960.96
+        ],
+        [
+          1159.42,
+          964.64
+        ],
+        [
+          1173.71,
+          972.94
+        ],
+        [
+          1170.94,
+          951.74
+        ],
+        [
+          1152.51,
+          927.31
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          391.02,
+          691.0
+        ],
+        [
+          458.05,
+          669.66
+        ],
+        [
+          501.24,
+          662.33
+        ],
+        [
+          501.71,
+          657.31
+        ],
+        [
+          509.3,
+          662.1
+        ],
+        [
+          537.53,
+          654.69
+        ],
+        [
+          557.28,
+          649.78
+        ],
+        [
+          571.85,
+          646.84
+        ],
+        [
+          595.73,
+          643.05
+        ],
+        [
+          610.47,
+          648.88
+        ],
+        [
+          624.4,
+          657.96
+        ],
+        [
+          628.47,
+          650.98
+        ],
+        [
+          624.58,
+          642.07
+        ],
+        [
+          596.21,
+          633.81
+        ],
+        [
+          586.49,
+          633.16
+        ],
+        [
+          555.77,
+          637.06
+        ],
+        [
+          540.05,
+          642.73
+        ],
+        [
+          525.49,
+          646.19
+        ],
+        [
+          494.26,
+          651.14
+        ],
+        [
+          452.76,
+          657.79
+        ],
+        [
+          413.72,
+          671.57
+        ],
+        [
+          382.99,
+          679.71
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          557.28,
+          649.78
+        ],
+        [
+          620.19,
+          675.56
+        ],
+        [
+          679.43,
+          707.22
+        ],
+        [
+          704.79,
+          716.88
+        ],
+        [
+          720.86,
+          709.43
+        ],
+        [
+          670.99,
+          689.12
+        ],
+        [
+          627.84,
+          669.51
+        ],
+        [
+          571.85,
+          646.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          414.29,
+          726.42
+        ],
+        [
+          436.08,
+          720.83
+        ],
+        [
+          433.13,
+          716.95
+        ],
+        [
+          433.13,
+          709.05
+        ],
+        [
+          448.25,
+          707.45
+        ],
+        [
+          463.39,
+          704.1
+        ],
+        [
+          470.54,
+          687.94
+        ],
+        [
+          455.27,
+          685.72
+        ],
+        [
+          424.73,
+          679.89
+        ],
+        [
+          391.02,
+          691.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          458.05,
+          669.66
+        ],
+        [
+          448.0,
+          672.9
+        ],
+        [
+          472.76,
+          677.67
+        ],
+        [
+          479.97,
+          678.22
+        ],
+        [
+          485.25,
+          686.27
+        ],
+        [
+          480.52,
+          700.89
+        ],
+        [
+          512.89,
+          695.39
+        ],
+        [
+          497.62,
+          685.44
+        ],
+        [
+          488.94,
+          677.57
+        ],
+        [
+          489.29,
+          672.37
+        ],
+        [
+          496.46,
+          670.4
+        ],
+        [
+          499.59,
+          668.2
+        ],
+        [
+          501.24,
+          662.33
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          705.4,
+          656.7
+        ],
+        [
+          699.66,
+          627.27
+        ],
+        [
+          690.17,
+          618.15
+        ],
+        [
+          685.01,
+          575.39
+        ],
+        [
+          679.33,
+          559.53
+        ],
+        [
+          676.75,
+          543.16
+        ],
+        [
+          441.23,
+          587.07
+        ],
+        [
+          555.77,
+          637.06
+        ],
+        [
+          586.49,
+          633.16
+        ],
+        [
+          596.21,
+          633.81
+        ],
+        [
+          624.58,
+          642.07
+        ],
+        [
+          628.47,
+          650.98
+        ],
+        [
+          624.4,
+          657.96
+        ],
+        [
+          610.47,
+          648.88
+        ],
+        [
+          595.73,
+          643.05
+        ],
+        [
+          571.85,
+          646.84
+        ],
+        [
+          627.84,
+          669.51
+        ],
+        [
+          634.7,
+          672.3
+        ],
+        [
+          671.0,
+          664.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          532.68,
+          682.09
+        ],
+        [
+          537.07,
+          687.18
+        ],
+        [
+          538.89,
+          687.34
+        ],
+        [
+          557.3,
+          692.2
+        ],
+        [
+          604.79,
+          680.52
+        ],
+        [
+          537.53,
+          654.69
+        ],
+        [
+          509.3,
+          662.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          712.69,
+          648.56
+        ],
+        [
+          715.0,
+          652.5
+        ],
+        [
+          723.7,
+          650.7
+        ],
+        [
+          711.29,
+          638.48
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          773.8,
+          682.49
+        ],
+        [
+          847.2,
+          644.5
+        ],
+        [
+          831.76,
+          617.09
+        ],
+        [
+          822.54,
+          621.2
+        ],
+        [
+          825.04,
+          625.15
+        ],
+        [
+          739.38,
+          646.64
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          719.27,
+          684.85
+        ],
+        [
+          707.09,
+          664.95
+        ],
+        [
+          705.4,
+          656.7
+        ],
+        [
+          671.0,
+          664.0
+        ],
+        [
+          634.7,
+          672.3
+        ],
+        [
+          670.99,
+          689.12
+        ],
+        [
+          720.86,
+          709.43
+        ],
+        [
+          735.24,
+          702.5
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          574.03,
+          719.18
+        ],
+        [
+          596.64,
+          739.47
+        ],
+        [
+          616.47,
+          760.85
+        ],
+        [
+          666.06,
+          736.14
+        ],
+        [
+          565.06,
+          709.49
+        ],
+        [
+          560.24,
+          709.11
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          593.26,
+          702.37
+        ],
+        [
+          654.29,
+          718.64
+        ],
+        [
+          683.57,
+          727.62
+        ],
+        [
+          686.02,
+          726.41
+        ],
+        [
+          607.15,
+          681.44
+        ],
+        [
+          604.79,
+          680.52
+        ],
+        [
+          557.3,
+          692.2
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          431.68,
+          744.06
+        ],
+        [
+          512.11,
+          811.67
+        ],
+        [
+          593.39,
+          772.31
+        ],
+        [
+          569.54,
+          746.75
+        ],
+        [
+          561.95,
+          743.19
+        ],
+        [
+          557.92,
+          736.53
+        ],
+        [
+          521.34,
+          702.76
+        ],
+        [
+          498.58,
+          708.65
+        ],
+        [
+          477.16,
+          709.59
+        ],
+        [
+          467.76,
+          739.85
+        ],
+        [
+          458.04,
+          740.13
+        ],
+        [
+          450.27,
+          734.58
+        ],
+        [
+          458.03,
+          716.15
+        ],
+        [
+          436.08,
+          720.83
+        ],
+        [
+          414.29,
+          726.42
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          754.68,
+          681.16
+        ],
+        [
+          723.7,
+          650.7
+        ],
+        [
+          715.0,
+          652.5
+        ],
+        [
+          721.23,
+          662.29
+        ],
+        [
+          748.69,
+          695.63
+        ],
+        [
+          756.37,
+          690.74
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          681.66,
+          1188.84
+        ],
+        [
+          757.45,
+          1164.18
+        ],
+        [
+          753.83,
+          1160.75
+        ],
+        [
+          756.35,
+          1150.39
+        ],
+        [
+          787.17,
+          1113.54
+        ],
+        [
+          779.35,
+          1109.12
+        ],
+        [
+          666.64,
+          1144.27
+        ],
+        [
+          648.05,
+          1133.23
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          756.35,
+          1150.39
+        ],
+        [
+          753.83,
+          1160.75
+        ],
+        [
+          762.24,
+          1169.3
+        ],
+        [
+          769.66,
+          1161.31
+        ],
+        [
+          817.57,
+          1097.43
+        ],
+        [
+          802.38,
+          1101.68
+        ],
+        [
+          790.07,
+          1114.98
+        ],
+        [
+          787.17,
+          1113.54
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          461.54,
+          238.5
+        ],
+        [
+          454.75,
+          236.55
+        ],
+        [
+          423.63,
+          237.77
+        ],
+        [
+          421.22,
+          247.21
+        ],
+        [
+          426.3,
+          251.32
+        ],
+        [
+          431.64,
+          249.64
+        ],
+        [
+          445.31,
+          249.64
+        ],
+        [
+          446.39,
+          255.69
+        ],
+        [
+          453.79,
+          260.29
+        ],
+        [
+          471.95,
+          253.62
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          319.69,
+          593.84
+        ],
+        [
+          390.53,
+          579.36
+        ],
+        [
+          387.87,
+          578.04
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          410.06,
+          590.64
+        ],
+        [
+          540.05,
+          642.73
+        ],
+        [
+          415.7,
+          589.99
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          414.85,
+          575.22
+        ],
+        [
+          677.45,
+          527.01
+        ],
+        [
+          676.34,
+          521.08
+        ],
+        [
+          546.88,
+          545.62
+        ],
+        [
+          409.92,
+          572.87
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          700.46,
+          718.28
+        ],
+        [
+          704.79,
+          716.88
+        ],
+        [
+          679.43,
+          707.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          863.12,
+          606.66
+        ],
+        [
+          867.01,
+          629.19
+        ],
+        [
+          868.32,
+          633.9
+        ],
+        [
+          879.98,
+          627.57
+        ],
+        [
+          878.03,
+          607.47
+        ],
+        [
+          874.3,
+          604.39
+        ],
+        [
+          873.98,
+          590.45
+        ],
+        [
+          865.06,
+          593.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          382.99,
+          679.71
+        ],
+        [
+          413.72,
+          671.57
+        ],
+        [
+          452.76,
+          657.79
+        ],
+        [
+          494.26,
+          651.14
+        ],
+        [
+          525.49,
+          646.19
+        ],
+        [
+          383.37,
+          594.55
+        ],
+        [
+          331.95,
+          607.13
+        ],
+        [
+          319.69,
+          593.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          485.38,
+          821.26
+        ],
+        [
+          491.19,
+          818.93
+        ],
+        [
+          472.69,
+          804.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          567.11,
+          313.41
+        ],
+        [
+          671.18,
+          434.83
+        ],
+        [
+          671.88,
+          441.35
+        ],
+        [
+          692.7,
+          441.6
+        ],
+        [
+          694.78,
+          439.52
+        ],
+        [
+          631.18,
+          365.07
+        ],
+        [
+          610.92,
+          345.36
+        ],
+        [
+          589.26,
+          330.64
+        ],
+        [
+          580.66,
+          324.26
+        ],
+        [
+          570.11,
+          307.6
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          308.08,
+          577.86
+        ],
+        [
+          384.81,
+          561.91
+        ],
+        [
+          441.42,
+          537.65
+        ],
+        [
+          465.26,
+          532.49
+        ],
+        [
+          524.39,
+          511.25
+        ],
+        [
+          673.74,
+          459.23
+        ],
+        [
+          671.18,
+          434.83
+        ],
+        [
+          567.11,
+          313.41
+        ],
+        [
+          550.16,
+          335.47
+        ],
+        [
+          532.92,
+          357.4
+        ],
+        [
+          524.62,
+          356.54
+        ],
+        [
+          504.32,
+          332.67
+        ],
+        [
+          490.99,
+          304.64
+        ],
+        [
+          480.76,
+          268.56
+        ],
+        [
+          479.64,
+          250.81
+        ],
+        [
+          311.33,
+          311.6
+        ],
+        [
+          161.46,
+          369.95
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          534.53,
+          853.96
+        ],
+        [
+          491.19,
+          818.93
+        ],
+        [
+          485.38,
+          821.26
+        ],
+        [
+          569.33,
+          933.09
+        ],
+        [
+          589.66,
+          993.22
+        ],
+        [
+          637.59,
+          1024.3
+        ],
+        [
+          659.09,
+          1064.38
+        ],
+        [
+          1029.16,
+          936.57
+        ],
+        [
+          1001.56,
+          779.43
+        ],
+        [
+          977.74,
+          643.77
+        ],
+        [
+          938.53,
+          591.78
+        ],
+        [
+          929.81,
+          595.84
+        ],
+        [
+          932.43,
+          600.78
+        ],
+        [
+          773.8,
+          682.49
+        ],
+        [
+          756.37,
+          690.74
+        ],
+        [
+          748.69,
+          695.63
+        ],
+        [
+          735.24,
+          702.5
+        ],
+        [
+          720.86,
+          709.43
+        ],
+        [
+          704.79,
+          716.88
+        ],
+        [
+          700.46,
+          718.28
+        ],
+        [
+          694.28,
+          724.17
+        ],
+        [
+          689.81,
+          723.19
+        ],
+        [
+          686.02,
+          726.41
+        ],
+        [
+          512.11,
+          811.67
+        ],
+        [
+          653.5,
+          931.6
+        ],
+        [
+          631.32,
+          940.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          647.27,
+          954.36
+        ],
+        [
+          662.87,
+          968.92
+        ],
+        [
+          675.39,
+          962.39
+        ],
+        [
+          677.65,
+          953.1
+        ],
+        [
+          670.12,
+          945.82
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          472.69,
+          804.22
+        ],
+        [
+          534.53,
+          853.96
+        ],
+        [
+          631.32,
+          940.0
+        ],
+        [
+          653.5,
+          931.6
+        ],
+        [
+          431.68,
+          744.06
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          707.09,
+          664.95
+        ],
+        [
+          719.27,
+          684.85
+        ],
+        [
+          735.24,
+          702.5
+        ],
+        [
+          748.69,
+          695.63
+        ],
+        [
+          721.23,
+          662.29
+        ],
+        [
+          712.69,
+          648.56
+        ],
+        [
+          711.29,
+          638.48
+        ],
+        [
+          699.66,
+          627.27
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          689.08,
+          541.53
+        ],
+        [
+          711.12,
+          538.94
+        ],
+        [
+          712.25,
+          528.08
+        ],
+        [
+          709.01,
+          521.27
+        ],
+        [
+          686.97,
+          525.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          441.23,
+          587.07
+        ],
+        [
+          676.75,
+          543.16
+        ],
+        [
+          679.33,
+          559.53
+        ],
+        [
+          685.01,
+          575.39
+        ],
+        [
+          682.82,
+          557.04
+        ],
+        [
+          677.45,
+          527.01
+        ],
+        [
+          414.85,
+          575.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          331.95,
+          607.13
+        ],
+        [
+          383.37,
+          594.55
+        ],
+        [
+          525.49,
+          646.19
+        ],
+        [
+          540.05,
+          642.73
+        ],
+        [
+          410.06,
+          590.64
+        ],
+        [
+          415.7,
+          589.99
+        ],
+        [
+          390.53,
+          579.36
+        ],
+        [
+          319.69,
+          593.84
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          319.69,
+          593.84
+        ],
+        [
+          387.87,
+          578.04
+        ],
+        [
+          540.05,
+          642.73
+        ],
+        [
+          555.77,
+          637.06
+        ],
+        [
+          409.92,
+          572.87
+        ],
+        [
+          546.88,
+          545.62
+        ],
+        [
+          676.34,
+          521.08
+        ],
+        [
+          682.82,
+          557.04
+        ],
+        [
+          690.17,
+          618.15
+        ],
+        [
+          754.68,
+          681.16
+        ],
+        [
+          756.37,
+          690.74
+        ],
+        [
+          773.8,
+          682.49
+        ],
+        [
+          704.61,
+          611.41
+        ],
+        [
+          701.41,
+          600.35
+        ],
+        [
+          694.29,
+          568.66
+        ],
+        [
+          685.84,
+          519.88
+        ],
+        [
+          712.48,
+          515.21
+        ],
+        [
+          711.93,
+          504.14
+        ],
+        [
+          707.98,
+          500.02
+        ],
+        [
+          475.1,
+          544.46
+        ],
+        [
+          308.08,
+          577.86
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          769.49,
+          1078.33
+        ],
+        [
+          777.52,
+          1077.33
+        ],
+        [
+          859.11,
+          995.48
+        ],
+        [
+          711.49,
+          1046.19
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          802.38,
+          1101.68
+        ],
+        [
+          1039.12,
+          1029.37
+        ],
+        [
+          1029.16,
+          936.57
+        ],
+        [
+          917.86,
+          975.4
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          778.48,
+          1105.34
+        ],
+        [
+          779.35,
+          1109.12
+        ],
+        [
+          790.07,
+          1114.98
+        ],
+        [
+          917.86,
+          975.4
+        ],
+        [
+          859.11,
+          995.48
+        ],
+        [
+          777.52,
+          1077.33
+        ],
+        [
+          769.49,
+          1078.33
+        ],
+        [
+          711.49,
+          1046.19
+        ],
+        [
+          691.91,
+          1053.35
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          628.01,
+          1100.69
+        ],
+        [
+          648.05,
+          1133.23
+        ],
+        [
+          666.64,
+          1144.27
+        ],
+        [
+          779.35,
+          1109.12
+        ],
+        [
+          778.48,
+          1105.34
+        ],
+        [
+          691.91,
+          1053.35
+        ],
+        [
+          659.38,
+          1064.09
+        ],
+        [
+          637.01,
+          1023.43
+        ],
+        [
+          589.66,
+          993.22
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          754.73,
+          1233.45
+        ],
+        [
+          812.97,
+          1216.06
+        ],
+        [
+          812.17,
+          1204.08
+        ],
+        [
+          742.78,
+          1229.34
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          532.68,
+          682.09
+        ],
+        [
+          509.3,
+          662.1
+        ],
+        [
+          501.71,
+          657.31
+        ],
+        [
+          501.24,
+          662.33
+        ],
+        [
+          499.59,
+          668.2
+        ],
+        [
+          496.46,
+          670.4
+        ],
+        [
+          489.29,
+          672.37
+        ],
+        [
+          488.94,
+          677.57
+        ],
+        [
+          497.62,
+          685.44
+        ],
+        [
+          512.89,
+          695.39
+        ],
+        [
+          519.68,
+          694.01
+        ],
+        [
+          528.82,
+          687.19
+        ],
+        [
+          537.07,
+          687.18
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          557.92,
+          736.53
+        ],
+        [
+          561.95,
+          743.19
+        ],
+        [
+          569.54,
+          746.75
+        ],
+        [
+          593.39,
+          772.31
+        ],
+        [
+          616.47,
+          760.85
+        ],
+        [
+          596.64,
+          739.47
+        ],
+        [
+          574.03,
+          719.18
+        ],
+        [
+          560.24,
+          709.11
+        ],
+        [
+          545.54,
+          707.17
+        ],
+        [
+          534.34,
+          703.16
+        ],
+        [
+          521.34,
+          702.76
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          537.53,
+          654.69
+        ],
+        [
+          607.15,
+          681.44
+        ],
+        [
+          686.02,
+          726.41
+        ],
+        [
+          689.81,
+          723.19
+        ],
+        [
+          694.28,
+          724.17
+        ],
+        [
+          700.46,
+          718.28
+        ],
+        [
+          620.19,
+          675.56
+        ],
+        [
+          557.28,
+          649.78
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          964.21,
+          1106.73
+        ],
+        [
+          985.12,
+          1140.18
+        ],
+        [
+          1006.34,
+          1132.75
+        ],
+        [
+          1008.35,
+          1128.41
+        ],
+        [
+          1037.63,
+          1111.37
+        ],
+        [
+          1042.74,
+          1112.46
+        ],
+        [
+          1049.86,
+          1118.19
+        ],
+        [
+          1053.43,
+          1116.95
+        ],
+        [
+          1045.53,
+          1092.17
+        ],
+        [
+          1039.64,
+          1091.24
+        ],
+        [
+          1034.99,
+          1085.5
+        ],
+        [
+          1035.3,
+          1080.24
+        ],
+        [
+          1040.17,
+          1075.16
+        ],
+        [
+          962.71,
+          1099.46
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          769.66,
+          1161.31
+        ],
+        [
+          762.24,
+          1169.3
+        ],
+        [
+          757.45,
+          1164.18
+        ],
+        [
+          723.77,
+          1175.13
+        ],
+        [
+          695.79,
+          1209.4
+        ],
+        [
+          742.78,
+          1229.34
+        ],
+        [
+          812.17,
+          1204.08
+        ],
+        [
+          810.79,
+          1182.7
+        ],
+        [
+          812.17,
+          1154.94
+        ],
+        [
+          854.09,
+          1140.23
+        ],
+        [
+          918.66,
+          1113.78
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          683.07,
+          1204.85
+        ],
+        [
+          695.79,
+          1209.4
+        ],
+        [
+          723.77,
+          1175.13
+        ],
+        [
+          702.21,
+          1182.09
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          424.73,
+          679.89
+        ],
+        [
+          455.27,
+          685.72
+        ],
+        [
+          470.54,
+          687.94
+        ],
+        [
+          450.27,
+          734.58
+        ],
+        [
+          458.04,
+          740.13
+        ],
+        [
+          467.76,
+          739.85
+        ],
+        [
+          485.25,
+          686.27
+        ],
+        [
+          479.97,
+          678.22
+        ],
+        [
+          472.76,
+          677.67
+        ],
+        [
+          448.0,
+          672.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          448.25,
+          707.45
+        ],
+        [
+          433.13,
+          709.05
+        ],
+        [
+          433.13,
+          716.95
+        ],
+        [
+          436.08,
+          720.83
+        ],
+        [
+          458.03,
+          716.15
+        ],
+        [
+          463.39,
+          704.1
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "text": "",
+      "mask": null,
+      "label": "27.Scaffold base plate",
+      "score": null,
+      "points": [
+        [
+          659.1,
+          1196.11
+        ],
+        [
+          683.07,
+          1204.85
+        ],
+        [
+          702.21,
+          1182.09
+        ],
+        [
+          681.66,
+          1188.84
+        ],
+        [
+          648.05,
+          1133.23
+        ],
+        [
+          628.01,
+          1100.69
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "1753329815.jpg",
+  "imageData": null,
+  "imageWidth": 1275,
+  "imageHeight": 1467,
+  "text": "",
+  "description": ""
+}

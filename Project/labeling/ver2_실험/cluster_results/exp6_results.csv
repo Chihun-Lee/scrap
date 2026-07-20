@@ -1,0 +1,4 @@
+variant,model,imgsz,epochs,box_map50,mask_map50,mask_map5095,mask_map50_commonval,peak_vram_gb,run,ap50_rebar,ap50_square_pipe,ap50_mesh,ap50_small_pipe,ap50_pipe
+cut10_w2,yolo26x-seg.pt,1280,100,0.7681,0.7179,0.436,0.4777,49.4,exp6_cut10_w2_yolo26x-seg_e100,0.0815,0.3287,0.5481,0.0812,0.4994
+cut10_noexc,yolo26x-seg.pt,1280,100,0.7901,0.7457,0.4532,0.4801,49.4,exp6_cut10_noexc_yolo26x-seg_e100,0.0634,0.3286,0.536,0.0623,0.4891
+cut10,yolo26x-seg.pt,1280,100,0.7567,0.7043,0.4272,0.4766,0.0,reuse:runs/exp2_cut10_yolo26x-seg_e100/weights/best.pt,0.1055,0.3269,0.5461,0.0846,0.4811

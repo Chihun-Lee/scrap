@@ -1,0 +1,6 @@
+variant,model,imgsz,epochs,box_map50,box_map5095,mask_map50,mask_map5095,mask_map50_commonval,box_map50_commonval,infer_ms,peak_vram_gb,run
+cut8,yolo26x-seg.pt,1280,100,0.7039,0.5226,0.6454,0.3817,0.4857,0.5245,180.43,49.4,exp2_cut8_yolo26x-seg_e100
+cut12,yolo26x-seg.pt,1280,100,0.7751,0.5895,0.7259,0.4516,0.451,0.4803,357.45,49.4,exp2_cut12_yolo26x-seg_e100
+cut10,yolo26x-seg.pt,1280,100,0.7567,0.5679,0.7043,0.4272,0.4766,0.5077,187.18,49.4,exp2_cut10_yolo26x-seg_e100
+cut16,yolo26x-seg.pt,1280,100,0.7966,0.6106,0.744,0.4701,0.4301,0.4585,445.76,49.4,exp2_cut16_yolo26x-seg_e100
+base,yolo26x-seg.pt,1280,100,0.5413,0.3957,0.4872,0.294,0.4872,0.5413,78.41,49.3,exp2_base_yolo26x-seg_e100

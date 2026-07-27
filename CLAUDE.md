@@ -2,6 +2,16 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## ⚠ 폴더 구조 재정리 (2026-07-26)
+
+최상위가 목적별 그룹으로 바뀜 — 매핑은 `폴더구조_20260726.md` 참조.
+`Project/`·`data/`·`references/`는 실행 경로(launchd·스크립트)가 걸려 있어 **이동 금지**.
+아래 본문에 나오는 옛 경로는 이렇게 읽을 것: `datasets.zip`→`데이터_아카이브/`, 메일 자료→`협력_메일/`,
+행정 자료→`행정_문서/`, PPT·보고서→`산출물_보고/`.
+⚠ **데이터 분할 주의(2026-07-26 발견)**: `data/datasets/val_data` 419장은 `train_data` 2,096장의
+바이트 동일 복사본 — 기존 val 평가는 학습셋 위 측정임. 새 실험은 `../GT무필터정확도/`의
+그룹 분할(clean) 데이터셋을 쓸 것.
+
 ## Project Overview
 
 Steel scrap panoptic segmentation project — classifies steel scrap types and individual objects in truck cargo images using YOLO11 instance segmentation, then evaluates with Panoptic Quality (PQ) metrics. Based on the paper "Steel Scrap Segmentation via Panoptic Segmentation Approach" (Transactions of Materials Processing, Vol.34 No.6, 2025).

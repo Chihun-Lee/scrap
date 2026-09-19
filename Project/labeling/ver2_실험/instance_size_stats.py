@@ -18,8 +18,8 @@ import math
 import os
 from collections import defaultdict
 
-BASE = "/Users/chihun/Code/철스크랩/scrap/data/datasets"
-OUT_DIR = "/Users/chihun/Code/철스크랩/scrap/Project/labeling/ver2_실험"
+BASE = "/Users/chihun/Code/철스크랩/3_연구/1_라벨링기준연구_scrap/data/datasets"
+OUT_DIR = "/Users/chihun/Code/철스크랩/3_연구/1_라벨링기준연구_scrap/Project/labeling/ver2_실험"
 SPLITS = {
     "train": os.path.join(BASE, "train_remapped"),
     "val": os.path.join(BASE, "val_remapped"),

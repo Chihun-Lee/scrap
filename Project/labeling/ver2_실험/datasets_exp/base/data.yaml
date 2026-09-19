@@ -1,4 +1,4 @@
-path: /Users/chihun/Code/철스크랩/scrap/Project/labeling/ver2_실험/datasets_exp/base
+path: /Users/chihun/Code/철스크랩/3_연구/1_라벨링기준연구_scrap/Project/labeling/ver2_실험/datasets_exp/base
 train: images/train
 val: images/val
 nc: 19

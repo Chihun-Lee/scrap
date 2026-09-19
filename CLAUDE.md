@@ -2,15 +2,13 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## ⚠ 폴더 구조 재정리 (2026-07-26)
+## 폴더 안내 (2026-09-19)
 
-최상위가 목적별 그룹으로 바뀜 — 매핑은 `폴더구조_20260726.md` 참조.
-`Project/`·`data/`·`references/`는 실행 경로(launchd·스크립트)가 걸려 있어 **이동 금지**.
-아래 본문에 나오는 옛 경로는 이렇게 읽을 것: `datasets.zip`→`데이터_아카이브/`, 메일 자료→`협력_메일/`,
-행정 자료→`행정_문서/`, PPT·보고서→`산출물_보고/`.
-⚠ **데이터 분할 주의(2026-07-26 발견)**: `data/datasets/val_data` 419장은 `train_data` 2,096장의
-바이트 동일 복사본 — 기존 val 평가는 학습셋 위 측정임. 새 실험은 `../GT무필터정확도/`의
-그룹 분할(clean) 데이터셋을 쓸 것.
+이 저장소는 `철스크랩/3_연구/1_라벨링기준연구_scrap/`에 있다. 전체 지도는 `철스크랩/README.md`.
+- `Project/` · `references/`는 실행 경로(launchd · 스크립트)가 걸려 있어 옮기지 않는다
+- `data` → `../../2_데이터/1_받은데이터/20251209_NAS_작년데이터`(심링크). 아래 본문의 `datasets.zip`은 이미 그 폴더에 풀려 있다
+- 메일은 `철스크랩/4_메일_itivai/`, 행정은 `1_행정/`, PPT · 보고서는 `5_보고자료/`
+- ⚠ `data/datasets/val_data` 419장은 `train_data` 2,096장을 복사한 것이다. 새 실험은 `../2_GT무필터정확도/`의 `clean` 세트를 쓴다. 점수는 박스 기준(box mAP50)으로 적는다
 
 ## Project Overview
 
@@ -74,21 +72,9 @@ Code is written on MacBook and synced to GPU cluster via `sync-to-cluster.sh`. T
 - **집 와이파이** (클러스터 접속 불가): 맥북 로컬 실행 (`device = "mps"`, M4 Pro 48GB)
 - **Anaconda 사용 금지** — miniforge(conda-forge)만 사용
 
-## 알림 시스템 (cluster-notify)
+## 알림
 
-학습 완료/오류/결정 필요 시 Telegram 알림 전송:
-```python
-import sys, os
-sys.path.insert(0, os.path.expanduser("~/Code/클러스터/cluster-notify"))
-from notify import training_complete, error, decision_needed, wait_for_decision
-
-# 학습 스크립트 끝에 추가
-try:
-    # ... 학습 코드 ...
-    training_complete("scrap", "YOLO11 학습 완료", f"mAP: {map50:.4f}, epochs: {epoch}")
-except Exception as e:
-    error("scrap", f"학습 오류: {e}")
-```
+학습 스크립트는 알림을 직접 보내지 않는다. 끝나면 결과 CSV와 `.done` 파일만 남기고, 확인은 그 파일로 한다(`from notify import …`는 쓰지 않는다).
 
 ## Target Metrics (Paper Baseline)
 - Count Accuracy: 80.2%

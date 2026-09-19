@@ -1,7 +1,7 @@
 #!/bin/bash
 # 클러스터 학습 결과 자동 회수 (맥북 launchd, 30분 주기) — 2026-07-15
 # 오프라인이면 조용히 종료, 연결되면 결과만 증분 rsync. 중지: launchctl unload ~/Library/LaunchAgents/com.chihun.scrap-pull-results.plist
-LOCAL="/Users/chihun/Code/철스크랩/scrap/Project/labeling/ver2_실험"
+LOCAL="/Users/chihun/Code/철스크랩/3_연구/1_라벨링기준연구_scrap/Project/labeling/ver2_실험"
 DEST="$LOCAL/cluster_results"
 REMOTE="chihun@134.75.147.179"
 LOG="$LOCAL/pull_results.log"

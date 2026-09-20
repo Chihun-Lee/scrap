@@ -41,7 +41,7 @@ python exp2_train_sweep.py --model yolo11s-seg.pt --cuts 8 --epochs 5
 # 본 실험 (조건당 yolo26x@1280 100ep — 조건당 대략 하루 예상, 총 5조건)
 nohup python exp2_train_sweep.py --epochs 100 > exp2.log 2>&1 &
 ```
-판독: mask mAP50이 최고이면서 세장형 클래스(rebar/small pipe/pipe) AP가 유지되는 컷 채택.
+판독: 공통 val box mAP30(박스 IoU 0.3)이 최고이면서 세장형 클래스(rebar/small pipe/pipe) AP가 유지되는 컷 채택.
 
 ### 2b) 세장형 예외 정책 ablation — `exp6_exception_ablation.py` (ITIV 7/14 확인요청 대응, exp2와 함께 7/24 공유)
 컷오프 10px 고정, 예외 정책 3종 비교: `cut10_noexc`(예외 없음) / `cut10`(긴변≥24px, 현행) / `cut10_w2`(+shoelace 두께≥2px@1280=원본 6px, exp5 정책 C2).

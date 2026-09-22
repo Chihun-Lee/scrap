@@ -4,10 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 폴더 안내 (2026-09-19)
 
-이 저장소는 `철스크랩/3_연구/1_라벨링기준연구_scrap/`에 있다. 전체 지도는 `철스크랩/README.md`.
+이 저장소는 `철스크랩/2_코드/라벨링기준연구/`에 있다. 전체 지도는 `철스크랩/README.md`.
 - `Project/` · `references/`는 실행 경로(launchd · 스크립트)가 걸려 있어 옮기지 않는다
-- `data` → `../../2_데이터/1_받은데이터/20251209_NAS_작년데이터`(심링크). 아래 본문의 `datasets.zip`은 이미 그 폴더에 풀려 있다
-- 메일은 `철스크랩/4_메일_itivai/`, 행정은 `1_행정/`, PPT · 보고서는 `5_보고자료/`
+- `data` → `../../1_데이터/원본데이터/20251209_NAS_작년데이터`(심링크). 아래 본문의 `datasets.zip`은 이미 그 폴더에 풀려 있다
+- 메일은 `철스크랩/4_문서/3_메일_itivai/`, 행정은 `4_문서/4_행정/`, PPT · 보고서는 `4_문서/2_발표자료/`
 - ⚠ `data/datasets/val_data` 419장은 `train_data` 2,096장을 복사한 것이다. 새 실험은 `../2_GT무필터정확도/`의 `clean` 세트를 쓴다. 점수는 박스 기준(box mAP50)으로 적는다
 
 ## Project Overview
